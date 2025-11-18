@@ -1,1 +1,21 @@
-{"facts":{"rating":4,"build":"1875","abandoned":"2011","visited":"2017-04-01","demolished":"","reused":"","length":"33,6 km","map":"l127"},"sources":[{"title":"Ligne 127 (Infrabel) Wikipedia [F]","url":"https://fr.wikipedia.org/wiki/Ligne_127_(Infrabel)","date":"2025-05-21"}]}
+{
+  "gallerytype": "maps",
+  "hasfacts": true,
+  "facts": {
+    "rating": 4,
+    "build": "1875",
+    "abandoned": "2011",
+    "visited": "2017-04-01",
+    "demolished": "",
+    "reused": "",
+    "length": "33,6 km",
+    "map": "l127"
+  },
+  "sources": [
+    {
+      "title": "Ligne 127 (Infrabel) Wikipedia [F]",
+      "url": "https://fr.wikipedia.org/wiki/Ligne_127_(Infrabel)",
+      "date": "2025-05-21"
+    }
+  ]
+}

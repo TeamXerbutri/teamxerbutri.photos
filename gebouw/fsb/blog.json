@@ -1,1 +1,19 @@
-{"facts":{"rating":2,"build":"1866","abandoned":"1999","visited":"2019-08-05","demolished":"","reused":""},"sources":[{"title":"Remonter les temps","url":"https://remonterletemps.ign.fr/","date":"2025-07-02"}]}
+{
+  "gallerytype": "images",
+  "hasfacts": true,
+  "facts": {
+    "rating": 2,
+    "build": "1866",
+    "abandoned": "1999",
+    "visited": "2019-08-05",
+    "demolished": "",
+    "reused": ""
+  },
+  "sources": [
+    {
+      "title": "Remonter les temps",
+      "url": "https://remonterletemps.ign.fr/",
+      "date": "2025-07-02"
+    }
+  ]
+}

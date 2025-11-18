@@ -1,1 +1,3917 @@
-[{"route":"zmn2","cardname":"RAF Hospital W II","progress":0,"comment":"Heeft 166 fotos. Dat is veel te veel.","category":"gebouw","language":"nl","priority":"High"},{"route":"l55a","cardname":"No Title!","progress":0,"comment":"Newly added blog","category":"spoor","language":"nl","priority":"High"},{"route":"dknn","cardname":"No Title!","progress":0,"comment":"Newly added blog","category":"spoor","language":"nl","priority":"High"},{"route":"f195","cardname":"No Title!","progress":0,"comment":"Ik wil deze graag afmaken in 2025","category":"spoor","language":"nl","priority":"High"},{"route":"f196","cardname":"No Title!","progress":0,"comment":"De geo json is grof. Ik heb het beter uitgezocht in Google Earth. Een aantal foto\u0027s heb ik al, maar niet veel.","category":"spoor","language":"nl","priority":"High"},{"route":"f203","cardname":"No Title!","progress":0,"comment":"Ik heb al veel foto\u0027s van deze lijn, maar mis er ook een paar","category":"spoor","language":"nl","priority":"High"},{"route":"f220a","cardname":"No Title!","progress":0,"comment":"Veel foto\u0027s uit 2010, misschien mis ik er nog?","category":"spoor","language":"nl","priority":"High"},{"route":"vpdh","cardname":"No Title!","progress":0,"comment":"Newly added blog","category":"gebouw","language":"nl","priority":"High"},{"route":"fsb","cardname":"No Title!","progress":0,"comment":"Newly added blog","category":"gebouw","language":"nl","priority":"High"},{"route":"vdfd","cardname":"No Title!","progress":0,"comment":"Newly added blog","category":"gebouw","language":"nl","priority":"High"},{"route":"mcm","cardname":"No Title!","progress":0,"comment":"Newly added blog","category":"gebouw","language":"nl","priority":"High"},{"route":"mfft","cardname":"No Title!","progress":0,"comment":"Newly added blog","category":"gebouw","language":"nl","priority":"High"},{"route":"f88a","cardname":"No Title!","progress":0,"comment":"Klaar.","category":"spoor","language":"nl","priority":"High"},{"route":"l49","cardname":"Lijn 49 Eupen","progress":0,"comment":"Ik heb hier een paar foto\u0027s van, maar de lijn is niet ver van huis, misschien kan ik er ooit een keer lang fietsen.","category":"spoor","language":"nl","priority":"Low"},{"route":"l127","cardname":"L127 Hesbaye","progress":0,"comment":"five importGraag de map aanmaken\\nfive importGraag de map aanmaken\\n","category":"spoor","language":"nl","priority":"Low"},{"route":"nlhml","cardname":"Haarlemmermeerlijnen","progress":0,"comment":"Ik heb hier in 2016 een twintigtal foto\u0027s van gemaakt. Het meeste van de lijnen is verdwenen, maar deze 20 geven een leuk beeld. Maar niet helemaal passend in de rest van de site misschien?","category":"spoor","language":"nl","priority":"Low"},{"route":"txdyw","cardname":"Urban Exploren!","progress":0,"comment":"five importGraag de map aanmaken\\nfive importGraag de map aanmaken\\n","category":"xerbutri","language":"nl","priority":"Low"},{"route":"spw","cardname":"Sportpark Waldeck","progress":0,"comment":"five importGraag de map aanmaken\\nfive importGraag de map aanmaken\\n","category":"gebouw","language":"nl","priority":"Low"},{"route":"txase","cardname":"No Title!","progress":0,"comment":"","category":"xerbutri","language":"en","priority":"Low"},{"route":"txase","cardname":"No Title!","progress":0,"comment":"","category":"xerbutri","language":"fr","priority":"Low"},{"route":"klgh","cardname":"No Title!","progress":0,"comment":"Newly added blog","category":"gebouw","language":"nl","priority":"Low"},{"route":"rufa","cardname":"No Title!","progress":0,"comment":"Ru\u00EFne Falkenstein","category":"gebouw","language":"nl","priority":"Low"},{"route":"ruvw","cardname":"No Title!","progress":0,"comment":"Ru\u00EFne oud-windstein","category":"gebouw","language":"nl","priority":"Low"},{"route":"l38a","cardname":"Lijn 38A Xhawirs","progress":0,"comment":"Nakijken, coordinaten invullen","category":"spoor","language":"nl","priority":"Maybe"},{"route":"xueza","cardname":"Wat uit 2004","progress":0,"comment":"five importGraag de map aanmaken\\nfive importGraag de map aanmaken\\n","category":"xerbutri","language":"nl","priority":"Maybe"},{"route":"xuezb","cardname":"Wat uit 2006","progress":0,"comment":"five importGraag de map aanmaken\\nfive importGraag de map aanmaken\\n","category":"xerbutri","language":"nl","priority":"Maybe"},{"route":"xuezc","cardname":"Wat uit 2007","progress":0,"comment":"five importGraag de map aanmaken\\nfive importGraag de map aanmaken\\n","category":"xerbutri","language":"nl","priority":"Maybe"},{"route":"xuezd","cardname":"Wat uit 2009","progress":0,"comment":"five importGraag de map aanmaken\\nfive importGraag de map aanmaken\\n","category":"xerbutri","language":"nl","priority":"Maybe"},{"route":"xjc","cardname":"Gaafste kampeerplekken","progress":0,"comment":"five importGraag de map aanmaken\\nfive importGraag de map aanmaken\\n","category":"xerbutri","language":"nl","priority":"Maybe"},{"route":"xueze","cardname":"Wat mergel","progress":0,"comment":"five importGraag de map aanmaken\\nfive importGraag de map aanmaken\\n","category":"xerbutri","language":"nl","priority":"Maybe"},{"route":"xre","cardname":"Railtracking","progress":0,"comment":"five importGraag de map aanmaken\\nfive importGraag de map aanmaken\\n","category":"xerbutri","language":"nl","priority":"Maybe"},{"route":"oszhe","cardname":"School Zon en Hei","progress":0,"comment":"five importGraag de map aanmaken\\nfive importGraag de map aanmaken\\n","category":"gebouw","language":"nl","priority":"Maybe"},{"route":"d3002","cardname":"Ahr-Eifelbaan","progress":0,"comment":"five importGraag de map aanmaken\\nfive importGraag de map aanmaken\\n","category":"spoor","language":"nl","priority":"Maybe"},{"route":"lpetr","cardname":"De petrol","progress":0,"comment":"TXW map te verwerken 2013 Railtracking Petrol","category":"spoor","language":"nl","priority":"Maybe"},{"route":"htwe","cardname":"Twello","progress":0,"comment":"TXW map te verwerken 2013 Twello","category":"gebouw","language":"nl","priority":"Maybe"},{"route":"mdf8","cardname":"Fort 8","progress":0,"comment":"five importGraag de map aanmaken\\nfive importGraag de map aanmaken\\n","category":"gebouw","language":"nl","priority":"Maybe"},{"route":"l47a","cardname":"L47A","progress":0,"comment":"five importGraag de map aanmaken\\nfive importGraag de map aanmaken\\n","category":"spoor","language":"nl","priority":"Maybe"},{"route":"txsk","cardname":"Duitse Steenkolen","progress":0,"comment":"five importGraag de map aanmaken\\nfive importGraag de map aanmaken\\n","category":"xerbutri","language":"nl","priority":"Maybe"},{"route":"vdt","cardname":"Viaduc de la Tardes","progress":0,"comment":"version four import \u002B Kijk artikel artikel na","category":"brug","language":"en","priority":"Maybe"},{"route":"badt","cardname":"Viaduc d\u0027Audin","progress":0,"comment":"Import \u002B Kijk artikel artikel na","category":"brug","language":"en","priority":"Maybe"},{"route":"mtb","cardname":"M\u00FCngstener bridge","progress":0,"comment":"Import \u002B Kijk artikel artikel na","category":"brug","language":"en","priority":"Maybe"},{"route":"lb","cardname":"Langstraat bridges","progress":0,"comment":"Import","category":"brug","language":"en","priority":"Maybe"},{"route":"bma","cardname":"Maasbridge Maastricht","progress":0,"comment":"Import \u002B Kijk artikel artikel na","category":"brug","language":"en","priority":"Maybe"},{"route":"bla","cardname":"Vierendeelbridge Lanaken","progress":0,"comment":"Import \u002B Kijk artikel artikel na","category":"brug","language":"en","priority":"Maybe"},{"route":"db","cardname":"DEMKA-bridge","progress":0,"comment":"Import \u002B Kijk artikel artikel na","category":"brug","language":"en","priority":"Maybe"},{"route":"ws","cardname":"Werkspoor-bridge","progress":0,"comment":"Import \u002B Kijk artikel artikel na","category":"brug","language":"en","priority":"Maybe"},{"route":"bl","cardname":"Lixhe Bridge","progress":0,"comment":"Import","category":"brug","language":"en","priority":"Maybe"},{"route":"bc","cardname":"Lekbridge Culemborg","progress":0,"comment":"Import \u002B Kijk artikel artikel na","category":"brug","language":"en","priority":"Maybe"},{"route":"bs","cardname":"Bridge of Schalkwijk","progress":0,"comment":"Import \u002B Kijk artikel artikel na","category":"brug","language":"en","priority":"Maybe"},{"route":"tgi","cardname":"Charlemont","progress":0,"comment":"Import \u002B Kijk artikel artikel na","category":"tunnel","language":"en","priority":"Maybe"},{"route":"tr","cardname":"Remersdaal","progress":0,"comment":"Import","category":"tunnel","language":"en","priority":"Maybe"},{"route":"rt","cardname":"Rudersdorf","progress":0,"comment":"Import \u002B Kijk artikel artikel na","category":"tunnel","language":"en","priority":"Maybe"},{"route":"tgc","cardname":"Gendron","progress":0,"comment":"Import \u002B Kijk artikel artikel na","category":"tunnel","language":"en","priority":"Maybe"},{"route":"bg","cardname":"Botzelaer","progress":0,"comment":"Import \u002B Kijk artikel artikel na","category":"tunnel","language":"en","priority":"Maybe"},{"route":"tg","cardname":"Geer","progress":0,"comment":"Import","category":"tunnel","language":"en","priority":"Maybe"},{"route":"hofu","cardname":"Cat Hotel","progress":0,"comment":"Import \u002B Kijk artikel artikel na","category":"gebouw","language":"en","priority":"Maybe"},{"route":"vgmc","cardname":"Goldmine Chatelet","progress":0,"comment":"Import \u002B Kijk artikel artikel na","category":"gebouw","language":"en","priority":"Maybe"},{"route":"skfe","cardname":"CM Lorraine","progress":0,"comment":"Import \u002B Kijk artikel artikel na","category":"gebouw","language":"en","priority":"Maybe"},{"route":"skgr","cardname":"CM Grube Reden","progress":0,"comment":"Import","category":"gebouw","language":"en","priority":"Maybe"},{"route":"zss","cardname":"Saar Sanatorium","progress":0,"comment":"Import \u002B Kijk artikel artikel na","category":"gebouw","language":"en","priority":"Maybe"},{"route":"pmp","cardname":"PM Rodolphe","progress":0,"comment":"Import \u002B Kijk artikel artikel na","category":"gebouw","language":"en","priority":"Maybe"},{"route":"mdfr","cardname":"Fort Vosges","progress":0,"comment":"Import","category":"gebouw","language":"en","priority":"Maybe"},{"route":"hfu","cardname":"Parc \u0027Uckange","progress":0,"comment":"Import","category":"gebouw","language":"en","priority":"Maybe"},{"route":"hfoa","cardname":"Montrouge","progress":0,"comment":"Import","category":"gebouw","language":"en","priority":"Maybe"},{"route":"kti","cardname":"St Josephchurch","progress":0,"comment":"Import \u002B Kijk artikel artikel na","category":"gebouw","language":"en","priority":"Maybe"},{"route":"hlf","cardname":"La Carriere","progress":0,"comment":"Import \u002B Kijk artikel artikel na","category":"gebouw","language":"en","priority":"Maybe"},{"route":"zjh","cardname":"Jugendheim","progress":0,"comment":"Import \u002B Kijk artikel artikel na","category":"gebouw","language":"en","priority":"Maybe"},{"route":"zm","cardname":"H. de Mercy","progress":0,"comment":"Import","category":"gebouw","language":"en","priority":"Maybe"},{"route":"skzv","cardname":"CM Zollverein","progress":0,"comment":"Import","category":"gebouw","language":"en","priority":"Maybe"},{"route":"hbw","cardname":"Druckerei B","progress":0,"comment":"Import","category":"gebouw","language":"en","priority":"Maybe"},{"route":"hgg","cardname":"Glash\u00FCtte","progress":0,"comment":"Import","category":"gebouw","language":"en","priority":"Maybe"},{"route":"hdt","cardname":"DAF tower","progress":0,"comment":"Import","category":"gebouw","language":"en","priority":"Maybe"},{"route":"sksh","cardname":"CM Holdern","progress":0,"comment":"Import","category":"gebouw","language":"en","priority":"Maybe"},{"route":"hfsd2","cardname":"Sinteranlage 2","progress":0,"comment":"Import","category":"gebouw","language":"en","priority":"Maybe"},{"route":"skhc","cardname":"CM Hugo C","progress":0,"comment":"Import","category":"gebouw","language":"en","priority":"Maybe"},{"route":"skof","cardname":"CM Easterfield","progress":0,"comment":"Import","category":"gebouw","language":"en","priority":"Maybe"},{"route":"mdw2","cardname":"MD Wolfsschlucht","progress":0,"comment":"Import \u002B Kijk artikel artikel na","category":"gebouw","language":"en","priority":"Maybe"},{"route":"rgu","cardname":"Stairway to h...","progress":0,"comment":"Import","category":"gebouw","language":"en","priority":"Maybe"},{"route":"hfgp","cardname":"Papet. Godinne","progress":0,"comment":"Import","category":"gebouw","language":"en","priority":"Maybe"},{"route":"hoha","cardname":"Haunted Hotel","progress":0,"comment":"Import \u002B Kijk artikel artikel na","category":"gebouw","language":"en","priority":"Maybe"},{"route":"skeh","cardname":"CM Iron Hammer","progress":0,"comment":"Import","category":"gebouw","language":"en","priority":"Maybe"},{"route":"skef","cardname":"CM Ewald V","progress":0,"comment":"Import","category":"gebouw","language":"en","priority":"Maybe"},{"route":"skkl","cardname":"CM Louis","progress":0,"comment":"Import","category":"gebouw","language":"en","priority":"Maybe"},{"route":"koka","cardname":"Emperorchair","progress":0,"comment":"Import","category":"gebouw","language":"en","priority":"Maybe"},{"route":"skadh","cardname":"CM Fireplace","progress":0,"comment":"Import","category":"gebouw","language":"en","priority":"Maybe"},{"route":"mdvla","cardname":"MD Laarbruch","progress":0,"comment":"Import","category":"gebouw","language":"en","priority":"Maybe"},{"route":"hhom","cardname":"Homburg","progress":0,"comment":"Import","category":"gebouw","language":"en","priority":"Maybe"},{"route":"hfc","cardname":"Sojafactory","progress":0,"comment":"Import","category":"gebouw","language":"en","priority":"Maybe"},{"route":"hfn","cardname":"Neerlandia","progress":0,"comment":"Import","category":"gebouw","language":"en","priority":"Maybe"},{"route":"owvo","cardname":"Willem College","progress":0,"comment":"Import \u002B Kijk artikel artikel na","category":"gebouw","language":"en","priority":"Maybe"},{"route":"mdfh","cardname":"Barracks FH","progress":0,"comment":"Import","category":"gebouw","language":"en","priority":"Maybe"},{"route":"vge","cardname":"Villa G\u0027kirchen","progress":0,"comment":"Import","category":"gebouw","language":"en","priority":"Maybe"},{"route":"lapadu","cardname":"LaPaDu","progress":0,"comment":"Import","category":"gebouw","language":"en","priority":"Maybe"},{"route":"baob","cardname":"Bw Oberhausen","progress":0,"comment":"Import","category":"gebouw","language":"en","priority":"Maybe"},{"route":"pzs","cardname":"Prov. Ziekenhuis","progress":0,"comment":"Import \u002B Kijk artikel artikel na","category":"gebouw","language":"en","priority":"Maybe"},{"route":"hmu","cardname":"De Haan Fabriek","progress":0,"comment":"Import \u002B Kijk artikel artikel na","category":"gebouw","language":"en","priority":"Maybe"},{"route":"afc","cardname":"AF Coevorden","progress":0,"comment":"Import \u002B Kijk artikel artikel na","category":"gebouw","language":"en","priority":"Maybe"},{"route":"hfsd","cardname":"Sinteranlage","progress":0,"comment":"Import","category":"gebouw","language":"en","priority":"Maybe"},{"route":"bwbi","cardname":"No Title!","progress":0,"comment":"Import","category":"gebouw","language":"en","priority":"Maybe"},{"route":"mdaz","cardname":"MD Astrid South","progress":0,"comment":"Import","category":"gebouw","language":"en","priority":"Maybe"},{"route":"klkb","cardname":"Bleijerheide","progress":0,"comment":"Import","category":"gebouw","language":"en","priority":"Maybe"},{"route":"petrol","cardname":"Petroleum Zuid","progress":0,"comment":"Import","category":"gebouw","language":"en","priority":"Maybe"},{"route":"kmsn","cardname":"Castle of Mesen","progress":0,"comment":"Import \u002B Kijk artikel artikel na","category":"gebouw","language":"en","priority":"Maybe"},{"route":"hmi","cardname":"Missil Oil","progress":0,"comment":"Import","category":"gebouw","language":"en","priority":"Maybe"},{"route":"fwa","cardname":"Fort Walem","progress":0,"comment":"Import","category":"gebouw","language":"en","priority":"Maybe"},{"route":"fbhw","cardname":"Stahlwerke","progress":0,"comment":"Import \u002B Kijk artikel artikel na","category":"gebouw","language":"en","priority":"Maybe"},{"route":"olu","cardname":"LuZaC College","progress":0,"comment":"Import","category":"gebouw","language":"en","priority":"Maybe"},{"route":"skwa","cardname":"CM Waterschei","progress":0,"comment":"Import","category":"gebouw","language":"en","priority":"Maybe"},{"route":"hhw","cardname":"Heumans","progress":0,"comment":"Import","category":"gebouw","language":"en","priority":"Maybe"},{"route":"hap","cardname":"A\u0026P Supermarket","progress":0,"comment":"Import","category":"gebouw","language":"en","priority":"Maybe"},{"route":"kmcn","cardname":"Miranda Castle","progress":0,"comment":"Import","category":"gebouw","language":"en","priority":"Maybe"},{"route":"hron","cardname":"NMBS Offices","progress":0,"comment":"Import","category":"gebouw","language":"en","priority":"Maybe"},{"route":"skha","cardname":"Coalmine Hasard","progress":0,"comment":"Import","category":"gebouw","language":"en","priority":"Maybe"},{"route":"skhz","cardname":"Coalmine Zolder","progress":0,"comment":"Import","category":"gebouw","language":"en","priority":"Maybe"},{"route":"skbe","cardname":"Coalmine Beringen","progress":0,"comment":"Import","category":"gebouw","language":"en","priority":"Maybe"},{"route":"rnastr","cardname":"Napoleonstrand","progress":0,"comment":"Import","category":"gebouw","language":"en","priority":"Maybe"},{"route":"hpt","cardname":"Pigeon tower","progress":0,"comment":"Import","category":"gebouw","language":"en","priority":"Maybe"},{"route":"tnh","cardname":"Traction Nord","progress":0,"comment":"Import \u002B Kijk artikel artikel na","category":"gebouw","language":"en","priority":"Maybe"},{"route":"mdvb1","cardname":"MD Vlasberg","progress":0,"comment":"Import","category":"gebouw","language":"en","priority":"Maybe"},{"route":"fkvl","cardname":"Verenigde Leder","progress":0,"comment":"Import","category":"gebouw","language":"en","priority":"Maybe"},{"route":"mdmh","cardname":"MD Molenheide","progress":0,"comment":"Import","category":"gebouw","language":"en","priority":"Maybe"},{"route":"hmb","cardname":"Mercier Bois","progress":0,"comment":"Import","category":"gebouw","language":"en","priority":"Maybe"},{"route":"fcia","cardname":"CIA Liege","progress":0,"comment":"Import \u002B Kijk artikel artikel na","category":"gebouw","language":"en","priority":"Maybe"},{"route":"smo","cardname":"Gare de Montzen","progress":0,"comment":"Import \u002B Kijk artikel artikel na","category":"gebouw","language":"en","priority":"Maybe"},{"route":"mka1","cardname":"MD Landwehr A","progress":0,"comment":"Import","category":"gebouw","language":"en","priority":"Maybe"},{"route":"mka2","cardname":"MD Landwehr B","progress":0,"comment":"Import","category":"gebouw","language":"en","priority":"Maybe"},{"route":"mbw","cardname":"MD Brachterwald","progress":0,"comment":"Import","category":"gebouw","language":"en","priority":"Maybe"},{"route":"l18p1","cardname":"Line 18 Part 1","progress":0,"comment":"Import","category":"spoor","language":"en","priority":"Maybe"},{"route":"l18p2","cardname":"Line 18 Part 2","progress":0,"comment":"Import","category":"spoor","language":"en","priority":"Maybe"},{"route":"l18a","cardname":"Line 18 A","progress":0,"comment":"Import","category":"spoor","language":"en","priority":"Maybe"},{"route":"l20","cardname":"Line 20","progress":0,"comment":"Import","category":"spoor","language":"en","priority":"Maybe"},{"route":"l21a","cardname":"Line 21A","progress":0,"comment":"Import","category":"spoor","language":"en","priority":"Maybe"},{"route":"l21ab","cardname":"Line 21B/A","progress":0,"comment":"Import","category":"spoor","language":"en","priority":"Maybe"},{"route":"l21bb","cardname":"Line 21B","progress":0,"comment":"Import","category":"spoor","language":"en","priority":"Maybe"},{"route":"l24is","cardname":"No Title!","progress":0,"comment":"Import","category":"spoor","language":"en","priority":"Maybe"},{"route":"l31","cardname":"Line 31 Liege","progress":0,"comment":"Import","category":"spoor","language":"en","priority":"Maybe"},{"route":"l126","cardname":"Line 126 Condroz","progress":0,"comment":"Import \u002B Kijk artikel artikel na","category":"spoor","language":"en","priority":"Maybe"},{"route":"l128","cardname":"Line 128 Bocq","progress":0,"comment":"Import","category":"spoor","language":"en","priority":"Maybe"},{"route":"l152","cardname":"Line 150 Lesse","progress":0,"comment":"Import","category":"spoor","language":"en","priority":"Maybe"},{"route":"l163","cardname":"Line 163","progress":0,"comment":"Import, deze is gesplitst in meerdere blogs in de nederlandse versie","category":"spoor","language":"en","priority":"Maybe"},{"route":"dbae","cardname":"No Title!","progress":0,"comment":"Import, formerly MAD","category":"spoor","language":"en","priority":"Maybe"},{"route":"nl225b","cardname":"No Title!","progress":0,"comment":"Import","category":"spoor","language":"en","priority":"Maybe"},{"route":"nl605","cardname":"No Title!","progress":0,"comment":"Import","category":"spoor","language":"en","priority":"Maybe"},{"route":"nl181","cardname":"No Title!","progress":0,"comment":"Import","category":"spoor","language":"en","priority":"Maybe"},{"route":"l18p3","cardname":"Line 18 Part 3","progress":0,"comment":"Import","category":"spoor","language":"en","priority":"Maybe"},{"route":"nl271","cardname":"No Title!","progress":0,"comment":"Import","category":"spoor","language":"en","priority":"Maybe"},{"route":"nl201","cardname":"No Title!","progress":0,"comment":"Import","category":"spoor","language":"en","priority":"Maybe"},{"route":"nl204","cardname":"No Title!","progress":0,"comment":"Import","category":"spoor","language":"en","priority":"Maybe"},{"route":"nl207","cardname":"No Title!","progress":0,"comment":"Import","category":"spoor","language":"en","priority":"Maybe"},{"route":"badt","cardname":"TBD","progress":0,"comment":"Import \u002B Kijk artikel artikel na","category":"brug","language":"fr","priority":"Maybe"},{"route":"l52","cardname":"TBD","progress":0,"comment":"Import","category":"spoor","language":"en","priority":"Maybe"},{"route":"d2610","cardname":"No Title!","progress":0,"comment":"Import v4 no captions","category":"spoor","language":"en","priority":"Maybe"},{"route":"dbba","cardname":"Stolberg BME-Atsch","progress":0,"comment":"Is al behandeld onder DB2544","category":"spoor","language":"nl","priority":"Never"},{"route":"tx4","cardname":"Team Xerbutri versie 4","progress":0,"comment":"Versie 4 gaat offline","category":"xerbutri","language":"nl","priority":"Never"},{"route":"vdt","cardname":"Viaduc de la Tardes","progress":0,"comment":"Published successfully on 09/09/2024 12:51:26","category":"brug","language":"nl","priority":"Online"},{"route":"vdf","cardname":"Viaduc des Fades","progress":0,"comment":"Published successfully on 09/09/2024 12:51:26","category":"brug","language":"nl","priority":"Online"},{"route":"badt","cardname":"Viaduc d\u0027Audun","progress":0,"comment":"Published successfully on 09/09/2024 12:51:26","category":"brug","language":"nl","priority":"Online"},{"route":"mtb","cardname":"M\u00FCngstener brug","progress":0,"comment":"Published successfully on 09/09/2024 12:51:26","category":"brug","language":"nl","priority":"Online"},{"route":"lb","cardname":"Langstraat bruggen","progress":0,"comment":"Import versie 4. Foto\u0027s uitgezocht, compleet en klaar om te bewerken. Published successfully on 09/09/2024 12:51:26 ","category":"brug","language":"nl","priority":"Online"},{"route":"bma","cardname":"Maasbrug Maastricht","progress":0,"comment":"Published successfully on 09/09/2024 12:51:26","category":"brug","language":"nl","priority":"Online"},{"route":"bla","cardname":"Brug bij Lanaken","progress":0,"comment":"Published successfully on 09/09/2024 12:51:26","category":"brug","language":"nl","priority":"Online"},{"route":"db","cardname":"DEMKA-brug","progress":0,"comment":"Published successfully on 09/09/2024 12:51:26","category":"brug","language":"nl","priority":"Online"},{"route":"ws","cardname":"Werkspoor-brug","progress":0,"comment":"Published successfully on 09/09/2024 12:51:26","category":"brug","language":"nl","priority":"Online"},{"route":"bl","cardname":"Brug bij Lixhe","progress":0,"comment":"Import versie 4. Alle foto\u0027s compleet en klaar om te bewerken. Published successfully on 09/09/2024 12:51:26","category":"brug","language":"nl","priority":"Online"},{"route":"bc","cardname":"Kuilenburgse brug","progress":0,"comment":"Published successfully on 09/09/2024 12:51:26","category":"brug","language":"nl","priority":"Online"},{"route":"bs","cardname":"Schalkwijkse brug","progress":0,"comment":"Published successfully on 09/09/2024 12:51:26","category":"brug","language":"nl","priority":"Online"},{"route":"tgi","cardname":"Charlemont","progress":0,"comment":"Published successfully on 09/09/2024 12:51:26","category":"tunnel","language":"nl","priority":"Online"},{"route":"tr","cardname":"Remersdaal","progress":0,"comment":"Nieuwe foto\u0027s uitgezocht en bewerkt, staan op Cloudinary. Published successfully on 09/09/2024 12:51:26","category":"tunnel","language":"nl","priority":"Online"},{"route":"rt","cardname":"Rudersdorf","progress":0,"comment":"Published successfully on 09/09/2024 12:51:26","category":"tunnel","language":"nl","priority":"Online"},{"route":"tgc","cardname":"Gendron","progress":0,"comment":"Published successfully on 09/09/2024 12:51:26","category":"tunnel","language":"nl","priority":"Online"},{"route":"bg","cardname":"Botzelaer","progress":0,"comment":"Published successfully on 09/09/2024 12:51:26","category":"tunnel","language":"nl","priority":"Online"},{"route":"tg","cardname":"Jeker","progress":0,"comment":"Import versie 4. Nieuwe foto\u0027s uitgezocht en bewerkt, staan op Cloudinary. Published successfully on 09/09/2024 12:51:26","category":"tunnel","language":"nl","priority":"Online"},{"route":"tv","cardname":"Veurs","progress":0,"comment":"Published successfully on 09/09/2024 12:51:26","category":"tunnel","language":"nl","priority":"Online"},{"route":"hofu","cardname":"Stella Canaris","progress":0,"comment":"Published successfully on 09/09/2024 12:51:26","category":"gebouw","language":"nl","priority":"Online"},{"route":"vgmc","cardname":"Goudmijn Ch\u00E2telet","progress":0,"comment":"Published successfully on 09/09/2024 12:51:26","category":"gebouw","language":"nl","priority":"Online"},{"route":"skfe","cardname":"Koolmijn Lorraine","progress":0,"comment":"Published successfully on 09/09/2024 12:51:26","category":"gebouw","language":"nl","priority":"Online"},{"route":"skgr","cardname":"Mijn Grube Reden","progress":0,"comment":"Maak het artikel af: Supergave slaapplek naar mijn CdF, waar we zijn weggestuurd, daarna waren we al op locatie om 4 uur? waren we zoekend? Gegeten, we zijn terug naar locatie gegaan. Kan me niks herinneren. Vertel dat F niet verder omhoog wilde, U wel, en F heeft afgeleid ? In de avond probleem met vinden slaapplek -\u003E doorgereden naar volgende locatie, daar vlak in de buurt geslapen.Published successfully on 09/09/2024 12:51:26","category":"gebouw","language":"nl","priority":"Online"},{"route":"zss","cardname":"Sanatorium Saar","progress":0,"comment":"Published successfully on 09/09/2024 12:51:26","category":"gebouw","language":"nl","priority":"Online"},{"route":"pmp","cardname":"Kaliummijn Rodolphe","progress":0,"comment":"Published successfully on 09/09/2024 12:51:26","category":"gebouw","language":"nl","priority":"Online"},{"route":"mdfr","cardname":"Fort Vosges","progress":0,"comment":"Published successfully on 09/09/2024 12:51:26","category":"gebouw","language":"nl","priority":"Online"},{"route":"hfu","cardname":"Parc dUckange","progress":0,"comment":"Published successfully on 09/09/2024 12:51:26","category":"gebouw","language":"nl","priority":"Online"},{"route":"hfoa","cardname":"Atelier Montrouge","progress":0,"comment":"Published successfully on 09/09/2024 12:51:26","category":"gebouw","language":"nl","priority":"Online"},{"route":"mdfg","cardname":"Fort de Meuse","progress":0,"comment":"Published successfully on 09/09/2024 12:51:26","category":"gebouw","language":"nl","priority":"Online"},{"route":"kti","cardname":"Sint Josephkerk","progress":0,"comment":"Published successfully on 09/09/2024 12:51:26","category":"gebouw","language":"nl","priority":"Online"},{"route":"hlf","cardname":"Groeve Madame","progress":0,"comment":"Published successfully on 09/09/2024 12:51:26","category":"gebouw","language":"nl","priority":"Online"},{"route":"zjh","cardname":"Kent school","progress":0,"comment":"Published successfully on 09/09/2024 12:51:26","category":"gebouw","language":"nl","priority":"Online"},{"route":"zm","cardname":"Hospital de Mercy","progress":0,"comment":"Fotos en artikel bijwerken, zm later ge\u00EFmporteerd. Locatie toevoegen en iets van geschiedenisPublished successfully on 10/09/2024 14:21:34","category":"gebouw","language":"nl","priority":"Online"},{"route":"skzv","cardname":"Zollverein","progress":0,"comment":"Import versie 4. Oude fotos zijn automatisch omgezet.Published successfully on 09/09/2024 12:51:26","category":"gebouw","language":"nl","priority":"Online"},{"route":"hbw","cardname":"Druckerei B","progress":0,"comment":"Import versie 4. Oude fotos zijn automatisch omgezet. Kan gepubliceerd. Coordinaten locatie toevoegen. Historie opzoekenPublished successfully on 10/09/2024 14:21:35","category":"gebouw","language":"nl","priority":"Online"},{"route":"hgg","cardname":"Glash\u00FCtte","progress":0,"comment":"Import versie 4, foto\u0027s automatisch omgezet.Published successfully on 09/09/2024 12:26:25Published successfully on 09/09/2024 12:43:59Published successfully on 09/09/2024 12:51:25","category":"gebouw","language":"nl","priority":"Online"},{"route":"hdt","cardname":"DAF toren","progress":0,"comment":"Automatische import uit versie 4. In die vorm publish-klaar.Published successfully on 09/09/2024 12:51:26","category":"gebouw","language":"nl","priority":"Online"},{"route":"sksh","cardname":"Koolmijn Holdern","progress":0,"comment":"Automatische import uit versie 4. In die vorm publish-klaar.Published successfully on 09/09/2024 12:51:26","category":"gebouw","language":"nl","priority":"Online"},{"route":"hfsd2","cardname":"Sinteranlage 2","progress":0,"comment":"Automatische import uit versie 4. In die vorm publish-klaar.Published successfully on 09/09/2024 12:51:26","category":"gebouw","language":"nl","priority":"Online"},{"route":"skhc","cardname":"Koolmijn Hugo C","progress":0,"comment":"Automatische import uit versie 4. In die vorm publish-klaar.Published successfully on 09/09/2024 12:51:26","category":"gebouw","language":"nl","priority":"Online"},{"route":"skof","cardname":"Mijn Oosterveld","progress":0,"comment":"Automatische import uit versie 4. In die vorm publish-klaar.Published successfully on 09/09/2024 12:26:25Published successfully on 09/09/2024 12:43:59Published successfully on 09/09/2024 12:51:25","category":"gebouw","language":"nl","priority":"Online"},{"route":"mdw2","cardname":"Wolvenkloof Hitler","progress":0,"comment":"Published successfully on 09/09/2024 12:51:26","category":"gebouw","language":"nl","priority":"Online"},{"route":"rgu","cardname":"Stairway to h...","progress":0,"comment":"Automatische import uit versie 4. In die vorm publish-klaar.Published successfully on 09/09/2024 12:26:25Published successfully on 09/09/2024 12:43:59Published successfully on 09/09/2024 12:51:25","category":"gebouw","language":"nl","priority":"Online"},{"route":"hfgp","cardname":"Papet. Godinne","progress":0,"comment":"Automatische import uit versie 4. In die vorm publish-klaar. Published successfully on 18/04/2025 16:23:27","category":"gebouw","language":"nl","priority":"Online"},{"route":"hoha","cardname":"Villa Petite Terre","progress":0,"comment":"Published successfully on 09/09/2024 12:51:26","category":"gebouw","language":"nl","priority":"Online"},{"route":"skeh","cardname":"Mijn IJzeren Moker","progress":0,"comment":"Automatische import uit versie 4. In die vorm publish-klaar.Published successfully on 09/09/2024 12:26:25Published successfully on 09/09/2024 12:43:59Published successfully on 09/09/2024 12:51:25","category":"gebouw","language":"nl","priority":"Online"},{"route":"skef","cardname":"Koolmijn Ewoud V","progress":0,"comment":"Automatische import uit versie 4. In die vorm publish-klaar.Published successfully on 10/09/2024 14:21:35","category":"gebouw","language":"nl","priority":"Online"},{"route":"skkl","cardname":"Koolmijn Lodewijk","progress":0,"comment":"Automatische import uit versie 4. In die vorm publish-klaar.Published successfully on 09/09/2024 12:26:25Published successfully on 09/09/2024 12:43:59Published successfully on 09/09/2024 12:51:25","category":"gebouw","language":"nl","priority":"Online"},{"route":"koka","cardname":"Fabriek Keizerstoel","progress":0,"comment":"Automatische import uit versie 4. In die vorm publish-klaar.Published successfully on 09/09/2024 12:26:25Published successfully on 09/09/2024 12:43:59Published successfully on 09/09/2024 12:51:25","category":"gebouw","language":"nl","priority":"Online"},{"route":"skadh","cardname":"Koolmijn Vuurplaats","progress":0,"comment":"Automatische import uit versie 4. Published successfully on 20/03/2025 11:58:49","category":"gebouw","language":"nl","priority":"Online"},{"route":"mdvla","cardname":"Vliegveld Laarbruch","progress":0,"comment":"Automatische import uit versie 4. In die vorm publish-klaar.Published successfully on 09/09/2024 12:26:25Published successfully on 09/09/2024 12:43:59Published successfully on 09/09/2024 12:51:25","category":"gebouw","language":"nl","priority":"Online"},{"route":"hhom","cardname":"Fabriek Homburg","progress":0,"comment":"Automatische import uit versie 4. In die vorm publish-klaar.Published successfully on 17/01/2025 16:55:24","category":"gebouw","language":"nl","priority":"Online"},{"route":"hfc","cardname":"Sojafabriek","progress":0,"comment":"Automatische import uit versie 4. In die vorm publish-klaar.Published successfully on 09/09/2024 12:26:25Published successfully on 09/09/2024 12:43:59Published successfully on 09/09/2024 12:51:25","category":"gebouw","language":"nl","priority":"Online"},{"route":"hfn","cardname":"Fabriek Neerlandia","progress":0,"comment":"Automatische import uit versie 4. In die vorm publish-klaar.Published successfully on 10/09/2024 14:21:35","category":"gebouw","language":"nl","priority":"Online"},{"route":"owvo","cardname":"Willem College","progress":0,"comment":"Published successfully on 09/09/2024 12:51:26","category":"gebouw","language":"nl","priority":"Online"},{"route":"mdfh","cardname":"Frederik Hendrikkaz","progress":0,"comment":"Automatische import uit versie 4. In die vorm publish-klaar. Published successfully on 17/01/2025 16:55:24","category":"gebouw","language":"nl","priority":"Online"},{"route":"vge","cardname":"Villa Gkirchen","progress":0,"comment":"Automatische import uit versie 4. In die vorm publish-klaar. Locatie toevoegenPublished successfully on 10/09/2024 14:21:35","category":"gebouw","language":"nl","priority":"Online"},{"route":"lapadu","cardname":"Fabriek LaPaDu","progress":0,"comment":"Automatische import uit versie 4. In die vorm publish-klaar.Published successfully on 09/09/2024 12:51:26","category":"gebouw","language":"nl","priority":"Online"},{"route":"baob","cardname":"Bw Oberhausen","progress":0,"comment":"Automatische import uit versie 4. In die vorm publish-klaar.Published successfully on 23/12/2024 21:50:23","category":"gebouw","language":"nl","priority":"Online"},{"route":"pzs","cardname":"Prov. Ziekenhuis","progress":0,"comment":"Published successfully on 09/09/2024 12:51:26","category":"gebouw","language":"nl","priority":"Online"},{"route":"hmu","cardname":"De Haan Fabriek","progress":0,"comment":"Published successfully on 09/09/2024 12:51:26","category":"gebouw","language":"nl","priority":"Online"},{"route":"afta","cardname":"Fabriek Agrodorp","progress":0,"comment":"Published successfully on 09/09/2024 12:51:26","category":"gebouw","language":"nl","priority":"Online"},{"route":"afc","cardname":"De Centrale Coevorden","progress":0,"comment":"Published successfully on 09/09/2024 12:51:26","category":"gebouw","language":"nl","priority":"Online"},{"route":"hfsd","cardname":"Sinteranlage","progress":0,"comment":"Automatische import uit versie 4. In die vorm publish-klaar.Published successfully on 09/09/2024 12:51:26","category":"gebouw","language":"nl","priority":"Online"},{"route":"mdaz","cardname":"Kamp Astrid Zuid","progress":0,"comment":"Automatische import uit versie 4. In die vorm publish-klaar.Published successfully on 23/12/2024 21:50:23","category":"gebouw","language":"nl","priority":"Online"},{"route":"klkb","cardname":"Klooster Bleijerheide","progress":0,"comment":"Automatische import uit versie 4. In die vorm publish-klaar.Published successfully on 06/12/2024 18:06:02","category":"gebouw","language":"nl","priority":"Online"},{"route":"petrol","cardname":"Petroleum Zuid","progress":0,"comment":"Automatische import uit versie 4. In die vorm publish-klaar.Published successfully on 17/01/2025 16:55:24","category":"gebouw","language":"nl","priority":"Online"},{"route":"kmsn","cardname":"Kasteel Mesen","progress":0,"comment":"Published successfully on 09/09/2024 12:51:26","category":"gebouw","language":"nl","priority":"Online"},{"route":"hmi","cardname":"Fabriek Missil Oil","progress":0,"comment":"Automatische import uit versie 4. In die vorm publish-klaar. Published successfully on 17/01/2025 16:55:25Published successfully on 12/02/2025 15:35:06","category":"gebouw","language":"nl","priority":"Online"},{"route":"fwa","cardname":"Fort Walem","progress":0,"comment":"Automatische import uit versie 4.Published successfully on 08/11/2024 17:27:01","category":"gebouw","language":"nl","priority":"Online"},{"route":"fbhw","cardname":"Atelier Br\u00FCninghaus","progress":0,"comment":"Published successfully on 09/09/2024 12:51:26","category":"gebouw","language":"nl","priority":"Online"},{"route":"olu","cardname":"LuZaC College","progress":0,"comment":"Automatische import uit versie 4. In die vorm publish-klaar.Published successfully on 17/01/2025 16:55:25","category":"gebouw","language":"nl","priority":"Online"},{"route":"skwa","cardname":"Koolmijn Waterschei","progress":0,"comment":"Automatische import uit versie 4. In die vorm publish-klaar.Published successfully on 09/09/2024 12:26:25Published successfully on 09/09/2024 12:43:59Published successfully on 09/09/2024 12:51:25","category":"gebouw","language":"nl","priority":"Online"},{"route":"hhw","cardname":"Loods Heumans","progress":0,"comment":"Automatische import uit versie 4. In die vorm publish-klaar.Published successfully on 31/01/2025 17:33:10","category":"gebouw","language":"nl","priority":"Online"},{"route":"hap","cardname":"A\u0026P Supermarkt","progress":0,"comment":"Automatische import uit versie 4. In die vorm publish-klaar.Published successfully on 06/12/2024 09:37:48","category":"gebouw","language":"nl","priority":"Online"},{"route":"kmcn","cardname":"Kasteel Miranda","progress":0,"comment":"Automatische import uit versie 4. In die vorm publish-klaar.Published successfully on 06/12/2024 18:06:02","category":"gebouw","language":"nl","priority":"Online"},{"route":"hron","cardname":"NMBS Kantoren","progress":0,"comment":"Automatische import uit versie 4. In die vorm publish-klaar.Published successfully on 17/01/2025 16:55:25","category":"gebouw","language":"nl","priority":"Online"},{"route":"skha","cardname":"Koolmijn Hasard","progress":0,"comment":"Automatische import uit versie 4. In die vorm publish-klaar. Published successfully on 24/01/2025 17:30:59","category":"gebouw","language":"nl","priority":"Online"},{"route":"skhz","cardname":"Koolmijn Zolder","progress":0,"comment":"Automatische import uit versie 4. In die vorm publish-klaar. ","category":"gebouw","language":"nl","priority":"Online"},{"route":"skbe","cardname":"Koolmijn Beringen","progress":0,"comment":"Automatische import uit versie 4. In die vorm publish-klaar. ","category":"gebouw","language":"nl","priority":"Online"},{"route":"rnastr","cardname":"Napoleonstrand","progress":0,"comment":"Automatische import uit versie 4. In die vorm publish-klaar. Originelen zijn al opgezocht.Published successfully on 08/11/2024 17:27:01","category":"gebouw","language":"nl","priority":"Online"},{"route":"hpt","cardname":"Pigeon tower","progress":0,"comment":"Automatische import uit versie 4. In die vorm publish-klaar.Published successfully on 12/02/2025 15:35:06","category":"gebouw","language":"nl","priority":"Online"},{"route":"tnh","cardname":"Traction Nord","progress":0,"comment":"Published successfully on 09/09/2024 12:51:26","category":"gebouw","language":"nl","priority":"Online"},{"route":"mdvb1","cardname":"MD Vlasberg","progress":0,"comment":"Automatische import uit versie 4. In die vorm publish-klaar. Published successfully on 24/01/2025 17:30:59","category":"gebouw","language":"nl","priority":"Online"},{"route":"fkvl","cardname":"Verenigde Leder","progress":0,"comment":"Automatische import uit versie 4. In die vorm publish-klaar.Published successfully on 12/02/2025 15:35:06","category":"gebouw","language":"nl","priority":"Online"},{"route":"mdmh","cardname":"MD Molenheide","progress":0,"comment":"Automatische import uit versie 4. In die vorm publish-klaar. Published successfully on 31/01/2025 16:52:21","category":"gebouw","language":"nl","priority":"Online"},{"route":"hmb","cardname":"Handel Mercier Bois","progress":0,"comment":"Automatische import uit versie 4. In die vorm publish-klaar.Published successfully on 31/01/2025 16:52:21","category":"gebouw","language":"nl","priority":"Online"},{"route":"fcia","cardname":"Fabriek CIA Luik","progress":0,"comment":"Published successfully on 09/09/2024 12:51:26","category":"gebouw","language":"nl","priority":"Online"},{"route":"smo","cardname":"Montzen station","progress":0,"comment":"Published successfully on 09/09/2024 12:51:26","category":"gebouw","language":"nl","priority":"Online"},{"route":"mka1","cardname":"Camp Pinefield","progress":0,"comment":"Automatische import uit versie 4. In die vorm publish-klaar. Published successfully on 12/02/2025 15:35:06","category":"gebouw","language":"nl","priority":"Online"},{"route":"mka2","cardname":"Depot Arsbeck","progress":0,"comment":"Automatische import uit versie 4. In die vorm publish-klaar. Published successfully on 31/01/2025 16:52:21Published successfully on 12/02/2025 15:35:07","category":"gebouw","language":"nl","priority":"Online"},{"route":"mbw","cardname":"MD Brachterwald","progress":0,"comment":"Automatische import uit versie 4. In die vorm publish-klaar.Published successfully on 03/01/2025 21:02:57","category":"gebouw","language":"nl","priority":"Online"},{"route":"l18p1","cardname":"Lijn 18 Kempen 1","progress":0,"comment":"Published successfully on 14/03/2025 17:40:49","category":"spoor","language":"nl","priority":"Online"},{"route":"l18p2","cardname":"Lijn 18 Kempen 2","progress":0,"comment":"Bruggetje op foto 004 ligt juist bij begijnenvijver. Laatste twee foto\u0027s lijkt de omschrijving verkeerd(om) te zijn. Ik mis twee foto\u0027s viaduct en Prinsenbeek","category":"spoor","language":"nl","priority":"Online"},{"route":"l18a","cardname":"Lijn 18A Militair","progress":0,"comment":"Published successfully on 11/11/2024 09:45:45","category":"spoor","language":"nl","priority":"Online"},{"route":"l20","cardname":"Lijn 20 Maastricht","progress":0,"comment":"Published successfully on 13/11/2024 17:18:41","category":"spoor","language":"nl","priority":"Online"},{"route":"l21a","cardname":"Lijn 21A Maaseik","progress":0,"comment":"Published successfully on 12/11/2024 17:48:49","category":"spoor","language":"nl","priority":"Online"},{"route":"l21ab","cardname":"Lijn 21B Kolenlijn","progress":0,"comment":"Published successfully on 12/11/2024 17:48:49","category":"spoor","language":"nl","priority":"Online"},{"route":"l21bb","cardname":"Lijn 21B Eisden","progress":0,"comment":"Import van tx versie 4. Published successfully on 12/11/2024 17:48:49","category":"spoor","language":"nl","priority":"Online"},{"route":"l24is","cardname":"Rac. Lo\u00EBn","progress":0,"comment":"Import TX version 4. Published successfully on 13/11/2024 17:18:41","category":"spoor","language":"nl","priority":"Online"},{"route":"l31","cardname":"Lijn 31 Rocourt","progress":0,"comment":"Nakijken, coordinaten invullenPublished successfully on 11/11/2024 09:45:45","category":"spoor","language":"nl","priority":"Online"},{"route":"l126","cardname":"Lijn 126 Condroz","progress":0,"comment":"Published successfully on 10/09/2024 14:21:35","category":"spoor","language":"nl","priority":"Online"},{"route":"l128","cardname":"Lijn 128 Bocq","progress":0,"comment":"Published successfully on 28/02/2025 19:38:16","category":"spoor","language":"nl","priority":"Online"},{"route":"l152","cardname":"Lijn 152 Lesse","progress":0,"comment":"Four imported. Published successfully on 28/02/2025 19:38:16","category":"spoor","language":"nl","priority":"Online"},{"route":"l154","cardname":"Lijn 154 Maas","progress":0,"comment":"Published successfully on 24/12/2024 15:22:08","category":"spoor","language":"nl","priority":"Online"},{"route":"l163","cardname":"Lijn 163 Cr\u00EAtes I","progress":0,"comment":"Tegelijk met 163b, 2563 en 2572b publicerenPublished successfully on 28/02/2025 19:38:16","category":"spoor","language":"nl","priority":"Online"},{"route":"nl181","cardname":"Langstraatspoor","progress":0,"comment":" I have got many new pictures. Published successfully on 11/11/2024 09:45:45","category":"spoor","language":"nl","priority":"Online"},{"route":"l18p3","cardname":"Lijn 18 Kempen 3","progress":0,"comment":"Published successfully on 13/11/2024 17:18:41","category":"spoor","language":"nl","priority":"Online"},{"route":"nl201","cardname":"Lijn 201 Emmen","progress":0,"comment":"Import v4. Published successfully on 13/11/2024 17:18:41","category":"spoor","language":"nl","priority":"Online"},{"route":"nl204","cardname":"Lijn 204 Assen","progress":0,"comment":"Import version 4. Originele afbeeldingen opgezocht en in TXW archief gezetPublished successfully on 06/12/2024 09:37:48","category":"spoor","language":"nl","priority":"Online"},{"route":"nl207","cardname":"Lijn 207 STAR","progress":0,"comment":"Imported from TX4. Originele fotos in map gezet TXWPublished successfully on 06/12/2024 09:37:49","category":"spoor","language":"nl","priority":"Online"},{"route":"mfas","cardname":"Kazerne La Seyte","progress":0,"comment":"Published successfully on 10/01/2025 18:55:43","category":"gebouw","language":"nl","priority":"Online"},{"route":"mfac","cardname":"Alpenfort Infernet","progress":0,"comment":"Published successfully on 17/01/2025 16:55:25","category":"gebouw","language":"nl","priority":"Online"},{"route":"l24a","cardname":"Lijn 24A Ronheide","progress":0,"comment":"Import TX4. Published successfully on 17/01/2025 16:55:25","category":"spoor","language":"nl","priority":"Online"},{"route":"l29","cardname":"Lijn 29 Belze lijn","progress":0,"comment":"Import TX4. Published successfully on 17/01/2025 16:55:25","category":"spoor","language":"nl","priority":"Online"},{"route":"l38","cardname":"Lijn 38 Herve","progress":0,"comment":"Import TX4.Published successfully on 17/01/2025 16:55:25","category":"spoor","language":"nl","priority":"Online"},{"route":"l39","cardname":"Lijn 39 Gemmenich","progress":0,"comment":"Import TX4Published successfully on 10/01/2025 18:55:43","category":"spoor","language":"nl","priority":"Online"},{"route":"l39a","cardname":"Lijn 39B Kelmis","progress":0,"comment":"Import TX4Published successfully on 10/01/2025 18:55:43","category":"spoor","language":"nl","priority":"Online"},{"route":"l52","cardname":"Lijn 52 Museum","progress":0,"comment":"TX4 import.Published successfully on 23/12/2024 21:50:23","category":"spoor","language":"nl","priority":"Online"},{"route":"l111","cardname":"Lijn 111 Thuillies","progress":0,"comment":"Published successfully on 28/02/2025 19:38:16","category":"spoor","language":"nl","priority":"Online"},{"route":"l132p2","cardname":"Lijn 132 Viroinval","progress":0,"comment":"TX 4 import. Published successfully on 23/12/2024 21:50:23","category":"spoor","language":"nl","priority":"Online"},{"route":"l136","cardname":"Lijn 136 Florennes","progress":0,"comment":"Nakijken, coordinaten invullenPublished successfully on 07/03/2025 19:29:13","category":"spoor","language":"nl","priority":"Online"},{"route":"l136a","cardname":"Lijn 136A Ermeton","progress":0,"comment":"Import TX4Published successfully on 10/01/2025 18:55:43","category":"spoor","language":"nl","priority":"Online"},{"route":"l138a","cardname":"Lijn 138A Givet","progress":0,"comment":"Import TX 4. Published successfully on 03/01/2025 21:02:57","category":"spoor","language":"nl","priority":"Online"},{"route":"l150","cardname":"Lijn 150 Samber-Maas","progress":0,"comment":"TX4 import. Published successfully on 23/12/2024 21:50:23","category":"spoor","language":"nl","priority":"Online"},{"route":"l156","cardname":"Lijn 156 Chimay","progress":0,"comment":"Published successfully on 03/01/2025 21:02:57","category":"spoor","language":"nl","priority":"Online"},{"route":"nl136","cardname":"Bocholter baan","progress":0,"comment":"Published successfully on 23/12/2024 21:50:23","category":"spoor","language":"nl","priority":"Online"},{"route":"f695p1","cardname":"Montlu\u00E7on - Eygurande","progress":0,"comment":"Published successfully on 20/03/2025 11:58:49","category":"spoor","language":"nl","priority":"Online"},{"route":"f708","cardname":"Montlu\u00E7on - Goutti","progress":0,"comment":"Published successfully on 14/03/2025 16:36:25","category":"spoor","language":"nl","priority":"Online"},{"route":"f709","cardname":"Lapeyrouse - Volvic","progress":0,"comment":"TX4 import. Published successfully on 17/01/2025 16:55:25","category":"spoor","language":"nl","priority":"Online"},{"route":"kdo","cardname":"De Dodenkapel","progress":0,"comment":"Published successfully on 10/09/2024 14:21:35","category":"gebouw","language":"nl","priority":"Online"},{"route":"vbo","cardname":"Borschemich","progress":0,"comment":"Published successfully on 10/09/2024 14:21:35","category":"gebouw","language":"nl","priority":"Online"},{"route":"vpb","cardname":"Kinderparty Bus","progress":0,"comment":"Published successfully on 09/09/2024 12:51:26","category":"gebouw","language":"nl","priority":"Online"},{"route":"vima","cardname":"Immerath","progress":0,"comment":"Published successfully on 09/09/2024 12:51:26","category":"gebouw","language":"nl","priority":"Online"},{"route":"skto","cardname":"Mijn Teunisberg","progress":0,"comment":"Published successfully on 09/09/2024 12:51:26","category":"gebouw","language":"nl","priority":"Online"},{"route":"vpe","cardname":"Spookdorp Pesch","progress":0,"comment":"Published successfully on 09/09/2024 12:51:26","category":"gebouw","language":"nl","priority":"Online"},{"route":"mdf3","cardname":"Fort 3 Antwerpen","progress":0,"comment":"Published successfully on 09/09/2024 12:51:26","category":"gebouw","language":"nl","priority":"Online"},{"route":"mdf4","cardname":"Fort 4 Antwerpen","progress":0,"comment":"Published successfully on 09/09/2024 12:51:26","category":"gebouw","language":"nl","priority":"Online"},{"route":"fk","cardname":"Fort IX Keulen","progress":0,"comment":"Published successfully on 09/09/2024 12:51:26","category":"gebouw","language":"nl","priority":"Online"},{"route":"holp","cardname":"CIA Revisited","progress":0,"comment":"Published successfully on 09/09/2024 12:51:26","category":"gebouw","language":"nl","priority":"Online"},{"route":"ruwa","cardname":"Hotel Waldburg","progress":0,"comment":"Published successfully on 09/09/2024 12:51:26","category":"gebouw","language":"nl","priority":"Online"},{"route":"ruwo","cardname":"Huis Wolfskuilen","progress":0,"comment":"Published successfully on 09/09/2024 12:51:26","category":"gebouw","language":"nl","priority":"Online"},{"route":"hfff","cardname":"Veevoerfabriek ABC D","progress":0,"comment":"Published successfully on 09/09/2024 12:51:26","category":"gebouw","language":"nl","priority":"Online"},{"route":"mdss","cardname":"Schans Schilde","progress":0,"comment":"Published successfully on 09/09/2024 12:51:26","category":"gebouw","language":"nl","priority":"Online"},{"route":"mdsz","cardname":"Schans Zestien","progress":0,"comment":"Published successfully on 09/09/2024 12:51:26","category":"gebouw","language":"nl","priority":"Online"},{"route":"hfg","cardname":"Grafitti Wasserij","progress":0,"comment":"Published successfully on 09/09/2024 12:51:26","category":"gebouw","language":"nl","priority":"Online"},{"route":"mcan","cardname":"MD Astrid Noord","progress":0,"comment":"Published successfully on 09/09/2024 12:51:26","category":"gebouw","language":"nl","priority":"Online"},{"route":"bwkz","cardname":"Bahnwerke Eifel","progress":0,"comment":"Published successfully on 09/09/2024 12:51:26","category":"gebouw","language":"nl","priority":"Online"},{"route":"ruwe","cardname":"Ru\u00EFne Wensburg","progress":0,"comment":"Published successfully on 09/09/2024 12:51:26","category":"gebouw","language":"nl","priority":"Online"},{"route":"bwrx","cardname":"Atelier SNCB Roux","progress":0,"comment":"Published successfully on 09/09/2024 12:51:26","category":"gebouw","language":"nl","priority":"Online"},{"route":"hbpt","cardname":"Petrol Tilburg","progress":0,"comment":"Published successfully on 09/09/2024 12:51:26","category":"gebouw","language":"nl","priority":"Online"},{"route":"hcb","cardname":"Koolmijn Boubier","progress":0,"comment":"Published successfully on 09/09/2024 12:51:26","category":"gebouw","language":"nl","priority":"Online"},{"route":"hhs","cardname":"Staal H-Samber","progress":0,"comment":"Published successfully on 09/09/2024 12:51:26","category":"gebouw","language":"nl","priority":"Online"},{"route":"bwmc","cardname":"Atelier SNCB Mon eau","progress":0,"comment":"Published successfully on 09/09/2024 12:51:26","category":"gebouw","language":"nl","priority":"Online"},{"route":"rulo","cardname":"Ru\u00EFne L\u00F6wenburg","progress":0,"comment":"Published successfully on 09/09/2024 12:51:26","category":"gebouw","language":"nl","priority":"Online"},{"route":"hvsl","cardname":"Glas Saint-Lambert","progress":0,"comment":"Published successfully on 18/04/2025 16:23:27","category":"gebouw","language":"nl","priority":"Online"},{"route":"ts","cardname":"Traction Sud","progress":0,"comment":"Published successfully on 09/09/2024 12:51:26","category":"gebouw","language":"nl","priority":"Online"},{"route":"tch","cardname":"Chatillon","progress":0,"comment":"Published successfully on 09/09/2024 12:51:26","category":"gebouw","language":"nl","priority":"Online"},{"route":"mdch","cardname":"Fort de la Chartreuse","progress":0,"comment":"Published successfully on 09/09/2024 12:51:26","category":"gebouw","language":"nl","priority":"Online"},{"route":"mfag","cardname":"Alpenfort Gondran","progress":0,"comment":"Published successfully on 09/09/2024 12:51:26","category":"gebouw","language":"nl","priority":"Online"},{"route":"msuw","cardname":"Sovjetkazerne Berlin","progress":0,"comment":"Published successfully on 09/09/2024 12:51:26","category":"gebouw","language":"nl","priority":"Online"},{"route":"bawu","cardname":"Bahnwerke Berlin","progress":0,"comment":"Automatische import uit versie 4. In die vorm publish-klaar. Published successfully on 14/03/2025 16:36:25","category":"gebouw","language":"nl","priority":"Online"},{"route":"bwbi","cardname":"Bw Bissingheim","progress":0,"comment":"Import van versie 4, foto\u0027s automatisch omgezet. Published successfully on 14/03/2025 16:36:25","category":"gebouw","language":"nl","priority":"Online"},{"route":"mfry","cardname":"Fort Rhijnauwen","progress":0,"comment":"Published successfully on 09/09/2024 12:51:26","category":"gebouw","language":"nl","priority":"Online"},{"route":"l44","cardname":"Lijn 44 Spa","progress":0,"comment":"Published successfully on 09/09/2024 12:51:26Published successfully on 10/09/2024 14:21:35","category":"spoor","language":"nl","priority":"Online"},{"route":"l45","cardname":"Lijn 45 Malmedy","progress":0,"comment":"Published successfully on 12/11/2024 17:48:49","category":"spoor","language":"nl","priority":"Online"},{"route":"l48p1","cardname":"Vennbahn III","progress":0,"comment":"Published successfully on 28/02/2025 19:38:16","category":"spoor","language":"nl","priority":"Online"},{"route":"l109","cardname":"Lijn 109 Chimay","progress":0,"comment":"Published successfully on 24/12/2024 15:22:08","category":"spoor","language":"nl","priority":"Online"},{"route":"dbae","cardname":"Arsbeck - Elmpt","progress":0,"comment":"Import from version 4.Published successfully on 13/11/2024 17:18:42","category":"spoor","language":"nl","priority":"Online"},{"route":"d9241","cardname":"Kreisbahn J\u00FClich","progress":0,"comment":"Published successfully on 12/11/2024 17:48:49","category":"spoor","language":"nl","priority":"Online"},{"route":"nl635","cardname":"Borkense baan","progress":0,"comment":"Published successfully on 23/12/2024 21:50:23","category":"spoor","language":"nl","priority":"Online"},{"route":"d2265a","cardname":"Baumbergebahn 1","progress":0,"comment":"Published successfully on 09/09/2024 12:51:26Published successfully on 10/09/2024 14:21:35","category":"spoor","language":"nl","priority":"Online"},{"route":"d2265b","cardname":"Baumbergebahn 2","progress":0,"comment":"Published successfully on 09/09/2024 12:51:26Published successfully on 10/09/2024 14:21:35","category":"spoor","language":"nl","priority":"Online"},{"route":"d2516","cardname":"Kleve - Elten","progress":0,"comment":"Published successfully on 09/09/2024 12:51:26Published successfully on 10/09/2024 14:21:35","category":"spoor","language":"nl","priority":"Online"},{"route":"d2540","cardname":"Rurtalbahn","progress":0,"comment":"Omzeting versie 4. Alle fotos voor betere versie zijn uitgezocht. Published successfully on 11/11/2024 09:45:45","category":"spoor","language":"nl","priority":"Online"},{"route":"d2544","cardname":"DB2544 W\u00FCrselen","progress":0,"comment":"Published successfully on 06/12/2024 10:37:12","category":"spoor","language":"nl","priority":"Online"},{"route":"d2550","cardname":"DB 2550 Aachen","progress":0,"comment":"Version 4 importPublished successfully on 06/12/2024 09:37:49","category":"spoor","language":"nl","priority":"Online"},{"route":"d2555","cardname":"DB 2555 Mariagrube","progress":0,"comment":"Check article, check captions, add coords, check wurselen with db2544Published successfully on 06/12/2024 09:37:49","category":"spoor","language":"nl","priority":"Online"},{"route":"d2570","cardname":"DB 2570 Mariagrube","progress":0,"comment":"Published successfully on 06/12/2024 10:37:12","category":"spoor","language":"nl","priority":"Online"},{"route":"d2571","cardname":"DB 2571 Titz","progress":0,"comment":"Published successfully on 13/11/2024 17:18:42","category":"spoor","language":"nl","priority":"Online"},{"route":"d2572a","cardname":"DB 2572 Stolberg","progress":0,"comment":"Import version 4. Published successfully on 28/02/2025 19:38:16","category":"spoor","language":"nl","priority":"Online"},{"route":"d2574","cardname":"DB 2574 M\u00FCnsterbusch","progress":0,"comment":"Check articlePublished successfully on 06/12/2024 10:37:13Published successfully on 14/12/2024 17:39:46","category":"spoor","language":"nl","priority":"Online"},{"route":"d2610","cardname":"Nijmegen - Kleve","progress":0,"comment":"Published successfully on 06/12/2024 18:06:02","category":"spoor","language":"nl","priority":"Online"},{"route":"f1x","cardname":"Commentry - Marcillat","progress":0,"comment":"Published successfully on 14/12/2024 17:39:46","category":"spoor","language":"nl","priority":"Online"},{"route":"fzc1","cardname":"Rac. Commentry","progress":0,"comment":"import uit versie 4. In die vorm publish klaarPublished successfully on 14/12/2024 17:39:46","category":"spoor","language":"nl","priority":"Online"},{"route":"f205is","cardname":"Rac. Flohimont","progress":0,"comment":"Version 4 import. Formerly known as isf205. I am missing a lot of bridges crossing the HouillePublished successfully on 18/12/2024 22:14:35","category":"spoor","language":"nl","priority":"Online"},{"route":"nl195","cardname":"Lijn 195 Goirle","progress":0,"comment":"Formerly known as l29a.Published successfully on 13/11/2024 17:18:42","category":"spoor","language":"nl","priority":"Online"},{"route":"nl225b","cardname":"IJzeren Rijn","progress":0,"comment":"Import TX4. Published successfully on 14/12/2024 17:39:46","category":"spoor","language":"nl","priority":"Online"},{"route":"nl232","cardname":"Vetschau - Aken","progress":0,"comment":"Published successfully on 12/11/2024 17:48:49","category":"spoor","language":"nl","priority":"Online"},{"route":"nl248","cardname":"NBDS Duits lijntje","progress":0,"comment":"Ik heb heel veel nieuwere foto\u0027s van 2017 en 2020. Published successfully on 12/11/2024 17:48:49Published successfully on 13/11/2024 17:18:42","category":"spoor","language":"nl","priority":"Online"},{"route":"nl271","cardname":"Boog Valkenswaard","progress":0,"comment":"Import version 4Published successfully on 06/12/2024 18:06:02","category":"spoor","language":"nl","priority":"Online"},{"route":"nl605","cardname":"IJmuider lijn","progress":0,"comment":"Import from TX4.Published successfully on 14/12/2024 17:39:46","category":"spoor","language":"nl","priority":"Online"},{"route":"tl","cardname":"Loreley","progress":0,"comment":"Published successfully on 09/09/2024 12:51:26","category":"tunnel","language":"nl","priority":"Online"},{"route":"bun","cardname":"Urmitzer brug","progress":0,"comment":"Published successfully on 09/09/2024 12:51:26","category":"brug","language":"nl","priority":"Online"},{"route":"vdth","cardname":"Viaduc de Thil","progress":0,"comment":"Published successfully on 09/09/2024 12:51:26","category":"brug","language":"nl","priority":"Online"},{"route":"vdf2","cardname":"Viaduc des Fades II","progress":0,"comment":"Published successfully on 03/01/2025 21:02:57","category":"brug","language":"nl","priority":"Online"},{"route":"barsg","cardname":"Altrheinbrug Spyck","progress":0,"comment":"Published successfully on 09/09/2024 12:51:26","category":"brug","language":"nl","priority":"Online"},{"route":"txatx","cardname":"No Title!","progress":0,"comment":"Published successfully on 09/09/2024 12:51:26","category":"xerbutri","language":"nl","priority":"Online"},{"route":"txase","cardname":"Urban Exploring","progress":0,"comment":"Published successfully on 10/09/2024 14:21:35","category":"xerbutri","language":"nl","priority":"Online"},{"route":"txaue","cardname":"No Title!","progress":0,"comment":"Published successfully on 09/09/2024 12:51:26","category":"xerbutri","language":"nl","priority":"Online"},{"route":"txtel","cardname":"Websites","progress":0,"comment":"Published successfully on 10/09/2024 14:21:35","category":"xerbutri","language":"nl","priority":"Online"},{"route":"vbbb","cardname":"Hoeve Bakels Beemd","progress":0,"comment":"Published successfully on 09/09/2024 12:51:26","category":"gebouw","language":"nl","priority":"Online"},{"route":"vbch","cardname":"Ferme d\u0027Abandonce","progress":0,"comment":"Published successfully on 09/09/2024 12:51:26","category":"gebouw","language":"nl","priority":"Online"},{"route":"mfg","cardname":"Bunkerpark Groede","progress":0,"comment":"Published successfully on 09/09/2024 12:51:26","category":"gebouw","language":"nl","priority":"Online"},{"route":"sfg","cardname":"Steenfabriek Glatt","progress":0,"comment":"Published successfully on 23/05/2025 16:06:22","category":"gebouw","language":"nl","priority":"Online"},{"route":"vbgh","cardname":"Griekse Villa","progress":0,"comment":"Published successfully on 09/09/2024 12:51:26","category":"gebouw","language":"nl","priority":"Online"},{"route":"khb","cardname":"Kasteel Hoebosche","progress":0,"comment":"Published successfully on 16/05/2025 16:32:51","category":"gebouw","language":"nl","priority":"Online"},{"route":"kwh","cardname":"Chateau Blanc","progress":0,"comment":"Published successfully on 09/09/2024 12:51:26","category":"gebouw","language":"nl","priority":"Online"},{"route":"mkwk","cardname":"Wilhelmina Kazerne","progress":0,"comment":"Published successfully on 09/09/2024 12:51:26","category":"gebouw","language":"nl","priority":"Online"},{"route":"hshk","cardname":"Hotel Scholtenshof","progress":0,"comment":"Published successfully on 16/05/2025 16:32:51","category":"gebouw","language":"nl","priority":"Online"},{"route":"srae","cardname":"Station Raeren","progress":0,"comment":"Published successfully on 09/09/2024 12:51:26","category":"gebouw","language":"nl","priority":"Online"},{"route":"gch","cardname":"Groeve Champlon","progress":0,"comment":"Published successfully on 18/04/2025 16:23:27","category":"gebouw","language":"nl","priority":"Online"},{"route":"kw","cardname":"Wolfenstein","progress":0,"comment":"Published successfully on 24/01/2025 17:30:59","category":"gebouw","language":"nl","priority":"Online"},{"route":"skwj","cardname":"Charbonnage Renard","progress":0,"comment":"Published successfully on 09/09/2024 12:51:26","category":"gebouw","language":"nl","priority":"Online"},{"route":"skwj2","cardname":"Mijn Renard II","progress":0,"comment":"Published successfully on 18/04/2025 16:23:27","category":"gebouw","language":"nl","priority":"Online"},{"route":"nl180b","cardname":"Kesteren - Rhenen","progress":0,"comment":"Published successfully on 09/09/2024 12:51:26Published successfully on 10/09/2024 14:21:35","category":"spoor","language":"nl","priority":"Online"},{"route":"mjhq","cardname":"Joined Head Quarters","progress":0,"comment":"Published successfully on 09/09/2024 12:51:26","category":"gebouw","language":"nl","priority":"Online"},{"route":"vbdb","cardname":"Dommelboerderij","progress":0,"comment":"Published successfully on 09/09/2024 12:51:26","category":"gebouw","language":"nl","priority":"Online"},{"route":"l45a","cardname":"L45A Vennquerbahn","progress":0,"comment":"Published successfully on 09/09/2024 12:51:26Published successfully on 10/09/2024 14:21:35","category":"spoor","language":"nl","priority":"Online"},{"route":"f159a","cardname":"Falkensteinerbach","progress":0,"comment":"Published successfully on 18/04/2025 16:23:28","category":"spoor","language":"nl","priority":"Online"},{"route":"zbm","cardname":"Borgoumont","progress":0,"comment":"Published successfully on 06/05/2025 09:34:16","category":"gebouw","language":"nl","priority":"Online"},{"route":"mkcb","cardname":"Kazerne De Cubber","progress":0,"comment":"Published successfully on 09/09/2024 12:51:26","category":"gebouw","language":"nl","priority":"Online"},{"route":"mch","cardname":"Camp Hitfeld","progress":0,"comment":"Published successfully on 09/09/2024 12:51:26","category":"gebouw","language":"nl","priority":"Online"},{"route":"hbha","cardname":"La Chaudronnerie","progress":0,"comment":"Published successfully on 09/09/2024 12:51:26","category":"gebouw","language":"nl","priority":"Online"},{"route":"hbr","cardname":"BRIMGeS Fabriek","progress":0,"comment":"Published successfully on 09/09/2024 12:51:26","category":"gebouw","language":"nl","priority":"Online"},{"route":"dbmah","cardname":"Leger Rheindalen","progress":0,"comment":"Published successfully on 09/09/2024 12:51:26Published successfully on 10/09/2024 14:21:35","category":"spoor","language":"nl","priority":"Online"},{"route":"mzp","cardname":"RAF Pool W","progress":0,"comment":"Published successfully on 09/09/2024 12:51:26","category":"gebouw","language":"nl","priority":"Online"},{"route":"bwvx","cardname":"Atelier SNCB Voroux","progress":0,"comment":"Published successfully on 09/09/2024 12:51:26","category":"gebouw","language":"nl","priority":"Online"},{"route":"mhb","cardname":"Hangar Bierset","progress":0,"comment":"Published successfully on 18/04/2025 16:23:28","category":"gebouw","language":"nl","priority":"Online"},{"route":"mhbz","cardname":"Gebouw 27","progress":0,"comment":"Published successfully on 09/09/2024 12:51:26","category":"gebouw","language":"nl","priority":"Online"},{"route":"bhk","cardname":"Haus Knipp Brug","progress":0,"comment":"Published successfully on 09/09/2024 12:51:26","category":"brug","language":"nl","priority":"Online"},{"route":"dbbme","cardname":"Stolberg BME","progress":0,"comment":"Published successfully on 16/05/2025 16:32:51","category":"spoor","language":"nl","priority":"Online"},{"route":"dbbmv","cardname":"Vegla Stolberg","progress":0,"comment":"Published successfully on 16/05/2025 16:32:51","category":"spoor","language":"nl","priority":"Online"},{"route":"zmn","cardname":"RAF Hospital W","progress":0,"comment":"Published successfully on 09/09/2024 12:51:26","category":"gebouw","language":"nl","priority":"Online"},{"route":"vbp","cardname":"Peelboerderij","progress":0,"comment":"Published successfully on 09/09/2024 12:51:26","category":"gebouw","language":"nl","priority":"Online"},{"route":"oam","cardname":"Augustijner School","progress":0,"comment":"Published successfully on 09/09/2024 12:51:26","category":"gebouw","language":"nl","priority":"Online"},{"route":"vbd","cardname":"Boerderij Duizeldonk","progress":0,"comment":"Published successfully on 09/09/2024 12:51:26","category":"gebouw","language":"nl","priority":"Online"},{"route":"vimb","cardname":"Immerath II","progress":0,"comment":"Published successfully on 09/09/2024 12:51:26","category":"gebouw","language":"nl","priority":"Online"},{"route":"hmts","cardname":"Fabriek Te Strake","progress":0,"comment":"Published successfully on 09/09/2024 12:51:26","category":"gebouw","language":"nl","priority":"Online"},{"route":"hfsr","cardname":"Steenfabriek Rees","progress":0,"comment":"Published successfully on 09/09/2024 12:51:26","category":"gebouw","language":"nl","priority":"Online"},{"route":"sknd","cardname":"Kolenmijn Noord","progress":0,"comment":"Published successfully on 09/09/2024 12:51:26","category":"gebouw","language":"nl","priority":"Online"},{"route":"skge","cardname":"Mijnschacht 8","progress":0,"comment":"Published successfully on 09/09/2024 12:51:26","category":"gebouw","language":"nl","priority":"Online"},{"route":"vblu","cardname":"Boerderij Lutzerath","progress":0,"comment":"Published successfully on 09/09/2024 12:51:26","category":"gebouw","language":"nl","priority":"Online"},{"route":"skpo","cardname":"Schacht Polsum","progress":0,"comment":"","category":"gebouw","language":"nl","priority":"Online"},{"route":"skpot","cardname":"Schacht Polsum II","progress":0,"comment":"","category":"gebouw","language":"nl","priority":"Online"},{"route":"hdk","cardname":"De Kassen","progress":0,"comment":"Published successfully on 09/09/2024 12:51:26","category":"gebouw","language":"nl","priority":"Online"},{"route":"vdh","cardname":"Villa Dennenhoef","progress":0,"comment":"Published successfully on 09/09/2024 12:51:26","category":"gebouw","language":"nl","priority":"Online"},{"route":"or","cardname":"Mavo Roobeek","progress":0,"comment":"Published successfully on 09/09/2024 12:51:26","category":"gebouw","language":"nl","priority":"Online"},{"route":"mdnv","cardname":"NAVO Kazerne","progress":0,"comment":"Published successfully on 09/09/2024 12:51:26","category":"gebouw","language":"nl","priority":"Online"},{"route":"bwbx","cardname":"Atelier SNCB Bertrix","progress":0,"comment":"Published successfully on 09/09/2024 12:51:26","category":"gebouw","language":"nl","priority":"Online"},{"route":"tkw","cardname":"Kaiser Wilhelm","progress":0,"comment":"Published successfully on 09/09/2024 12:51:26","category":"tunnel","language":"nl","priority":"Online"},{"route":"khw","cardname":"Hof van Wijnegem","progress":0,"comment":"Published successfully on 09/09/2024 12:51:26","category":"gebouw","language":"nl","priority":"Online"},{"route":"l48p2","cardname":"Vennbahn IV","progress":0,"comment":"Published successfully on 09/09/2024 12:51:26Published successfully on 10/09/2024 14:21:35Published successfully on 28/02/2025 19:38:16","category":"spoor","language":"nl","priority":"Online"},{"route":"d2563","cardname":"Vennbahn I","progress":0,"comment":"Published successfully on 28/02/2025 19:38:16","category":"spoor","language":"nl","priority":"Online"},{"route":"d2572b","cardname":"Vennbahn II","progress":0,"comment":"Published successfully on 28/02/2025 19:38:16","category":"spoor","language":"nl","priority":"Online"},{"route":"l163b","cardname":"Lijn 163 Cr\u00EAtes II","progress":0,"comment":"Published successfully on 28/02/2025 19:38:16","category":"spoor","language":"nl","priority":"Online"},{"route":"nl200","cardname":"Woldjerspoor","progress":0,"comment":"Published successfully on 09/09/2024 12:51:26Published successfully on 10/09/2024 14:21:35","category":"spoor","language":"nl","priority":"Online"},{"route":"vbab","cardname":"Akkerhoeve","progress":0,"comment":"Published successfully on 08/11/2024 17:27:02","category":"gebouw","language":"nl","priority":"Online"},{"route":"d3005a","cardname":"Eifelquerbahn I","progress":0,"comment":"Published successfully on 23/05/2025 16:16:33","category":"spoor","language":"nl","priority":"Online"},{"route":"d3005b","cardname":"Eifelquerbahn II","progress":0,"comment":"Published successfully on 23/05/2025 16:06:22","category":"spoor","language":"nl","priority":"Online"},{"route":"vbmh","cardname":"Muggenhoeve","progress":0,"comment":"Published successfully on 09/09/2024 12:51:26","category":"gebouw","language":"nl","priority":"Online"},{"route":"vbnb","cardname":"Beeldenhoeve","progress":0,"comment":"Published successfully on 09/09/2024 12:51:26","category":"gebouw","language":"nl","priority":"Online"},{"route":"vdf","cardname":"Viaduc des Fades II","progress":0,"comment":"Published successfully on 09/09/2024 12:51:26","category":"brug","language":"en","priority":"Online"},{"route":"tv","cardname":"Veurs","progress":0,"comment":"Published successfully on 09/09/2024 12:51:26","category":"tunnel","language":"en","priority":"Online"},{"route":"mdfg","cardname":"Fort de Meuse","progress":0,"comment":"Published successfully on 09/09/2024 12:51:26","category":"gebouw","language":"en","priority":"Online"},{"route":"afta","cardname":"Agrodorp factory","progress":0,"comment":"Published successfully on 09/09/2024 12:51:26","category":"gebouw","language":"en","priority":"Online"},{"route":"l154","cardname":"Lijn 154","progress":0,"comment":"Published successfully on 09/09/2024 12:51:26Published successfully on 10/09/2024 14:21:35","category":"spoor","language":"en","priority":"Online"},{"route":"mdfg","cardname":"TBD","progress":0,"comment":"Published successfully on 09/09/2024 12:51:26","category":"gebouw","language":"fr","priority":"Online"},{"route":"l154","cardname":"TBD","progress":0,"comment":"Published successfully on 09/09/2024 12:51:26Published successfully on 10/09/2024 14:21:35","category":"spoor","language":"fr","priority":"Online"},{"route":"tgi","cardname":"TBD","progress":0,"comment":"Published successfully on 09/09/2024 12:51:26","category":"tunnel","language":"fr","priority":"Online"},{"route":"txaue","cardname":"No Title!","progress":0,"comment":"Published successfully on 09/09/2024 12:51:26","category":"xerbutri","language":"en","priority":"Online"},{"route":"txaue","cardname":"No Title!","progress":0,"comment":"Published successfully on 09/09/2024 12:51:26","category":"xerbutri","language":"fr","priority":"Online"},{"route":"txatx","cardname":"No Title!","progress":0,"comment":"Published successfully on 09/09/2024 12:51:26","category":"xerbutri","language":"en","priority":"Online"},{"route":"txatx","cardname":"No Title!","progress":0,"comment":"Published successfully on 09/09/2024 12:51:26","category":"xerbutri","language":"fr","priority":"Online"},{"route":"vdf","cardname":"No Title!","progress":0,"comment":"Published successfully on 09/09/2024 12:51:26","category":"brug","language":"fr","priority":"Online"},{"route":"mfry","cardname":"No Title!","progress":0,"comment":"Published successfully on 09/09/2024 12:51:26","category":"gebouw","language":"en","priority":"Online"},{"route":"uwas","cardname":"No Title!","progress":0,"comment":"Published successfully on 14/03/2025 16:36:25","category":"gebouw","language":"nl","priority":"Online"},{"route":"zjwk","cardname":"No Title!","progress":0,"comment":"Published successfully on 07/03/2025 19:29:13","category":"gebouw","language":"nl","priority":"Online"},{"route":"mfbv","cardname":"No Title!","progress":0,"comment":"Published successfully on 12/06/2025 17:31:22","category":"gebouw","language":"nl","priority":"Online"},{"route":"mfsv","cardname":"No Title!","progress":0,"comment":"Published successfully on 18/07/2025 10:00:23","category":"gebouw","language":"nl","priority":"Online"},{"route":"tav","cardname":"No Title!","progress":0,"comment":"Published successfully on 12/06/2025 17:55:06","category":"tunnel","language":"nl","priority":"Online"},{"route":"mcv","cardname":"No Title!","progress":0,"comment":"Newly added blogPublished successfully on 18/07/2025 10:00:23","category":"gebouw","language":"nl","priority":"Online"}]
+[
+  {
+    "route": "zmn2",
+    "cardname": "RAF Hospital W II",
+    "progress": 65,
+    "comment": "Heeft 166 fotos. Dat is veel te veel.",
+    "category": "gebouw",
+    "language": "nederlands",
+    "priority": "high"
+  },
+  {
+    "route": "l55a",
+    "cardname": "No Title!",
+    "progress": 32,
+    "comment": "Newly added blog",
+    "category": "spoor",
+    "language": "nederlands",
+    "priority": "high"
+  },
+  {
+    "route": "dknn",
+    "cardname": "No Title!",
+    "progress": 32,
+    "comment": "Newly added blog",
+    "category": "spoor",
+    "language": "nederlands",
+    "priority": "high"
+  },
+  {
+    "route": "f195",
+    "cardname": "No Title!",
+    "progress": 27,
+    "comment": "Ik wil deze graag afmaken in 2025",
+    "category": "spoor",
+    "language": "nederlands",
+    "priority": "high"
+  },
+  {
+    "route": "f196",
+    "cardname": "No Title!",
+    "progress": 32,
+    "comment": "De geo json is grof. Ik heb het beter uitgezocht in Google Earth. Een aantal foto's heb ik al, maar niet veel.",
+    "category": "spoor",
+    "language": "nederlands",
+    "priority": "high"
+  },
+  {
+    "route": "f203",
+    "cardname": "No Title!",
+    "progress": 27,
+    "comment": "Ik heb al veel foto's van deze lijn, maar mis er ook een paar",
+    "category": "spoor",
+    "language": "nederlands",
+    "priority": "high"
+  },
+  {
+    "route": "f220a",
+    "cardname": "No Title!",
+    "progress": 32,
+    "comment": "Veel foto's uit 2010, misschien mis ik er nog?",
+    "category": "spoor",
+    "language": "nederlands",
+    "priority": "high"
+  },
+  {
+    "route": "vpdh",
+    "cardname": "No Title!",
+    "progress": 55,
+    "comment": "Newly added blog",
+    "category": "gebouw",
+    "language": "nederlands",
+    "priority": "high"
+  },
+  {
+    "route": "fsb",
+    "cardname": "No Title!",
+    "progress": 65,
+    "comment": "Newly added blog",
+    "category": "gebouw",
+    "language": "nederlands",
+    "priority": "high"
+  },
+  {
+    "route": "vdfd",
+    "cardname": "No Title!",
+    "progress": 65,
+    "comment": "Newly added blog",
+    "category": "gebouw",
+    "language": "nederlands",
+    "priority": "high"
+  },
+  {
+    "route": "mcm",
+    "cardname": "No Title!",
+    "progress": 65,
+    "comment": "Newly added blog",
+    "category": "gebouw",
+    "language": "nederlands",
+    "priority": "high"
+  },
+  {
+    "route": "mfft",
+    "cardname": "No Title!",
+    "progress": 65,
+    "comment": "Newly added blog",
+    "category": "gebouw",
+    "language": "nederlands",
+    "priority": "high"
+  },
+  {
+    "route": "f88a",
+    "cardname": "No Title!",
+    "progress": 32,
+    "comment": "Klaar.",
+    "category": "spoor",
+    "language": "nederlands",
+    "priority": "high"
+  },
+  {
+    "route": "l49",
+    "cardname": "Lijn 49 Eupen",
+    "progress": 27,
+    "comment": "Ik heb hier een paar foto's van, maar de lijn is niet ver van huis, misschien kan ik er ooit een keer lang fietsen.",
+    "category": "spoor",
+    "language": "nederlands",
+    "priority": "low"
+  },
+  {
+    "route": "l127",
+    "cardname": "L127 Hesbaye",
+    "progress": 27,
+    "comment": "five importGraag de map aanmaken\\nfive importGraag de map aanmaken\\n",
+    "category": "spoor",
+    "language": "nederlands",
+    "priority": "low"
+  },
+  {
+    "route": "nlhml",
+    "cardname": "Haarlemmermeerlijnen",
+    "progress": 27,
+    "comment": "Ik heb hier in 2016 een twintigtal foto's van gemaakt. Het meeste van de lijnen is verdwenen, maar deze 20 geven een leuk beeld. Maar niet helemaal passend in de rest van de site misschien?",
+    "category": "spoor",
+    "language": "nederlands",
+    "priority": "low"
+  },
+  {
+    "route": "txdyw",
+    "cardname": "Urban Exploren!",
+    "progress": 65,
+    "comment": "five importGraag de map aanmaken\\nfive importGraag de map aanmaken\\n",
+    "category": "xerbutri",
+    "language": "nederlands",
+    "priority": "low"
+  },
+  {
+    "route": "spw",
+    "cardname": "Sportpark Waldeck",
+    "progress": 65,
+    "comment": "five importGraag de map aanmaken\\nfive importGraag de map aanmaken\\n",
+    "category": "gebouw",
+    "language": "nederlands",
+    "priority": "low"
+  },
+  {
+    "route": "txase",
+    "cardname": "No Title!",
+    "progress": 100,
+    "comment": "",
+    "category": "xerbutri",
+    "language": "english",
+    "priority": "low"
+  },
+  {
+    "route": "txase",
+    "cardname": "No Title!",
+    "progress": 100,
+    "comment": "",
+    "category": "xerbutri",
+    "language": "français",
+    "priority": "low"
+  },
+  {
+    "route": "klgh",
+    "cardname": "No Title!",
+    "progress": 55,
+    "comment": "Newly added blog",
+    "category": "gebouw",
+    "language": "nederlands",
+    "priority": "low"
+  },
+  {
+    "route": "rufa",
+    "cardname": "No Title!",
+    "progress": 55,
+    "comment": "Ruïne Falkenstein",
+    "category": "gebouw",
+    "language": "nederlands",
+    "priority": "low"
+  },
+  {
+    "route": "ruvw",
+    "cardname": "No Title!",
+    "progress": 55,
+    "comment": "Ruïne oud-windstein",
+    "category": "gebouw",
+    "language": "nederlands",
+    "priority": "low"
+  },
+  {
+    "route": "l38a",
+    "cardname": "Lijn 38A Xhawirs",
+    "progress": 32,
+    "comment": "Nakijken, coordinaten invullen",
+    "category": "spoor",
+    "language": "nederlands",
+    "priority": "maybe"
+  },
+  {
+    "route": "xueza",
+    "cardname": "Wat uit 2004",
+    "progress": 55,
+    "comment": "five importGraag de map aanmaken\\nfive importGraag de map aanmaken\\n",
+    "category": "xerbutri",
+    "language": "nederlands",
+    "priority": "maybe"
+  },
+  {
+    "route": "xuezb",
+    "cardname": "Wat uit 2006",
+    "progress": 55,
+    "comment": "five importGraag de map aanmaken\\nfive importGraag de map aanmaken\\n",
+    "category": "xerbutri",
+    "language": "nederlands",
+    "priority": "maybe"
+  },
+  {
+    "route": "xuezc",
+    "cardname": "Wat uit 2007",
+    "progress": 55,
+    "comment": "five importGraag de map aanmaken\\nfive importGraag de map aanmaken\\n",
+    "category": "xerbutri",
+    "language": "nederlands",
+    "priority": "maybe"
+  },
+  {
+    "route": "xuezd",
+    "cardname": "Wat uit 2009",
+    "progress": 55,
+    "comment": "five importGraag de map aanmaken\\nfive importGraag de map aanmaken\\n",
+    "category": "xerbutri",
+    "language": "nederlands",
+    "priority": "maybe"
+  },
+  {
+    "route": "xjc",
+    "cardname": "Gaafste kampeerplekken",
+    "progress": 55,
+    "comment": "five importGraag de map aanmaken\\nfive importGraag de map aanmaken\\n",
+    "category": "xerbutri",
+    "language": "nederlands",
+    "priority": "maybe"
+  },
+  {
+    "route": "xueze",
+    "cardname": "Wat mergel",
+    "progress": 55,
+    "comment": "five importGraag de map aanmaken\\nfive importGraag de map aanmaken\\n",
+    "category": "xerbutri",
+    "language": "nederlands",
+    "priority": "maybe"
+  },
+  {
+    "route": "xre",
+    "cardname": "Railtracking",
+    "progress": 55,
+    "comment": "five importGraag de map aanmaken\\nfive importGraag de map aanmaken\\n",
+    "category": "xerbutri",
+    "language": "nederlands",
+    "priority": "maybe"
+  },
+  {
+    "route": "oszhe",
+    "cardname": "School Zon en Hei",
+    "progress": 55,
+    "comment": "five importGraag de map aanmaken\\nfive importGraag de map aanmaken\\n",
+    "category": "gebouw",
+    "language": "nederlands",
+    "priority": "maybe"
+  },
+  {
+    "route": "d3002",
+    "cardname": "Ahr-Eifelbaan",
+    "progress": 27,
+    "comment": "five importGraag de map aanmaken\\nfive importGraag de map aanmaken\\n",
+    "category": "spoor",
+    "language": "nederlands",
+    "priority": "maybe"
+  },
+  {
+    "route": "lpetr",
+    "cardname": "De petrol",
+    "progress": 27,
+    "comment": "TXW map te verwerken 2013 Railtracking Petrol",
+    "category": "spoor",
+    "language": "nederlands",
+    "priority": "maybe"
+  },
+  {
+    "route": "htwe",
+    "cardname": "Twello",
+    "progress": 55,
+    "comment": "TXW map te verwerken 2013 Twello",
+    "category": "gebouw",
+    "language": "nederlands",
+    "priority": "maybe"
+  },
+  {
+    "route": "mdf8",
+    "cardname": "Fort 8",
+    "progress": 55,
+    "comment": "five importGraag de map aanmaken\\nfive importGraag de map aanmaken\\n",
+    "category": "gebouw",
+    "language": "nederlands",
+    "priority": "maybe"
+  },
+  {
+    "route": "l47a",
+    "cardname": "L47A",
+    "progress": 27,
+    "comment": "five importGraag de map aanmaken\\nfive importGraag de map aanmaken\\n",
+    "category": "spoor",
+    "language": "nederlands",
+    "priority": "maybe"
+  },
+  {
+    "route": "txsk",
+    "cardname": "Duitse Steenkolen",
+    "progress": 65,
+    "comment": "five importGraag de map aanmaken\\nfive importGraag de map aanmaken\\n",
+    "category": "xerbutri",
+    "language": "nederlands",
+    "priority": "maybe"
+  },
+  {
+    "route": "vdt",
+    "cardname": "Viaduc de la Tardes",
+    "progress": 65,
+    "comment": "version four import + Kijk artikel artikel na",
+    "category": "brug",
+    "language": "english",
+    "priority": "maybe"
+  },
+  {
+    "route": "badt",
+    "cardname": "Viaduc d'Audin",
+    "progress": 65,
+    "comment": "Import + Kijk artikel artikel na",
+    "category": "brug",
+    "language": "english",
+    "priority": "maybe"
+  },
+  {
+    "route": "mtb",
+    "cardname": "Müngstener bridge",
+    "progress": 65,
+    "comment": "Import + Kijk artikel artikel na",
+    "category": "brug",
+    "language": "english",
+    "priority": "maybe"
+  },
+  {
+    "route": "lb",
+    "cardname": "Langstraat bridges",
+    "progress": 65,
+    "comment": "Import",
+    "category": "brug",
+    "language": "english",
+    "priority": "maybe"
+  },
+  {
+    "route": "bma",
+    "cardname": "Maasbridge Maastricht",
+    "progress": 65,
+    "comment": "Import + Kijk artikel artikel na",
+    "category": "brug",
+    "language": "english",
+    "priority": "maybe"
+  },
+  {
+    "route": "bla",
+    "cardname": "Vierendeelbridge Lanaken",
+    "progress": 65,
+    "comment": "Import + Kijk artikel artikel na",
+    "category": "brug",
+    "language": "english",
+    "priority": "maybe"
+  },
+  {
+    "route": "db",
+    "cardname": "DEMKA-bridge",
+    "progress": 65,
+    "comment": "Import + Kijk artikel artikel na",
+    "category": "brug",
+    "language": "english",
+    "priority": "maybe"
+  },
+  {
+    "route": "ws",
+    "cardname": "Werkspoor-bridge",
+    "progress": 65,
+    "comment": "Import + Kijk artikel artikel na",
+    "category": "brug",
+    "language": "english",
+    "priority": "maybe"
+  },
+  {
+    "route": "bl",
+    "cardname": "Lixhe Bridge",
+    "progress": 65,
+    "comment": "Import",
+    "category": "brug",
+    "language": "english",
+    "priority": "maybe"
+  },
+  {
+    "route": "bc",
+    "cardname": "Lekbridge Culemborg",
+    "progress": 65,
+    "comment": "Import + Kijk artikel artikel na",
+    "category": "brug",
+    "language": "english",
+    "priority": "maybe"
+  },
+  {
+    "route": "bs",
+    "cardname": "Bridge of Schalkwijk",
+    "progress": 65,
+    "comment": "Import + Kijk artikel artikel na",
+    "category": "brug",
+    "language": "english",
+    "priority": "maybe"
+  },
+  {
+    "route": "tgi",
+    "cardname": "Charlemont",
+    "progress": 65,
+    "comment": "Import + Kijk artikel artikel na",
+    "category": "tunnel",
+    "language": "english",
+    "priority": "maybe"
+  },
+  {
+    "route": "tr",
+    "cardname": "Remersdaal",
+    "progress": 65,
+    "comment": "Import",
+    "category": "tunnel",
+    "language": "english",
+    "priority": "maybe"
+  },
+  {
+    "route": "rt",
+    "cardname": "Rudersdorf",
+    "progress": 65,
+    "comment": "Import + Kijk artikel artikel na",
+    "category": "tunnel",
+    "language": "english",
+    "priority": "maybe"
+  },
+  {
+    "route": "tgc",
+    "cardname": "Gendron",
+    "progress": 65,
+    "comment": "Import + Kijk artikel artikel na",
+    "category": "tunnel",
+    "language": "english",
+    "priority": "maybe"
+  },
+  {
+    "route": "bg",
+    "cardname": "Botzelaer",
+    "progress": 65,
+    "comment": "Import + Kijk artikel artikel na",
+    "category": "tunnel",
+    "language": "english",
+    "priority": "maybe"
+  },
+  {
+    "route": "tg",
+    "cardname": "Geer",
+    "progress": 65,
+    "comment": "Import",
+    "category": "tunnel",
+    "language": "english",
+    "priority": "maybe"
+  },
+  {
+    "route": "hofu",
+    "cardname": "Cat Hotel",
+    "progress": 65,
+    "comment": "Import + Kijk artikel artikel na",
+    "category": "gebouw",
+    "language": "english",
+    "priority": "maybe"
+  },
+  {
+    "route": "vgmc",
+    "cardname": "Goldmine Chatelet",
+    "progress": 65,
+    "comment": "Import + Kijk artikel artikel na",
+    "category": "gebouw",
+    "language": "english",
+    "priority": "maybe"
+  },
+  {
+    "route": "skfe",
+    "cardname": "CM Lorraine",
+    "progress": 65,
+    "comment": "Import + Kijk artikel artikel na",
+    "category": "gebouw",
+    "language": "english",
+    "priority": "maybe"
+  },
+  {
+    "route": "skgr",
+    "cardname": "CM Grube Reden",
+    "progress": 65,
+    "comment": "Import",
+    "category": "gebouw",
+    "language": "english",
+    "priority": "maybe"
+  },
+  {
+    "route": "zss",
+    "cardname": "Saar Sanatorium",
+    "progress": 65,
+    "comment": "Import + Kijk artikel artikel na",
+    "category": "gebouw",
+    "language": "english",
+    "priority": "maybe"
+  },
+  {
+    "route": "pmp",
+    "cardname": "PM Rodolphe",
+    "progress": 65,
+    "comment": "Import + Kijk artikel artikel na",
+    "category": "gebouw",
+    "language": "english",
+    "priority": "maybe"
+  },
+  {
+    "route": "mdfr",
+    "cardname": "Fort Vosges",
+    "progress": 65,
+    "comment": "Import",
+    "category": "gebouw",
+    "language": "english",
+    "priority": "maybe"
+  },
+  {
+    "route": "hfu",
+    "cardname": "Parc 'Uckange",
+    "progress": 65,
+    "comment": "Import",
+    "category": "gebouw",
+    "language": "english",
+    "priority": "maybe"
+  },
+  {
+    "route": "hfoa",
+    "cardname": "Montrouge",
+    "progress": 65,
+    "comment": "Import",
+    "category": "gebouw",
+    "language": "english",
+    "priority": "maybe"
+  },
+  {
+    "route": "kti",
+    "cardname": "St Josephchurch",
+    "progress": 65,
+    "comment": "Import + Kijk artikel artikel na",
+    "category": "gebouw",
+    "language": "english",
+    "priority": "maybe"
+  },
+  {
+    "route": "hlf",
+    "cardname": "La Carriere",
+    "progress": 65,
+    "comment": "Import + Kijk artikel artikel na",
+    "category": "gebouw",
+    "language": "english",
+    "priority": "maybe"
+  },
+  {
+    "route": "zjh",
+    "cardname": "Jugendheim",
+    "progress": 65,
+    "comment": "Import + Kijk artikel artikel na",
+    "category": "gebouw",
+    "language": "english",
+    "priority": "maybe"
+  },
+  {
+    "route": "zm",
+    "cardname": "H. de Mercy",
+    "progress": 65,
+    "comment": "Import",
+    "category": "gebouw",
+    "language": "english",
+    "priority": "maybe"
+  },
+  {
+    "route": "skzv",
+    "cardname": "CM Zollverein",
+    "progress": 65,
+    "comment": "Import",
+    "category": "gebouw",
+    "language": "english",
+    "priority": "maybe"
+  },
+  {
+    "route": "hbw",
+    "cardname": "Druckerei B",
+    "progress": 65,
+    "comment": "Import",
+    "category": "gebouw",
+    "language": "english",
+    "priority": "maybe"
+  },
+  {
+    "route": "hgg",
+    "cardname": "Glashütte",
+    "progress": 65,
+    "comment": "Import",
+    "category": "gebouw",
+    "language": "english",
+    "priority": "maybe"
+  },
+  {
+    "route": "hdt",
+    "cardname": "DAF tower",
+    "progress": 65,
+    "comment": "Import",
+    "category": "gebouw",
+    "language": "english",
+    "priority": "maybe"
+  },
+  {
+    "route": "sksh",
+    "cardname": "CM Holdern",
+    "progress": 65,
+    "comment": "Import",
+    "category": "gebouw",
+    "language": "english",
+    "priority": "maybe"
+  },
+  {
+    "route": "hfsd2",
+    "cardname": "Sinteranlage 2",
+    "progress": 65,
+    "comment": "Import",
+    "category": "gebouw",
+    "language": "english",
+    "priority": "maybe"
+  },
+  {
+    "route": "skhc",
+    "cardname": "CM Hugo C",
+    "progress": 65,
+    "comment": "Import",
+    "category": "gebouw",
+    "language": "english",
+    "priority": "maybe"
+  },
+  {
+    "route": "skof",
+    "cardname": "CM Easterfield",
+    "progress": 65,
+    "comment": "Import",
+    "category": "gebouw",
+    "language": "english",
+    "priority": "maybe"
+  },
+  {
+    "route": "mdw2",
+    "cardname": "MD Wolfsschlucht",
+    "progress": 65,
+    "comment": "Import + Kijk artikel artikel na",
+    "category": "gebouw",
+    "language": "english",
+    "priority": "maybe"
+  },
+  {
+    "route": "rgu",
+    "cardname": "Stairway to h...",
+    "progress": 65,
+    "comment": "Import",
+    "category": "gebouw",
+    "language": "english",
+    "priority": "maybe"
+  },
+  {
+    "route": "hfgp",
+    "cardname": "Papet. Godinne",
+    "progress": 65,
+    "comment": "Import",
+    "category": "gebouw",
+    "language": "english",
+    "priority": "maybe"
+  },
+  {
+    "route": "hoha",
+    "cardname": "Haunted Hotel",
+    "progress": 65,
+    "comment": "Import + Kijk artikel artikel na",
+    "category": "gebouw",
+    "language": "english",
+    "priority": "maybe"
+  },
+  {
+    "route": "skeh",
+    "cardname": "CM Iron Hammer",
+    "progress": 65,
+    "comment": "Import",
+    "category": "gebouw",
+    "language": "english",
+    "priority": "maybe"
+  },
+  {
+    "route": "skef",
+    "cardname": "CM Ewald V",
+    "progress": 65,
+    "comment": "Import",
+    "category": "gebouw",
+    "language": "english",
+    "priority": "maybe"
+  },
+  {
+    "route": "skkl",
+    "cardname": "CM Louis",
+    "progress": 65,
+    "comment": "Import",
+    "category": "gebouw",
+    "language": "english",
+    "priority": "maybe"
+  },
+  {
+    "route": "koka",
+    "cardname": "Emperorchair",
+    "progress": 65,
+    "comment": "Import",
+    "category": "gebouw",
+    "language": "english",
+    "priority": "maybe"
+  },
+  {
+    "route": "skadh",
+    "cardname": "CM Fireplace",
+    "progress": 65,
+    "comment": "Import",
+    "category": "gebouw",
+    "language": "english",
+    "priority": "maybe"
+  },
+  {
+    "route": "mdvla",
+    "cardname": "MD Laarbruch",
+    "progress": 65,
+    "comment": "Import",
+    "category": "gebouw",
+    "language": "english",
+    "priority": "maybe"
+  },
+  {
+    "route": "hhom",
+    "cardname": "Homburg",
+    "progress": 65,
+    "comment": "Import",
+    "category": "gebouw",
+    "language": "english",
+    "priority": "maybe"
+  },
+  {
+    "route": "hfc",
+    "cardname": "Sojafactory",
+    "progress": 65,
+    "comment": "Import",
+    "category": "gebouw",
+    "language": "english",
+    "priority": "maybe"
+  },
+  {
+    "route": "hfn",
+    "cardname": "Neerlandia",
+    "progress": 65,
+    "comment": "Import",
+    "category": "gebouw",
+    "language": "english",
+    "priority": "maybe"
+  },
+  {
+    "route": "owvo",
+    "cardname": "Willem College",
+    "progress": 65,
+    "comment": "Import + Kijk artikel artikel na",
+    "category": "gebouw",
+    "language": "english",
+    "priority": "maybe"
+  },
+  {
+    "route": "mdfh",
+    "cardname": "Barracks FH",
+    "progress": 65,
+    "comment": "Import",
+    "category": "gebouw",
+    "language": "english",
+    "priority": "maybe"
+  },
+  {
+    "route": "vge",
+    "cardname": "Villa G'kirchen",
+    "progress": 65,
+    "comment": "Import",
+    "category": "gebouw",
+    "language": "english",
+    "priority": "maybe"
+  },
+  {
+    "route": "lapadu",
+    "cardname": "LaPaDu",
+    "progress": 65,
+    "comment": "Import",
+    "category": "gebouw",
+    "language": "english",
+    "priority": "maybe"
+  },
+  {
+    "route": "baob",
+    "cardname": "Bw Oberhausen",
+    "progress": 65,
+    "comment": "Import",
+    "category": "gebouw",
+    "language": "english",
+    "priority": "maybe"
+  },
+  {
+    "route": "pzs",
+    "cardname": "Prov. Ziekenhuis",
+    "progress": 65,
+    "comment": "Import + Kijk artikel artikel na",
+    "category": "gebouw",
+    "language": "english",
+    "priority": "maybe"
+  },
+  {
+    "route": "hmu",
+    "cardname": "De Haan Fabriek",
+    "progress": 65,
+    "comment": "Import + Kijk artikel artikel na",
+    "category": "gebouw",
+    "language": "english",
+    "priority": "maybe"
+  },
+  {
+    "route": "afc",
+    "cardname": "AF Coevorden",
+    "progress": 65,
+    "comment": "Import + Kijk artikel artikel na",
+    "category": "gebouw",
+    "language": "english",
+    "priority": "maybe"
+  },
+  {
+    "route": "hfsd",
+    "cardname": "Sinteranlage",
+    "progress": 65,
+    "comment": "Import",
+    "category": "gebouw",
+    "language": "english",
+    "priority": "maybe"
+  },
+  {
+    "route": "bwbi",
+    "cardname": "No Title!",
+    "progress": 65,
+    "comment": "Import",
+    "category": "gebouw",
+    "language": "english",
+    "priority": "maybe"
+  },
+  {
+    "route": "mdaz",
+    "cardname": "MD Astrid South",
+    "progress": 65,
+    "comment": "Import",
+    "category": "gebouw",
+    "language": "english",
+    "priority": "maybe"
+  },
+  {
+    "route": "klkb",
+    "cardname": "Bleijerheide",
+    "progress": 65,
+    "comment": "Import",
+    "category": "gebouw",
+    "language": "english",
+    "priority": "maybe"
+  },
+  {
+    "route": "petrol",
+    "cardname": "Petroleum Zuid",
+    "progress": 65,
+    "comment": "Import",
+    "category": "gebouw",
+    "language": "english",
+    "priority": "maybe"
+  },
+  {
+    "route": "kmsn",
+    "cardname": "Castle of Mesen",
+    "progress": 65,
+    "comment": "Import + Kijk artikel artikel na",
+    "category": "gebouw",
+    "language": "english",
+    "priority": "maybe"
+  },
+  {
+    "route": "hmi",
+    "cardname": "Missil Oil",
+    "progress": 65,
+    "comment": "Import",
+    "category": "gebouw",
+    "language": "english",
+    "priority": "maybe"
+  },
+  {
+    "route": "fwa",
+    "cardname": "Fort Walem",
+    "progress": 65,
+    "comment": "Import",
+    "category": "gebouw",
+    "language": "english",
+    "priority": "maybe"
+  },
+  {
+    "route": "fbhw",
+    "cardname": "Stahlwerke",
+    "progress": 65,
+    "comment": "Import + Kijk artikel artikel na",
+    "category": "gebouw",
+    "language": "english",
+    "priority": "maybe"
+  },
+  {
+    "route": "olu",
+    "cardname": "LuZaC College",
+    "progress": 65,
+    "comment": "Import",
+    "category": "gebouw",
+    "language": "english",
+    "priority": "maybe"
+  },
+  {
+    "route": "skwa",
+    "cardname": "CM Waterschei",
+    "progress": 65,
+    "comment": "Import",
+    "category": "gebouw",
+    "language": "english",
+    "priority": "maybe"
+  },
+  {
+    "route": "hhw",
+    "cardname": "Heumans",
+    "progress": 65,
+    "comment": "Import",
+    "category": "gebouw",
+    "language": "english",
+    "priority": "maybe"
+  },
+  {
+    "route": "hap",
+    "cardname": "A&P Supermarket",
+    "progress": 65,
+    "comment": "Import",
+    "category": "gebouw",
+    "language": "english",
+    "priority": "maybe"
+  },
+  {
+    "route": "kmcn",
+    "cardname": "Miranda Castle",
+    "progress": 65,
+    "comment": "Import",
+    "category": "gebouw",
+    "language": "english",
+    "priority": "maybe"
+  },
+  {
+    "route": "hron",
+    "cardname": "NMBS Offices",
+    "progress": 65,
+    "comment": "Import",
+    "category": "gebouw",
+    "language": "english",
+    "priority": "maybe"
+  },
+  {
+    "route": "skha",
+    "cardname": "Coalmine Hasard",
+    "progress": 65,
+    "comment": "Import",
+    "category": "gebouw",
+    "language": "english",
+    "priority": "maybe"
+  },
+  {
+    "route": "skhz",
+    "cardname": "Coalmine Zolder",
+    "progress": 65,
+    "comment": "Import",
+    "category": "gebouw",
+    "language": "english",
+    "priority": "maybe"
+  },
+  {
+    "route": "skbe",
+    "cardname": "Coalmine Beringen",
+    "progress": 65,
+    "comment": "Import",
+    "category": "gebouw",
+    "language": "english",
+    "priority": "maybe"
+  },
+  {
+    "route": "rnastr",
+    "cardname": "Napoleonstrand",
+    "progress": 65,
+    "comment": "Import",
+    "category": "gebouw",
+    "language": "english",
+    "priority": "maybe"
+  },
+  {
+    "route": "hpt",
+    "cardname": "Pigeon tower",
+    "progress": 65,
+    "comment": "Import",
+    "category": "gebouw",
+    "language": "english",
+    "priority": "maybe"
+  },
+  {
+    "route": "tnh",
+    "cardname": "Traction Nord",
+    "progress": 65,
+    "comment": "Import + Kijk artikel artikel na",
+    "category": "gebouw",
+    "language": "english",
+    "priority": "maybe"
+  },
+  {
+    "route": "mdvb1",
+    "cardname": "MD Vlasberg",
+    "progress": 65,
+    "comment": "Import",
+    "category": "gebouw",
+    "language": "english",
+    "priority": "maybe"
+  },
+  {
+    "route": "fkvl",
+    "cardname": "Verenigde Leder",
+    "progress": 65,
+    "comment": "Import",
+    "category": "gebouw",
+    "language": "english",
+    "priority": "maybe"
+  },
+  {
+    "route": "mdmh",
+    "cardname": "MD Molenheide",
+    "progress": 65,
+    "comment": "Import",
+    "category": "gebouw",
+    "language": "english",
+    "priority": "maybe"
+  },
+  {
+    "route": "hmb",
+    "cardname": "Mercier Bois",
+    "progress": 65,
+    "comment": "Import",
+    "category": "gebouw",
+    "language": "english",
+    "priority": "maybe"
+  },
+  {
+    "route": "fcia",
+    "cardname": "CIA Liege",
+    "progress": 65,
+    "comment": "Import + Kijk artikel artikel na",
+    "category": "gebouw",
+    "language": "english",
+    "priority": "maybe"
+  },
+  {
+    "route": "smo",
+    "cardname": "Gare de Montzen",
+    "progress": 65,
+    "comment": "Import + Kijk artikel artikel na",
+    "category": "gebouw",
+    "language": "english",
+    "priority": "maybe"
+  },
+  {
+    "route": "mka1",
+    "cardname": "MD Landwehr A",
+    "progress": 65,
+    "comment": "Import",
+    "category": "gebouw",
+    "language": "english",
+    "priority": "maybe"
+  },
+  {
+    "route": "mka2",
+    "cardname": "MD Landwehr B",
+    "progress": 65,
+    "comment": "Import",
+    "category": "gebouw",
+    "language": "english",
+    "priority": "maybe"
+  },
+  {
+    "route": "mbw",
+    "cardname": "MD Brachterwald",
+    "progress": 65,
+    "comment": "Import",
+    "category": "gebouw",
+    "language": "english",
+    "priority": "maybe"
+  },
+  {
+    "route": "l18p1",
+    "cardname": "Line 18 Part 1",
+    "progress": 32,
+    "comment": "Import",
+    "category": "spoor",
+    "language": "english",
+    "priority": "maybe"
+  },
+  {
+    "route": "l18p2",
+    "cardname": "Line 18 Part 2",
+    "progress": 32,
+    "comment": "Import",
+    "category": "spoor",
+    "language": "english",
+    "priority": "maybe"
+  },
+  {
+    "route": "l18a",
+    "cardname": "Line 18 A",
+    "progress": 32,
+    "comment": "Import",
+    "category": "spoor",
+    "language": "english",
+    "priority": "maybe"
+  },
+  {
+    "route": "l20",
+    "cardname": "Line 20",
+    "progress": 32,
+    "comment": "Import",
+    "category": "spoor",
+    "language": "english",
+    "priority": "maybe"
+  },
+  {
+    "route": "l21a",
+    "cardname": "Line 21A",
+    "progress": 32,
+    "comment": "Import",
+    "category": "spoor",
+    "language": "english",
+    "priority": "maybe"
+  },
+  {
+    "route": "l21ab",
+    "cardname": "Line 21B/A",
+    "progress": 32,
+    "comment": "Import",
+    "category": "spoor",
+    "language": "english",
+    "priority": "maybe"
+  },
+  {
+    "route": "l21bb",
+    "cardname": "Line 21B",
+    "progress": 32,
+    "comment": "Import",
+    "category": "spoor",
+    "language": "english",
+    "priority": "maybe"
+  },
+  {
+    "route": "l24is",
+    "cardname": "No Title!",
+    "progress": 32,
+    "comment": "Import",
+    "category": "spoor",
+    "language": "english",
+    "priority": "maybe"
+  },
+  {
+    "route": "l31",
+    "cardname": "Line 31 Liege",
+    "progress": 32,
+    "comment": "Import",
+    "category": "spoor",
+    "language": "english",
+    "priority": "maybe"
+  },
+  {
+    "route": "l126",
+    "cardname": "Line 126 Condroz",
+    "progress": 32,
+    "comment": "Import + Kijk artikel artikel na",
+    "category": "spoor",
+    "language": "english",
+    "priority": "maybe"
+  },
+  {
+    "route": "l128",
+    "cardname": "Line 128 Bocq",
+    "progress": 32,
+    "comment": "Import",
+    "category": "spoor",
+    "language": "english",
+    "priority": "maybe"
+  },
+  {
+    "route": "l152",
+    "cardname": "Line 150 Lesse",
+    "progress": 32,
+    "comment": "Import",
+    "category": "spoor",
+    "language": "english",
+    "priority": "maybe"
+  },
+  {
+    "route": "dbae",
+    "cardname": "No Title!",
+    "progress": 32,
+    "comment": "Import, formerly MAD",
+    "category": "spoor",
+    "language": "english",
+    "priority": "maybe"
+  },
+  {
+    "route": "nl225b",
+    "cardname": "No Title!",
+    "progress": 32,
+    "comment": "Import",
+    "category": "spoor",
+    "language": "english",
+    "priority": "maybe"
+  },
+  {
+    "route": "nl605",
+    "cardname": "No Title!",
+    "progress": 32,
+    "comment": "Import",
+    "category": "spoor",
+    "language": "english",
+    "priority": "maybe"
+  },
+  {
+    "route": "nl181",
+    "cardname": "No Title!",
+    "progress": 32,
+    "comment": "Import",
+    "category": "spoor",
+    "language": "english",
+    "priority": "maybe"
+  },
+  {
+    "route": "l18p3",
+    "cardname": "Line 18 Part 3",
+    "progress": 32,
+    "comment": "Import",
+    "category": "spoor",
+    "language": "english",
+    "priority": "maybe"
+  },
+  {
+    "route": "nl271",
+    "cardname": "No Title!",
+    "progress": 32,
+    "comment": "Import",
+    "category": "spoor",
+    "language": "english",
+    "priority": "maybe"
+  },
+  {
+    "route": "nl201",
+    "cardname": "No Title!",
+    "progress": 32,
+    "comment": "Import",
+    "category": "spoor",
+    "language": "english",
+    "priority": "maybe"
+  },
+  {
+    "route": "nl204",
+    "cardname": "No Title!",
+    "progress": 32,
+    "comment": "Import",
+    "category": "spoor",
+    "language": "english",
+    "priority": "maybe"
+  },
+  {
+    "route": "nl207",
+    "cardname": "No Title!",
+    "progress": 32,
+    "comment": "Import",
+    "category": "spoor",
+    "language": "english",
+    "priority": "maybe"
+  },
+  {
+    "route": "badt",
+    "cardname": "TBD",
+    "progress": 65,
+    "comment": "Import + Kijk artikel artikel na",
+    "category": "brug",
+    "language": "français",
+    "priority": "maybe"
+  },
+  {
+    "route": "l52",
+    "cardname": "TBD",
+    "progress": 32,
+    "comment": "Import",
+    "category": "spoor",
+    "language": "english",
+    "priority": "maybe"
+  },
+  {
+    "route": "d2610",
+    "cardname": "No Title!",
+    "progress": 32,
+    "comment": "Import v4 no captions",
+    "category": "spoor",
+    "language": "english",
+    "priority": "maybe"
+  },
+  {
+    "route": "dbba",
+    "cardname": "Stolberg BME-Atsch",
+    "progress": 27,
+    "comment": "Is al behandeld onder DB2544",
+    "category": "spoor",
+    "language": "nederlands",
+    "priority": "never"
+  },
+  {
+    "route": "tx4",
+    "cardname": "Team Xerbutri versie 4",
+    "progress": 100,
+    "comment": "Versie 4 gaat offline",
+    "category": "xerbutri",
+    "language": "nederlands",
+    "priority": "never"
+  },
+  {
+    "route": "vdt",
+    "cardname": "Viaduc de la Tardes",
+    "progress": 100,
+    "comment": "Published successfully on 09/09/2024 12:51:26",
+    "category": "brug",
+    "language": "nederlands",
+    "priority": "online"
+  },
+  {
+    "route": "vdf",
+    "cardname": "Viaduc des Fades",
+    "progress": 100,
+    "comment": "Published successfully on 09/09/2024 12:51:26",
+    "category": "brug",
+    "language": "nederlands",
+    "priority": "online"
+  },
+  {
+    "route": "badt",
+    "cardname": "Viaduc d'Audun",
+    "progress": 100,
+    "comment": "Published successfully on 09/09/2024 12:51:26",
+    "category": "brug",
+    "language": "nederlands",
+    "priority": "online"
+  },
+  {
+    "route": "mtb",
+    "cardname": "Müngstener brug",
+    "progress": 100,
+    "comment": "Published successfully on 09/09/2024 12:51:26",
+    "category": "brug",
+    "language": "nederlands",
+    "priority": "online"
+  },
+  {
+    "route": "lb",
+    "cardname": "Langstraat bruggen",
+    "progress": 100,
+    "comment": "Import versie 4. Foto's uitgezocht, compleet en klaar om te bewerken. Published successfully on 09/09/2024 12:51:26 ",
+    "category": "brug",
+    "language": "nederlands",
+    "priority": "online"
+  },
+  {
+    "route": "bma",
+    "cardname": "Maasbrug Maastricht",
+    "progress": 100,
+    "comment": "Published successfully on 09/09/2024 12:51:26",
+    "category": "brug",
+    "language": "nederlands",
+    "priority": "online"
+  },
+  {
+    "route": "bla",
+    "cardname": "Brug bij Lanaken",
+    "progress": 100,
+    "comment": "Published successfully on 09/09/2024 12:51:26",
+    "category": "brug",
+    "language": "nederlands",
+    "priority": "online"
+  },
+  {
+    "route": "db",
+    "cardname": "DEMKA-brug",
+    "progress": 100,
+    "comment": "Published successfully on 09/09/2024 12:51:26",
+    "category": "brug",
+    "language": "nederlands",
+    "priority": "online"
+  },
+  {
+    "route": "ws",
+    "cardname": "Werkspoor-brug",
+    "progress": 100,
+    "comment": "Published successfully on 09/09/2024 12:51:26",
+    "category": "brug",
+    "language": "nederlands",
+    "priority": "online"
+  },
+  {
+    "route": "bl",
+    "cardname": "Brug bij Lixhe",
+    "progress": 100,
+    "comment": "Import versie 4. Alle foto's compleet en klaar om te bewerken. Published successfully on 09/09/2024 12:51:26",
+    "category": "brug",
+    "language": "nederlands",
+    "priority": "online"
+  },
+  {
+    "route": "bc",
+    "cardname": "Kuilenburgse brug",
+    "progress": 100,
+    "comment": "Published successfully on 09/09/2024 12:51:26",
+    "category": "brug",
+    "language": "nederlands",
+    "priority": "online"
+  },
+  {
+    "route": "bs",
+    "cardname": "Schalkwijkse brug",
+    "progress": 100,
+    "comment": "Published successfully on 09/09/2024 12:51:26",
+    "category": "brug",
+    "language": "nederlands",
+    "priority": "online"
+  },
+  {
+    "route": "tgi",
+    "cardname": "Charlemont",
+    "progress": 100,
+    "comment": "Published successfully on 09/09/2024 12:51:26",
+    "category": "tunnel",
+    "language": "nederlands",
+    "priority": "online"
+  },
+  {
+    "route": "tr",
+    "cardname": "Remersdaal",
+    "progress": 100,
+    "comment": "Nieuwe foto's uitgezocht en bewerkt, staan op Cloudinary. Published successfully on 09/09/2024 12:51:26",
+    "category": "tunnel",
+    "language": "nederlands",
+    "priority": "online"
+  },
+  {
+    "route": "rt",
+    "cardname": "Rudersdorf",
+    "progress": 100,
+    "comment": "Published successfully on 09/09/2024 12:51:26",
+    "category": "tunnel",
+    "language": "nederlands",
+    "priority": "online"
+  },
+  {
+    "route": "tgc",
+    "cardname": "Gendron",
+    "progress": 100,
+    "comment": "Published successfully on 09/09/2024 12:51:26",
+    "category": "tunnel",
+    "language": "nederlands",
+    "priority": "online"
+  },
+  {
+    "route": "bg",
+    "cardname": "Botzelaer",
+    "progress": 100,
+    "comment": "Published successfully on 09/09/2024 12:51:26",
+    "category": "tunnel",
+    "language": "nederlands",
+    "priority": "online"
+  },
+  {
+    "route": "tg",
+    "cardname": "Jeker",
+    "progress": 100,
+    "comment": "Import versie 4. Nieuwe foto's uitgezocht en bewerkt, staan op Cloudinary. Published successfully on 09/09/2024 12:51:26",
+    "category": "tunnel",
+    "language": "nederlands",
+    "priority": "online"
+  },
+  {
+    "route": "tv",
+    "cardname": "Veurs",
+    "progress": 100,
+    "comment": "Published successfully on 09/09/2024 12:51:26",
+    "category": "tunnel",
+    "language": "nederlands",
+    "priority": "online"
+  },
+  {
+    "route": "hofu",
+    "cardname": "Stella Canaris",
+    "progress": 100,
+    "comment": "Published successfully on 09/09/2024 12:51:26",
+    "category": "gebouw",
+    "language": "nederlands",
+    "priority": "online"
+  },
+  {
+    "route": "vgmc",
+    "cardname": "Goudmijn Châtelet",
+    "progress": 100,
+    "comment": "Published successfully on 09/09/2024 12:51:26",
+    "category": "gebouw",
+    "language": "nederlands",
+    "priority": "online"
+  },
+  {
+    "route": "skfe",
+    "cardname": "Koolmijn Lorraine",
+    "progress": 100,
+    "comment": "Published successfully on 09/09/2024 12:51:26",
+    "category": "gebouw",
+    "language": "nederlands",
+    "priority": "online"
+  },
+  {
+    "route": "skgr",
+    "cardname": "Mijn Grube Reden",
+    "progress": 100,
+    "comment": "Maak het artikel af: Supergave slaapplek naar mijn CdF, waar we zijn weggestuurd, daarna waren we al op locatie om 4 uur? waren we zoekend? Gegeten, we zijn terug naar locatie gegaan. Kan me niks herinneren. Vertel dat F niet verder omhoog wilde, U wel, en F heeft afgeleid ? In de avond probleem met vinden slaapplek -> doorgereden naar volgende locatie, daar vlak in de buurt geslapen.Published successfully on 09/09/2024 12:51:26",
+    "category": "gebouw",
+    "language": "nederlands",
+    "priority": "online"
+  },
+  {
+    "route": "zss",
+    "cardname": "Sanatorium Saar",
+    "progress": 100,
+    "comment": "Published successfully on 09/09/2024 12:51:26",
+    "category": "gebouw",
+    "language": "nederlands",
+    "priority": "online"
+  },
+  {
+    "route": "pmp",
+    "cardname": "Kaliummijn Rodolphe",
+    "progress": 100,
+    "comment": "Published successfully on 09/09/2024 12:51:26",
+    "category": "gebouw",
+    "language": "nederlands",
+    "priority": "online"
+  },
+  {
+    "route": "mdfr",
+    "cardname": "Fort Vosges",
+    "progress": 100,
+    "comment": "Published successfully on 09/09/2024 12:51:26",
+    "category": "gebouw",
+    "language": "nederlands",
+    "priority": "online"
+  },
+  {
+    "route": "hfu",
+    "cardname": "Parc dUckange",
+    "progress": 100,
+    "comment": "Published successfully on 09/09/2024 12:51:26",
+    "category": "gebouw",
+    "language": "nederlands",
+    "priority": "online"
+  },
+  {
+    "route": "hfoa",
+    "cardname": "Atelier Montrouge",
+    "progress": 100,
+    "comment": "Published successfully on 09/09/2024 12:51:26",
+    "category": "gebouw",
+    "language": "nederlands",
+    "priority": "online"
+  },
+  {
+    "route": "mdfg",
+    "cardname": "Fort de Meuse",
+    "progress": 100,
+    "comment": "Published successfully on 09/09/2024 12:51:26",
+    "category": "gebouw",
+    "language": "nederlands",
+    "priority": "online"
+  },
+  {
+    "route": "kti",
+    "cardname": "Sint Josephkerk",
+    "progress": 100,
+    "comment": "Published successfully on 09/09/2024 12:51:26",
+    "category": "gebouw",
+    "language": "nederlands",
+    "priority": "online"
+  },
+  {
+    "route": "hlf",
+    "cardname": "Groeve Madame",
+    "progress": 100,
+    "comment": "Published successfully on 09/09/2024 12:51:26",
+    "category": "gebouw",
+    "language": "nederlands",
+    "priority": "online"
+  },
+  {
+    "route": "zjh",
+    "cardname": "Kent school",
+    "progress": 100,
+    "comment": "Published successfully on 09/09/2024 12:51:26",
+    "category": "gebouw",
+    "language": "nederlands",
+    "priority": "online"
+  },
+  {
+    "route": "zm",
+    "cardname": "Hospital de Mercy",
+    "progress": 100,
+    "comment": "Fotos en artikel bijwerken, zm later geïmporteerd. Locatie toevoegen en iets van geschiedenisPublished successfully on 10/09/2024 14:21:34",
+    "category": "gebouw",
+    "language": "nederlands",
+    "priority": "online"
+  },
+  {
+    "route": "skzv",
+    "cardname": "Zollverein",
+    "progress": 100,
+    "comment": "Import versie 4. Oude fotos zijn automatisch omgezet.Published successfully on 09/09/2024 12:51:26",
+    "category": "gebouw",
+    "language": "nederlands",
+    "priority": "online"
+  },
+  {
+    "route": "hbw",
+    "cardname": "Druckerei B",
+    "progress": 100,
+    "comment": "Import versie 4. Oude fotos zijn automatisch omgezet. Kan gepubliceerd. Coordinaten locatie toevoegen. Historie opzoekenPublished successfully on 10/09/2024 14:21:35",
+    "category": "gebouw",
+    "language": "nederlands",
+    "priority": "online"
+  },
+  {
+    "route": "hgg",
+    "cardname": "Glashütte",
+    "progress": 100,
+    "comment": "Import versie 4, foto's automatisch omgezet.Published successfully on 09/09/2024 12:26:25Published successfully on 09/09/2024 12:43:59Published successfully on 09/09/2024 12:51:25",
+    "category": "gebouw",
+    "language": "nederlands",
+    "priority": "online"
+  },
+  {
+    "route": "hdt",
+    "cardname": "DAF toren",
+    "progress": 100,
+    "comment": "Automatische import uit versie 4. In die vorm publish-klaar.Published successfully on 09/09/2024 12:51:26",
+    "category": "gebouw",
+    "language": "nederlands",
+    "priority": "online"
+  },
+  {
+    "route": "sksh",
+    "cardname": "Koolmijn Holdern",
+    "progress": 100,
+    "comment": "Automatische import uit versie 4. In die vorm publish-klaar.Published successfully on 09/09/2024 12:51:26",
+    "category": "gebouw",
+    "language": "nederlands",
+    "priority": "online"
+  },
+  {
+    "route": "hfsd2",
+    "cardname": "Sinteranlage 2",
+    "progress": 100,
+    "comment": "Automatische import uit versie 4. In die vorm publish-klaar.Published successfully on 09/09/2024 12:51:26",
+    "category": "gebouw",
+    "language": "nederlands",
+    "priority": "online"
+  },
+  {
+    "route": "skhc",
+    "cardname": "Koolmijn Hugo C",
+    "progress": 100,
+    "comment": "Automatische import uit versie 4. In die vorm publish-klaar.Published successfully on 09/09/2024 12:51:26",
+    "category": "gebouw",
+    "language": "nederlands",
+    "priority": "online"
+  },
+  {
+    "route": "skof",
+    "cardname": "Mijn Oosterveld",
+    "progress": 100,
+    "comment": "Automatische import uit versie 4. In die vorm publish-klaar.Published successfully on 09/09/2024 12:26:25Published successfully on 09/09/2024 12:43:59Published successfully on 09/09/2024 12:51:25",
+    "category": "gebouw",
+    "language": "nederlands",
+    "priority": "online"
+  },
+  {
+    "route": "mdw2",
+    "cardname": "Wolvenkloof Hitler",
+    "progress": 100,
+    "comment": "Published successfully on 09/09/2024 12:51:26",
+    "category": "gebouw",
+    "language": "nederlands",
+    "priority": "online"
+  },
+  {
+    "route": "rgu",
+    "cardname": "Stairway to h...",
+    "progress": 100,
+    "comment": "Automatische import uit versie 4. In die vorm publish-klaar.Published successfully on 09/09/2024 12:26:25Published successfully on 09/09/2024 12:43:59Published successfully on 09/09/2024 12:51:25",
+    "category": "gebouw",
+    "language": "nederlands",
+    "priority": "online"
+  },
+  {
+    "route": "hfgp",
+    "cardname": "Papet. Godinne",
+    "progress": 100,
+    "comment": "Automatische import uit versie 4. In die vorm publish-klaar. Published successfully on 18/04/2025 16:23:27",
+    "category": "gebouw",
+    "language": "nederlands",
+    "priority": "online"
+  },
+  {
+    "route": "hoha",
+    "cardname": "Villa Petite Terre",
+    "progress": 100,
+    "comment": "Published successfully on 09/09/2024 12:51:26",
+    "category": "gebouw",
+    "language": "nederlands",
+    "priority": "online"
+  },
+  {
+    "route": "skeh",
+    "cardname": "Mijn IJzeren Moker",
+    "progress": 100,
+    "comment": "Automatische import uit versie 4. In die vorm publish-klaar.Published successfully on 09/09/2024 12:26:25Published successfully on 09/09/2024 12:43:59Published successfully on 09/09/2024 12:51:25",
+    "category": "gebouw",
+    "language": "nederlands",
+    "priority": "online"
+  },
+  {
+    "route": "skef",
+    "cardname": "Koolmijn Ewoud V",
+    "progress": 100,
+    "comment": "Automatische import uit versie 4. In die vorm publish-klaar.Published successfully on 10/09/2024 14:21:35",
+    "category": "gebouw",
+    "language": "nederlands",
+    "priority": "online"
+  },
+  {
+    "route": "skkl",
+    "cardname": "Koolmijn Lodewijk",
+    "progress": 100,
+    "comment": "Automatische import uit versie 4. In die vorm publish-klaar.Published successfully on 09/09/2024 12:26:25Published successfully on 09/09/2024 12:43:59Published successfully on 09/09/2024 12:51:25",
+    "category": "gebouw",
+    "language": "nederlands",
+    "priority": "online"
+  },
+  {
+    "route": "koka",
+    "cardname": "Fabriek Keizerstoel",
+    "progress": 100,
+    "comment": "Automatische import uit versie 4. In die vorm publish-klaar.Published successfully on 09/09/2024 12:26:25Published successfully on 09/09/2024 12:43:59Published successfully on 09/09/2024 12:51:25",
+    "category": "gebouw",
+    "language": "nederlands",
+    "priority": "online"
+  },
+  {
+    "route": "skadh",
+    "cardname": "Koolmijn Vuurplaats",
+    "progress": 100,
+    "comment": "Automatische import uit versie 4. Published successfully on 20/03/2025 11:58:49",
+    "category": "gebouw",
+    "language": "nederlands",
+    "priority": "online"
+  },
+  {
+    "route": "mdvla",
+    "cardname": "Vliegveld Laarbruch",
+    "progress": 100,
+    "comment": "Automatische import uit versie 4. In die vorm publish-klaar.Published successfully on 09/09/2024 12:26:25Published successfully on 09/09/2024 12:43:59Published successfully on 09/09/2024 12:51:25",
+    "category": "gebouw",
+    "language": "nederlands",
+    "priority": "online"
+  },
+  {
+    "route": "hhom",
+    "cardname": "Fabriek Homburg",
+    "progress": 100,
+    "comment": "Automatische import uit versie 4. In die vorm publish-klaar.Published successfully on 17/01/2025 16:55:24",
+    "category": "gebouw",
+    "language": "nederlands",
+    "priority": "online"
+  },
+  {
+    "route": "hfc",
+    "cardname": "Sojafabriek",
+    "progress": 100,
+    "comment": "Automatische import uit versie 4. In die vorm publish-klaar.Published successfully on 09/09/2024 12:26:25Published successfully on 09/09/2024 12:43:59Published successfully on 09/09/2024 12:51:25",
+    "category": "gebouw",
+    "language": "nederlands",
+    "priority": "online"
+  },
+  {
+    "route": "hfn",
+    "cardname": "Fabriek Neerlandia",
+    "progress": 100,
+    "comment": "Automatische import uit versie 4. In die vorm publish-klaar.Published successfully on 10/09/2024 14:21:35",
+    "category": "gebouw",
+    "language": "nederlands",
+    "priority": "online"
+  },
+  {
+    "route": "owvo",
+    "cardname": "Willem College",
+    "progress": 100,
+    "comment": "Published successfully on 09/09/2024 12:51:26",
+    "category": "gebouw",
+    "language": "nederlands",
+    "priority": "online"
+  },
+  {
+    "route": "mdfh",
+    "cardname": "Frederik Hendrikkaz",
+    "progress": 100,
+    "comment": "Automatische import uit versie 4. In die vorm publish-klaar. Published successfully on 17/01/2025 16:55:24",
+    "category": "gebouw",
+    "language": "nederlands",
+    "priority": "online"
+  },
+  {
+    "route": "vge",
+    "cardname": "Villa Gkirchen",
+    "progress": 100,
+    "comment": "Automatische import uit versie 4. In die vorm publish-klaar. Locatie toevoegenPublished successfully on 10/09/2024 14:21:35",
+    "category": "gebouw",
+    "language": "nederlands",
+    "priority": "online"
+  },
+  {
+    "route": "lapadu",
+    "cardname": "Fabriek LaPaDu",
+    "progress": 100,
+    "comment": "Automatische import uit versie 4. In die vorm publish-klaar.Published successfully on 09/09/2024 12:51:26",
+    "category": "gebouw",
+    "language": "nederlands",
+    "priority": "online"
+  },
+  {
+    "route": "baob",
+    "cardname": "Bw Oberhausen",
+    "progress": 100,
+    "comment": "Automatische import uit versie 4. In die vorm publish-klaar.Published successfully on 23/12/2024 21:50:23",
+    "category": "gebouw",
+    "language": "nederlands",
+    "priority": "online"
+  },
+  {
+    "route": "pzs",
+    "cardname": "Prov. Ziekenhuis",
+    "progress": 100,
+    "comment": "Published successfully on 09/09/2024 12:51:26",
+    "category": "gebouw",
+    "language": "nederlands",
+    "priority": "online"
+  },
+  {
+    "route": "hmu",
+    "cardname": "De Haan Fabriek",
+    "progress": 100,
+    "comment": "Published successfully on 09/09/2024 12:51:26",
+    "category": "gebouw",
+    "language": "nederlands",
+    "priority": "online"
+  },
+  {
+    "route": "afta",
+    "cardname": "Fabriek Agrodorp",
+    "progress": 100,
+    "comment": "Published successfully on 09/09/2024 12:51:26",
+    "category": "gebouw",
+    "language": "nederlands",
+    "priority": "online"
+  },
+  {
+    "route": "afc",
+    "cardname": "De Centrale Coevorden",
+    "progress": 100,
+    "comment": "Published successfully on 09/09/2024 12:51:26",
+    "category": "gebouw",
+    "language": "nederlands",
+    "priority": "online"
+  },
+  {
+    "route": "hfsd",
+    "cardname": "Sinteranlage",
+    "progress": 100,
+    "comment": "Automatische import uit versie 4. In die vorm publish-klaar.Published successfully on 09/09/2024 12:51:26",
+    "category": "gebouw",
+    "language": "nederlands",
+    "priority": "online"
+  },
+  {
+    "route": "mdaz",
+    "cardname": "Kamp Astrid Zuid",
+    "progress": 100,
+    "comment": "Automatische import uit versie 4. In die vorm publish-klaar.Published successfully on 23/12/2024 21:50:23",
+    "category": "gebouw",
+    "language": "nederlands",
+    "priority": "online"
+  },
+  {
+    "route": "klkb",
+    "cardname": "Klooster Bleijerheide",
+    "progress": 100,
+    "comment": "Automatische import uit versie 4. In die vorm publish-klaar.Published successfully on 06/12/2024 18:06:02",
+    "category": "gebouw",
+    "language": "nederlands",
+    "priority": "online"
+  },
+  {
+    "route": "petrol",
+    "cardname": "Petroleum Zuid",
+    "progress": 100,
+    "comment": "Automatische import uit versie 4. In die vorm publish-klaar.Published successfully on 17/01/2025 16:55:24",
+    "category": "gebouw",
+    "language": "nederlands",
+    "priority": "online"
+  },
+  {
+    "route": "kmsn",
+    "cardname": "Kasteel Mesen",
+    "progress": 100,
+    "comment": "Published successfully on 09/09/2024 12:51:26",
+    "category": "gebouw",
+    "language": "nederlands",
+    "priority": "online"
+  },
+  {
+    "route": "hmi",
+    "cardname": "Fabriek Missil Oil",
+    "progress": 100,
+    "comment": "Automatische import uit versie 4. In die vorm publish-klaar. Published successfully on 17/01/2025 16:55:25Published successfully on 12/02/2025 15:35:06",
+    "category": "gebouw",
+    "language": "nederlands",
+    "priority": "online"
+  },
+  {
+    "route": "fwa",
+    "cardname": "Fort Walem",
+    "progress": 100,
+    "comment": "Automatische import uit versie 4.Published successfully on 08/11/2024 17:27:01",
+    "category": "gebouw",
+    "language": "nederlands",
+    "priority": "online"
+  },
+  {
+    "route": "fbhw",
+    "cardname": "Atelier Brüninghaus",
+    "progress": 100,
+    "comment": "Published successfully on 09/09/2024 12:51:26",
+    "category": "gebouw",
+    "language": "nederlands",
+    "priority": "online"
+  },
+  {
+    "route": "olu",
+    "cardname": "LuZaC College",
+    "progress": 100,
+    "comment": "Automatische import uit versie 4. In die vorm publish-klaar.Published successfully on 17/01/2025 16:55:25",
+    "category": "gebouw",
+    "language": "nederlands",
+    "priority": "online"
+  },
+  {
+    "route": "skwa",
+    "cardname": "Koolmijn Waterschei",
+    "progress": 100,
+    "comment": "Automatische import uit versie 4. In die vorm publish-klaar.Published successfully on 09/09/2024 12:26:25Published successfully on 09/09/2024 12:43:59Published successfully on 09/09/2024 12:51:25",
+    "category": "gebouw",
+    "language": "nederlands",
+    "priority": "online"
+  },
+  {
+    "route": "hhw",
+    "cardname": "Loods Heumans",
+    "progress": 100,
+    "comment": "Automatische import uit versie 4. In die vorm publish-klaar.Published successfully on 31/01/2025 17:33:10",
+    "category": "gebouw",
+    "language": "nederlands",
+    "priority": "online"
+  },
+  {
+    "route": "hap",
+    "cardname": "A&P Supermarkt",
+    "progress": 100,
+    "comment": "Automatische import uit versie 4. In die vorm publish-klaar.Published successfully on 06/12/2024 09:37:48",
+    "category": "gebouw",
+    "language": "nederlands",
+    "priority": "online"
+  },
+  {
+    "route": "kmcn",
+    "cardname": "Kasteel Miranda",
+    "progress": 100,
+    "comment": "Automatische import uit versie 4. In die vorm publish-klaar.Published successfully on 06/12/2024 18:06:02",
+    "category": "gebouw",
+    "language": "nederlands",
+    "priority": "online"
+  },
+  {
+    "route": "hron",
+    "cardname": "NMBS Kantoren",
+    "progress": 100,
+    "comment": "Automatische import uit versie 4. In die vorm publish-klaar.Published successfully on 17/01/2025 16:55:25",
+    "category": "gebouw",
+    "language": "nederlands",
+    "priority": "online"
+  },
+  {
+    "route": "skha",
+    "cardname": "Koolmijn Hasard",
+    "progress": 100,
+    "comment": "Automatische import uit versie 4. In die vorm publish-klaar. Published successfully on 24/01/2025 17:30:59",
+    "category": "gebouw",
+    "language": "nederlands",
+    "priority": "online"
+  },
+  {
+    "route": "skhz",
+    "cardname": "Koolmijn Zolder",
+    "progress": 100,
+    "comment": "Automatische import uit versie 4. In die vorm publish-klaar. ",
+    "category": "gebouw",
+    "language": "nederlands",
+    "priority": "online"
+  },
+  {
+    "route": "skbe",
+    "cardname": "Koolmijn Beringen",
+    "progress": 100,
+    "comment": "Automatische import uit versie 4. In die vorm publish-klaar. ",
+    "category": "gebouw",
+    "language": "nederlands",
+    "priority": "online"
+  },
+  {
+    "route": "rnastr",
+    "cardname": "Napoleonstrand",
+    "progress": 100,
+    "comment": "Automatische import uit versie 4. In die vorm publish-klaar. Originelen zijn al opgezocht.Published successfully on 08/11/2024 17:27:01",
+    "category": "gebouw",
+    "language": "nederlands",
+    "priority": "online"
+  },
+  {
+    "route": "hpt",
+    "cardname": "Pigeon tower",
+    "progress": 100,
+    "comment": "Automatische import uit versie 4. In die vorm publish-klaar.Published successfully on 12/02/2025 15:35:06",
+    "category": "gebouw",
+    "language": "nederlands",
+    "priority": "online"
+  },
+  {
+    "route": "tnh",
+    "cardname": "Traction Nord",
+    "progress": 100,
+    "comment": "Published successfully on 09/09/2024 12:51:26",
+    "category": "gebouw",
+    "language": "nederlands",
+    "priority": "online"
+  },
+  {
+    "route": "mdvb1",
+    "cardname": "MD Vlasberg",
+    "progress": 100,
+    "comment": "Automatische import uit versie 4. In die vorm publish-klaar. Published successfully on 24/01/2025 17:30:59",
+    "category": "gebouw",
+    "language": "nederlands",
+    "priority": "online"
+  },
+  {
+    "route": "fkvl",
+    "cardname": "Verenigde Leder",
+    "progress": 100,
+    "comment": "Automatische import uit versie 4. In die vorm publish-klaar.Published successfully on 12/02/2025 15:35:06",
+    "category": "gebouw",
+    "language": "nederlands",
+    "priority": "online"
+  },
+  {
+    "route": "mdmh",
+    "cardname": "MD Molenheide",
+    "progress": 100,
+    "comment": "Automatische import uit versie 4. In die vorm publish-klaar. Published successfully on 31/01/2025 16:52:21",
+    "category": "gebouw",
+    "language": "nederlands",
+    "priority": "online"
+  },
+  {
+    "route": "hmb",
+    "cardname": "Handel Mercier Bois",
+    "progress": 100,
+    "comment": "Automatische import uit versie 4. In die vorm publish-klaar.Published successfully on 31/01/2025 16:52:21",
+    "category": "gebouw",
+    "language": "nederlands",
+    "priority": "online"
+  },
+  {
+    "route": "fcia",
+    "cardname": "Fabriek CIA Luik",
+    "progress": 100,
+    "comment": "Published successfully on 09/09/2024 12:51:26",
+    "category": "gebouw",
+    "language": "nederlands",
+    "priority": "online"
+  },
+  {
+    "route": "smo",
+    "cardname": "Montzen station",
+    "progress": 100,
+    "comment": "Published successfully on 09/09/2024 12:51:26",
+    "category": "gebouw",
+    "language": "nederlands",
+    "priority": "online"
+  },
+  {
+    "route": "mka1",
+    "cardname": "Camp Pinefield",
+    "progress": 100,
+    "comment": "Automatische import uit versie 4. In die vorm publish-klaar. Published successfully on 12/02/2025 15:35:06",
+    "category": "gebouw",
+    "language": "nederlands",
+    "priority": "online"
+  },
+  {
+    "route": "mka2",
+    "cardname": "Depot Arsbeck",
+    "progress": 100,
+    "comment": "Automatische import uit versie 4. In die vorm publish-klaar. Published successfully on 31/01/2025 16:52:21Published successfully on 12/02/2025 15:35:07",
+    "category": "gebouw",
+    "language": "nederlands",
+    "priority": "online"
+  },
+  {
+    "route": "mbw",
+    "cardname": "MD Brachterwald",
+    "progress": 100,
+    "comment": "Automatische import uit versie 4. In die vorm publish-klaar.Published successfully on 03/01/2025 21:02:57",
+    "category": "gebouw",
+    "language": "nederlands",
+    "priority": "online"
+  },
+  {
+    "route": "l18p1",
+    "cardname": "Lijn 18 Kempen 1",
+    "progress": 80,
+    "comment": "Published successfully on 14/03/2025 17:40:49",
+    "category": "spoor",
+    "language": "nederlands",
+    "priority": "online"
+  },
+  {
+    "route": "l18p2",
+    "cardname": "Lijn 18 Kempen 2",
+    "progress": 80,
+    "comment": "Bruggetje op foto 004 ligt juist bij begijnenvijver. Laatste twee foto's lijkt de omschrijving verkeerd(om) te zijn. Ik mis twee foto's viaduct en Prinsenbeek",
+    "category": "spoor",
+    "language": "nederlands",
+    "priority": "online"
+  },
+  {
+    "route": "l18a",
+    "cardname": "Lijn 18A Militair",
+    "progress": 80,
+    "comment": "Published successfully on 11/11/2024 09:45:45",
+    "category": "spoor",
+    "language": "nederlands",
+    "priority": "online"
+  },
+  {
+    "route": "l20",
+    "cardname": "Lijn 20 Maastricht",
+    "progress": 80,
+    "comment": "Published successfully on 13/11/2024 17:18:41",
+    "category": "spoor",
+    "language": "nederlands",
+    "priority": "online"
+  },
+  {
+    "route": "l21a",
+    "cardname": "Lijn 21A Maaseik",
+    "progress": 80,
+    "comment": "Published successfully on 12/11/2024 17:48:49",
+    "category": "spoor",
+    "language": "nederlands",
+    "priority": "online"
+  },
+  {
+    "route": "l21ab",
+    "cardname": "Lijn 21B Kolenlijn",
+    "progress": 80,
+    "comment": "Published successfully on 12/11/2024 17:48:49",
+    "category": "spoor",
+    "language": "nederlands",
+    "priority": "online"
+  },
+  {
+    "route": "l21bb",
+    "cardname": "Lijn 21B Eisden",
+    "progress": 80,
+    "comment": "Import van tx versie 4. Published successfully on 12/11/2024 17:48:49",
+    "category": "spoor",
+    "language": "nederlands",
+    "priority": "online"
+  },
+  {
+    "route": "l24is",
+    "cardname": "Rac. Loën",
+    "progress": 80,
+    "comment": "Import TX version 4. Published successfully on 13/11/2024 17:18:41",
+    "category": "spoor",
+    "language": "nederlands",
+    "priority": "online"
+  },
+  {
+    "route": "l31",
+    "cardname": "Lijn 31 Rocourt",
+    "progress": 80,
+    "comment": "Nakijken, coordinaten invullenPublished successfully on 11/11/2024 09:45:45",
+    "category": "spoor",
+    "language": "nederlands",
+    "priority": "online"
+  },
+  {
+    "route": "l126",
+    "cardname": "Lijn 126 Condroz",
+    "progress": 80,
+    "comment": "Published successfully on 10/09/2024 14:21:35",
+    "category": "spoor",
+    "language": "nederlands",
+    "priority": "online"
+  },
+  {
+    "route": "l128",
+    "cardname": "Lijn 128 Bocq",
+    "progress": 80,
+    "comment": "Published successfully on 28/02/2025 19:38:16",
+    "category": "spoor",
+    "language": "nederlands",
+    "priority": "online"
+  },
+  {
+    "route": "l152",
+    "cardname": "Lijn 152 Lesse",
+    "progress": 80,
+    "comment": "Four imported. Published successfully on 28/02/2025 19:38:16",
+    "category": "spoor",
+    "language": "nederlands",
+    "priority": "online"
+  },
+  {
+    "route": "l154",
+    "cardname": "Lijn 154 Maas",
+    "progress": 100,
+    "comment": "Published successfully on 24/12/2024 15:22:08",
+    "category": "spoor",
+    "language": "nederlands",
+    "priority": "online"
+  },
+  {
+    "route": "l163",
+    "cardname": "Lijn 163 Crêtes I",
+    "progress": 100,
+    "comment": "Tegelijk met 163b, 2563 en 2572b publicerenPublished successfully on 28/02/2025 19:38:16",
+    "category": "spoor",
+    "language": "nederlands",
+    "priority": "online"
+  },
+  {
+    "route": "nl181",
+    "cardname": "Langstraatspoor",
+    "progress": 80,
+    "comment": " I have got many new pictures. Published successfully on 11/11/2024 09:45:45",
+    "category": "spoor",
+    "language": "nederlands",
+    "priority": "online"
+  },
+  {
+    "route": "l18p3",
+    "cardname": "Lijn 18 Kempen 3",
+    "progress": 80,
+    "comment": "Published successfully on 13/11/2024 17:18:41",
+    "category": "spoor",
+    "language": "nederlands",
+    "priority": "online"
+  },
+  {
+    "route": "nl201",
+    "cardname": "Lijn 201 Emmen",
+    "progress": 80,
+    "comment": "Import v4. Published successfully on 13/11/2024 17:18:41",
+    "category": "spoor",
+    "language": "nederlands",
+    "priority": "online"
+  },
+  {
+    "route": "nl204",
+    "cardname": "Lijn 204 Assen",
+    "progress": 80,
+    "comment": "Import version 4. Originele afbeeldingen opgezocht en in TXW archief gezetPublished successfully on 06/12/2024 09:37:48",
+    "category": "spoor",
+    "language": "nederlands",
+    "priority": "online"
+  },
+  {
+    "route": "nl207",
+    "cardname": "Lijn 207 STAR",
+    "progress": 80,
+    "comment": "Imported from TX4. Originele fotos in map gezet TXWPublished successfully on 06/12/2024 09:37:49",
+    "category": "spoor",
+    "language": "nederlands",
+    "priority": "online"
+  },
+  {
+    "route": "mfas",
+    "cardname": "Kazerne La Seyte",
+    "progress": 100,
+    "comment": "Published successfully on 10/01/2025 18:55:43",
+    "category": "gebouw",
+    "language": "nederlands",
+    "priority": "online"
+  },
+  {
+    "route": "mfac",
+    "cardname": "Alpenfort Infernet",
+    "progress": 100,
+    "comment": "Published successfully on 17/01/2025 16:55:25",
+    "category": "gebouw",
+    "language": "nederlands",
+    "priority": "online"
+  },
+  {
+    "route": "l24a",
+    "cardname": "Lijn 24A Ronheide",
+    "progress": 100,
+    "comment": "Import TX4. Published successfully on 17/01/2025 16:55:25",
+    "category": "spoor",
+    "language": "nederlands",
+    "priority": "online"
+  },
+  {
+    "route": "l29",
+    "cardname": "Lijn 29 Belze lijn",
+    "progress": 100,
+    "comment": "Import TX4. Published successfully on 17/01/2025 16:55:25",
+    "category": "spoor",
+    "language": "nederlands",
+    "priority": "online"
+  },
+  {
+    "route": "l38",
+    "cardname": "Lijn 38 Herve",
+    "progress": 100,
+    "comment": "Import TX4.Published successfully on 17/01/2025 16:55:25",
+    "category": "spoor",
+    "language": "nederlands",
+    "priority": "online"
+  },
+  {
+    "route": "l39",
+    "cardname": "Lijn 39 Gemmenich",
+    "progress": 100,
+    "comment": "Import TX4Published successfully on 10/01/2025 18:55:43",
+    "category": "spoor",
+    "language": "nederlands",
+    "priority": "online"
+  },
+  {
+    "route": "l39a",
+    "cardname": "Lijn 39B Kelmis",
+    "progress": 100,
+    "comment": "Import TX4Published successfully on 10/01/2025 18:55:43",
+    "category": "spoor",
+    "language": "nederlands",
+    "priority": "online"
+  },
+  {
+    "route": "l52",
+    "cardname": "Lijn 52 Museum",
+    "progress": 80,
+    "comment": "TX4 import.Published successfully on 23/12/2024 21:50:23",
+    "category": "spoor",
+    "language": "nederlands",
+    "priority": "online"
+  },
+  {
+    "route": "l111",
+    "cardname": "Lijn 111 Thuillies",
+    "progress": 100,
+    "comment": "Published successfully on 28/02/2025 19:38:16",
+    "category": "spoor",
+    "language": "nederlands",
+    "priority": "online"
+  },
+  {
+    "route": "l132p2",
+    "cardname": "Lijn 132 Viroinval",
+    "progress": 100,
+    "comment": "TX 4 import. Published successfully on 23/12/2024 21:50:23",
+    "category": "spoor",
+    "language": "nederlands",
+    "priority": "online"
+  },
+  {
+    "route": "l136",
+    "cardname": "Lijn 136 Florennes",
+    "progress": 100,
+    "comment": "Nakijken, coordinaten invullenPublished successfully on 07/03/2025 19:29:13",
+    "category": "spoor",
+    "language": "nederlands",
+    "priority": "online"
+  },
+  {
+    "route": "l136a",
+    "cardname": "Lijn 136A Ermeton",
+    "progress": 100,
+    "comment": "Import TX4Published successfully on 10/01/2025 18:55:43",
+    "category": "spoor",
+    "language": "nederlands",
+    "priority": "online"
+  },
+  {
+    "route": "l138a",
+    "cardname": "Lijn 138A Givet",
+    "progress": 100,
+    "comment": "Import TX 4. Published successfully on 03/01/2025 21:02:57",
+    "category": "spoor",
+    "language": "nederlands",
+    "priority": "online"
+  },
+  {
+    "route": "l150",
+    "cardname": "Lijn 150 Samber-Maas",
+    "progress": 100,
+    "comment": "TX4 import. Published successfully on 23/12/2024 21:50:23",
+    "category": "spoor",
+    "language": "nederlands",
+    "priority": "online"
+  },
+  {
+    "route": "l156",
+    "cardname": "Lijn 156 Chimay",
+    "progress": 100,
+    "comment": "Published successfully on 03/01/2025 21:02:57",
+    "category": "spoor",
+    "language": "nederlands",
+    "priority": "online"
+  },
+  {
+    "route": "nl136",
+    "cardname": "Bocholter baan",
+    "progress": 100,
+    "comment": "Published successfully on 23/12/2024 21:50:23",
+    "category": "spoor",
+    "language": "nederlands",
+    "priority": "online"
+  },
+  {
+    "route": "f695p1",
+    "cardname": "Montluçon - Eygurande",
+    "progress": 100,
+    "comment": "Published successfully on 20/03/2025 11:58:49",
+    "category": "spoor",
+    "language": "nederlands",
+    "priority": "online"
+  },
+  {
+    "route": "f708",
+    "cardname": "Montluçon - Goutti",
+    "progress": 100,
+    "comment": "Published successfully on 14/03/2025 16:36:25",
+    "category": "spoor",
+    "language": "nederlands",
+    "priority": "online"
+  },
+  {
+    "route": "f709",
+    "cardname": "Lapeyrouse - Volvic",
+    "progress": 100,
+    "comment": "TX4 import. Published successfully on 17/01/2025 16:55:25",
+    "category": "spoor",
+    "language": "nederlands",
+    "priority": "online"
+  },
+  {
+    "route": "kdo",
+    "cardname": "De Dodenkapel",
+    "progress": 100,
+    "comment": "Published successfully on 10/09/2024 14:21:35",
+    "category": "gebouw",
+    "language": "nederlands",
+    "priority": "online"
+  },
+  {
+    "route": "vbo",
+    "cardname": "Borschemich",
+    "progress": 100,
+    "comment": "Published successfully on 10/09/2024 14:21:35",
+    "category": "gebouw",
+    "language": "nederlands",
+    "priority": "online"
+  },
+  {
+    "route": "vpb",
+    "cardname": "Kinderparty Bus",
+    "progress": 100,
+    "comment": "Published successfully on 09/09/2024 12:51:26",
+    "category": "gebouw",
+    "language": "nederlands",
+    "priority": "online"
+  },
+  {
+    "route": "vima",
+    "cardname": "Immerath",
+    "progress": 100,
+    "comment": "Published successfully on 09/09/2024 12:51:26",
+    "category": "gebouw",
+    "language": "nederlands",
+    "priority": "online"
+  },
+  {
+    "route": "skto",
+    "cardname": "Mijn Teunisberg",
+    "progress": 100,
+    "comment": "Published successfully on 09/09/2024 12:51:26",
+    "category": "gebouw",
+    "language": "nederlands",
+    "priority": "online"
+  },
+  {
+    "route": "vpe",
+    "cardname": "Spookdorp Pesch",
+    "progress": 100,
+    "comment": "Published successfully on 09/09/2024 12:51:26",
+    "category": "gebouw",
+    "language": "nederlands",
+    "priority": "online"
+  },
+  {
+    "route": "mdf3",
+    "cardname": "Fort 3 Antwerpen",
+    "progress": 100,
+    "comment": "Published successfully on 09/09/2024 12:51:26",
+    "category": "gebouw",
+    "language": "nederlands",
+    "priority": "online"
+  },
+  {
+    "route": "mdf4",
+    "cardname": "Fort 4 Antwerpen",
+    "progress": 100,
+    "comment": "Published successfully on 09/09/2024 12:51:26",
+    "category": "gebouw",
+    "language": "nederlands",
+    "priority": "online"
+  },
+  {
+    "route": "fk",
+    "cardname": "Fort IX Keulen",
+    "progress": 100,
+    "comment": "Published successfully on 09/09/2024 12:51:26",
+    "category": "gebouw",
+    "language": "nederlands",
+    "priority": "online"
+  },
+  {
+    "route": "holp",
+    "cardname": "CIA Revisited",
+    "progress": 100,
+    "comment": "Published successfully on 09/09/2024 12:51:26",
+    "category": "gebouw",
+    "language": "nederlands",
+    "priority": "online"
+  },
+  {
+    "route": "ruwa",
+    "cardname": "Hotel Waldburg",
+    "progress": 100,
+    "comment": "Published successfully on 09/09/2024 12:51:26",
+    "category": "gebouw",
+    "language": "nederlands",
+    "priority": "online"
+  },
+  {
+    "route": "ruwo",
+    "cardname": "Huis Wolfskuilen",
+    "progress": 100,
+    "comment": "Published successfully on 09/09/2024 12:51:26",
+    "category": "gebouw",
+    "language": "nederlands",
+    "priority": "online"
+  },
+  {
+    "route": "hfff",
+    "cardname": "Veevoerfabriek ABC D",
+    "progress": 100,
+    "comment": "Published successfully on 09/09/2024 12:51:26",
+    "category": "gebouw",
+    "language": "nederlands",
+    "priority": "online"
+  },
+  {
+    "route": "mdss",
+    "cardname": "Schans Schilde",
+    "progress": 100,
+    "comment": "Published successfully on 09/09/2024 12:51:26",
+    "category": "gebouw",
+    "language": "nederlands",
+    "priority": "online"
+  },
+  {
+    "route": "mdsz",
+    "cardname": "Schans Zestien",
+    "progress": 100,
+    "comment": "Published successfully on 09/09/2024 12:51:26",
+    "category": "gebouw",
+    "language": "nederlands",
+    "priority": "online"
+  },
+  {
+    "route": "hfg",
+    "cardname": "Grafitti Wasserij",
+    "progress": 100,
+    "comment": "Published successfully on 09/09/2024 12:51:26",
+    "category": "gebouw",
+    "language": "nederlands",
+    "priority": "online"
+  },
+  {
+    "route": "mcan",
+    "cardname": "MD Astrid Noord",
+    "progress": 100,
+    "comment": "Published successfully on 09/09/2024 12:51:26",
+    "category": "gebouw",
+    "language": "nederlands",
+    "priority": "online"
+  },
+  {
+    "route": "bwkz",
+    "cardname": "Bahnwerke Eifel",
+    "progress": 100,
+    "comment": "Published successfully on 09/09/2024 12:51:26",
+    "category": "gebouw",
+    "language": "nederlands",
+    "priority": "online"
+  },
+  {
+    "route": "ruwe",
+    "cardname": "Ruïne Wensburg",
+    "progress": 100,
+    "comment": "Published successfully on 09/09/2024 12:51:26",
+    "category": "gebouw",
+    "language": "nederlands",
+    "priority": "online"
+  },
+  {
+    "route": "bwrx",
+    "cardname": "Atelier SNCB Roux",
+    "progress": 100,
+    "comment": "Published successfully on 09/09/2024 12:51:26",
+    "category": "gebouw",
+    "language": "nederlands",
+    "priority": "online"
+  },
+  {
+    "route": "hbpt",
+    "cardname": "Petrol Tilburg",
+    "progress": 100,
+    "comment": "Published successfully on 09/09/2024 12:51:26",
+    "category": "gebouw",
+    "language": "nederlands",
+    "priority": "online"
+  },
+  {
+    "route": "hcb",
+    "cardname": "Koolmijn Boubier",
+    "progress": 100,
+    "comment": "Published successfully on 09/09/2024 12:51:26",
+    "category": "gebouw",
+    "language": "nederlands",
+    "priority": "online"
+  },
+  {
+    "route": "hhs",
+    "cardname": "Staal H-Samber",
+    "progress": 100,
+    "comment": "Published successfully on 09/09/2024 12:51:26",
+    "category": "gebouw",
+    "language": "nederlands",
+    "priority": "online"
+  },
+  {
+    "route": "bwmc",
+    "cardname": "Atelier SNCB Mon eau",
+    "progress": 100,
+    "comment": "Published successfully on 09/09/2024 12:51:26",
+    "category": "gebouw",
+    "language": "nederlands",
+    "priority": "online"
+  },
+  {
+    "route": "rulo",
+    "cardname": "Ruïne Löwenburg",
+    "progress": 100,
+    "comment": "Published successfully on 09/09/2024 12:51:26",
+    "category": "gebouw",
+    "language": "nederlands",
+    "priority": "online"
+  },
+  {
+    "route": "hvsl",
+    "cardname": "Glas Saint-Lambert",
+    "progress": 100,
+    "comment": "Published successfully on 18/04/2025 16:23:27",
+    "category": "gebouw",
+    "language": "nederlands",
+    "priority": "online"
+  },
+  {
+    "route": "ts",
+    "cardname": "Traction Sud",
+    "progress": 100,
+    "comment": "Published successfully on 09/09/2024 12:51:26",
+    "category": "gebouw",
+    "language": "nederlands",
+    "priority": "online"
+  },
+  {
+    "route": "tch",
+    "cardname": "Chatillon",
+    "progress": 100,
+    "comment": "Published successfully on 09/09/2024 12:51:26",
+    "category": "gebouw",
+    "language": "nederlands",
+    "priority": "online"
+  },
+  {
+    "route": "mdch",
+    "cardname": "Fort de la Chartreuse",
+    "progress": 100,
+    "comment": "Published successfully on 09/09/2024 12:51:26",
+    "category": "gebouw",
+    "language": "nederlands",
+    "priority": "online"
+  },
+  {
+    "route": "mfag",
+    "cardname": "Alpenfort Gondran",
+    "progress": 100,
+    "comment": "Published successfully on 09/09/2024 12:51:26",
+    "category": "gebouw",
+    "language": "nederlands",
+    "priority": "online"
+  },
+  {
+    "route": "msuw",
+    "cardname": "Sovjetkazerne Berlin",
+    "progress": 100,
+    "comment": "Published successfully on 09/09/2024 12:51:26",
+    "category": "gebouw",
+    "language": "nederlands",
+    "priority": "online"
+  },
+  {
+    "route": "bawu",
+    "cardname": "Bahnwerke Berlin",
+    "progress": 100,
+    "comment": "Automatische import uit versie 4. In die vorm publish-klaar. Published successfully on 14/03/2025 16:36:25",
+    "category": "gebouw",
+    "language": "nederlands",
+    "priority": "online"
+  },
+  {
+    "route": "bwbi",
+    "cardname": "Bw Bissingheim",
+    "progress": 100,
+    "comment": "Import van versie 4, foto's automatisch omgezet. Published successfully on 14/03/2025 16:36:25",
+    "category": "gebouw",
+    "language": "nederlands",
+    "priority": "online"
+  },
+  {
+    "route": "mfry",
+    "cardname": "Fort Rhijnauwen",
+    "progress": 100,
+    "comment": "Published successfully on 09/09/2024 12:51:26",
+    "category": "gebouw",
+    "language": "nederlands",
+    "priority": "online"
+  },
+  {
+    "route": "l44",
+    "cardname": "Lijn 44 Spa",
+    "progress": 100,
+    "comment": "Published successfully on 09/09/2024 12:51:26Published successfully on 10/09/2024 14:21:35",
+    "category": "spoor",
+    "language": "nederlands",
+    "priority": "online"
+  },
+  {
+    "route": "l45",
+    "cardname": "Lijn 45 Malmedy",
+    "progress": 100,
+    "comment": "Published successfully on 12/11/2024 17:48:49",
+    "category": "spoor",
+    "language": "nederlands",
+    "priority": "online"
+  },
+  {
+    "route": "l48p1",
+    "cardname": "Vennbahn III",
+    "progress": 100,
+    "comment": "Published successfully on 28/02/2025 19:38:16",
+    "category": "spoor",
+    "language": "nederlands",
+    "priority": "online"
+  },
+  {
+    "route": "l109",
+    "cardname": "Lijn 109 Chimay",
+    "progress": 100,
+    "comment": "Published successfully on 24/12/2024 15:22:08",
+    "category": "spoor",
+    "language": "nederlands",
+    "priority": "online"
+  },
+  {
+    "route": "dbae",
+    "cardname": "Arsbeck - Elmpt",
+    "progress": 80,
+    "comment": "Import from version 4.Published successfully on 13/11/2024 17:18:42",
+    "category": "spoor",
+    "language": "nederlands",
+    "priority": "online"
+  },
+  {
+    "route": "d9241",
+    "cardname": "Kreisbahn Jülich",
+    "progress": 100,
+    "comment": "Published successfully on 12/11/2024 17:48:49",
+    "category": "spoor",
+    "language": "nederlands",
+    "priority": "online"
+  },
+  {
+    "route": "nl635",
+    "cardname": "Borkense baan",
+    "progress": 100,
+    "comment": "Published successfully on 23/12/2024 21:50:23",
+    "category": "spoor",
+    "language": "nederlands",
+    "priority": "online"
+  },
+  {
+    "route": "d2265a",
+    "cardname": "Baumbergebahn 1",
+    "progress": 100,
+    "comment": "Published successfully on 09/09/2024 12:51:26Published successfully on 10/09/2024 14:21:35",
+    "category": "spoor",
+    "language": "nederlands",
+    "priority": "online"
+  },
+  {
+    "route": "d2265b",
+    "cardname": "Baumbergebahn 2",
+    "progress": 100,
+    "comment": "Published successfully on 09/09/2024 12:51:26Published successfully on 10/09/2024 14:21:35",
+    "category": "spoor",
+    "language": "nederlands",
+    "priority": "online"
+  },
+  {
+    "route": "d2516",
+    "cardname": "Kleve - Elten",
+    "progress": 100,
+    "comment": "Published successfully on 09/09/2024 12:51:26Published successfully on 10/09/2024 14:21:35",
+    "category": "spoor",
+    "language": "nederlands",
+    "priority": "online"
+  },
+  {
+    "route": "d2540",
+    "cardname": "Rurtalbahn",
+    "progress": 100,
+    "comment": "Omzeting versie 4. Alle fotos voor betere versie zijn uitgezocht. Published successfully on 11/11/2024 09:45:45",
+    "category": "spoor",
+    "language": "nederlands",
+    "priority": "online"
+  },
+  {
+    "route": "d2544",
+    "cardname": "DB2544 Würselen",
+    "progress": 100,
+    "comment": "Published successfully on 06/12/2024 10:37:12",
+    "category": "spoor",
+    "language": "nederlands",
+    "priority": "online"
+  },
+  {
+    "route": "d2550",
+    "cardname": "DB 2550 Aachen",
+    "progress": 100,
+    "comment": "Version 4 importPublished successfully on 06/12/2024 09:37:49",
+    "category": "spoor",
+    "language": "nederlands",
+    "priority": "online"
+  },
+  {
+    "route": "d2555",
+    "cardname": "DB 2555 Mariagrube",
+    "progress": 100,
+    "comment": "Check article, check captions, add coords, check wurselen with db2544Published successfully on 06/12/2024 09:37:49",
+    "category": "spoor",
+    "language": "nederlands",
+    "priority": "online"
+  },
+  {
+    "route": "d2570",
+    "cardname": "DB 2570 Mariagrube",
+    "progress": 100,
+    "comment": "Published successfully on 06/12/2024 10:37:12",
+    "category": "spoor",
+    "language": "nederlands",
+    "priority": "online"
+  },
+  {
+    "route": "d2571",
+    "cardname": "DB 2571 Titz",
+    "progress": 100,
+    "comment": "Published successfully on 13/11/2024 17:18:42",
+    "category": "spoor",
+    "language": "nederlands",
+    "priority": "online"
+  },
+  {
+    "route": "d2572a",
+    "cardname": "DB 2572 Stolberg",
+    "progress": 100,
+    "comment": "Import version 4. Published successfully on 28/02/2025 19:38:16",
+    "category": "spoor",
+    "language": "nederlands",
+    "priority": "online"
+  },
+  {
+    "route": "d2574",
+    "cardname": "DB 2574 Münsterbusch",
+    "progress": 100,
+    "comment": "Check articlePublished successfully on 06/12/2024 10:37:13Published successfully on 14/12/2024 17:39:46",
+    "category": "spoor",
+    "language": "nederlands",
+    "priority": "online"
+  },
+  {
+    "route": "d2610",
+    "cardname": "Nijmegen - Kleve",
+    "progress": 80,
+    "comment": "Published successfully on 06/12/2024 18:06:02",
+    "category": "spoor",
+    "language": "nederlands",
+    "priority": "online"
+  },
+  {
+    "route": "f1x",
+    "cardname": "Commentry - Marcillat",
+    "progress": 100,
+    "comment": "Published successfully on 14/12/2024 17:39:46",
+    "category": "spoor",
+    "language": "nederlands",
+    "priority": "online"
+  },
+  {
+    "route": "fzc1",
+    "cardname": "Rac. Commentry",
+    "progress": 100,
+    "comment": "import uit versie 4. In die vorm publish klaarPublished successfully on 14/12/2024 17:39:46",
+    "category": "spoor",
+    "language": "nederlands",
+    "priority": "online"
+  },
+  {
+    "route": "f205is",
+    "cardname": "Rac. Flohimont",
+    "progress": 100,
+    "comment": "Version 4 import. Formerly known as isf205. I am missing a lot of bridges crossing the HouillePublished successfully on 18/12/2024 22:14:35",
+    "category": "spoor",
+    "language": "nederlands",
+    "priority": "online"
+  },
+  {
+    "route": "nl195",
+    "cardname": "Lijn 195 Goirle",
+    "progress": 100,
+    "comment": "Formerly known as l29a.Published successfully on 13/11/2024 17:18:42",
+    "category": "spoor",
+    "language": "nederlands",
+    "priority": "online"
+  },
+  {
+    "route": "nl225b",
+    "cardname": "IJzeren Rijn",
+    "progress": 80,
+    "comment": "Import TX4. Published successfully on 14/12/2024 17:39:46",
+    "category": "spoor",
+    "language": "nederlands",
+    "priority": "online"
+  },
+  {
+    "route": "nl232",
+    "cardname": "Vetschau - Aken",
+    "progress": 100,
+    "comment": "Published successfully on 12/11/2024 17:48:49",
+    "category": "spoor",
+    "language": "nederlands",
+    "priority": "online"
+  },
+  {
+    "route": "nl248",
+    "cardname": "NBDS Duits lijntje",
+    "progress": 100,
+    "comment": "Ik heb heel veel nieuwere foto's van 2017 en 2020. Published successfully on 12/11/2024 17:48:49Published successfully on 13/11/2024 17:18:42",
+    "category": "spoor",
+    "language": "nederlands",
+    "priority": "online"
+  },
+  {
+    "route": "nl271",
+    "cardname": "Boog Valkenswaard",
+    "progress": 80,
+    "comment": "Import version 4Published successfully on 06/12/2024 18:06:02",
+    "category": "spoor",
+    "language": "nederlands",
+    "priority": "online"
+  },
+  {
+    "route": "nl605",
+    "cardname": "IJmuider lijn",
+    "progress": 80,
+    "comment": "Import from TX4.Published successfully on 14/12/2024 17:39:46",
+    "category": "spoor",
+    "language": "nederlands",
+    "priority": "online"
+  },
+  {
+    "route": "tl",
+    "cardname": "Loreley",
+    "progress": 100,
+    "comment": "Published successfully on 09/09/2024 12:51:26",
+    "category": "tunnel",
+    "language": "nederlands",
+    "priority": "online"
+  },
+  {
+    "route": "bun",
+    "cardname": "Urmitzer brug",
+    "progress": 100,
+    "comment": "Published successfully on 09/09/2024 12:51:26",
+    "category": "brug",
+    "language": "nederlands",
+    "priority": "online"
+  },
+  {
+    "route": "vdth",
+    "cardname": "Viaduc de Thil",
+    "progress": 100,
+    "comment": "Published successfully on 09/09/2024 12:51:26",
+    "category": "brug",
+    "language": "nederlands",
+    "priority": "online"
+  },
+  {
+    "route": "vdf2",
+    "cardname": "Viaduc des Fades II",
+    "progress": 100,
+    "comment": "Published successfully on 03/01/2025 21:02:57",
+    "category": "brug",
+    "language": "nederlands",
+    "priority": "online"
+  },
+  {
+    "route": "barsg",
+    "cardname": "Altrheinbrug Spyck",
+    "progress": 100,
+    "comment": "Published successfully on 09/09/2024 12:51:26",
+    "category": "brug",
+    "language": "nederlands",
+    "priority": "online"
+  },
+  {
+    "route": "txatx",
+    "cardname": "No Title!",
+    "progress": 100,
+    "comment": "Published successfully on 09/09/2024 12:51:26",
+    "category": "xerbutri",
+    "language": "nederlands",
+    "priority": "online"
+  },
+  {
+    "route": "txase",
+    "cardname": "Urban Exploring",
+    "progress": 100,
+    "comment": "Published successfully on 10/09/2024 14:21:35",
+    "category": "xerbutri",
+    "language": "nederlands",
+    "priority": "online"
+  },
+  {
+    "route": "txaue",
+    "cardname": "No Title!",
+    "progress": 100,
+    "comment": "Published successfully on 09/09/2024 12:51:26",
+    "category": "xerbutri",
+    "language": "nederlands",
+    "priority": "online"
+  },
+  {
+    "route": "txtel",
+    "cardname": "Websites",
+    "progress": 100,
+    "comment": "Published successfully on 10/09/2024 14:21:35",
+    "category": "xerbutri",
+    "language": "nederlands",
+    "priority": "online"
+  },
+  {
+    "route": "vbbb",
+    "cardname": "Hoeve Bakels Beemd",
+    "progress": 100,
+    "comment": "Published successfully on 09/09/2024 12:51:26",
+    "category": "gebouw",
+    "language": "nederlands",
+    "priority": "online"
+  },
+  {
+    "route": "vbch",
+    "cardname": "Ferme d'Abandonce",
+    "progress": 100,
+    "comment": "Published successfully on 09/09/2024 12:51:26",
+    "category": "gebouw",
+    "language": "nederlands",
+    "priority": "online"
+  },
+  {
+    "route": "mfg",
+    "cardname": "Bunkerpark Groede",
+    "progress": 100,
+    "comment": "Published successfully on 09/09/2024 12:51:26",
+    "category": "gebouw",
+    "language": "nederlands",
+    "priority": "online"
+  },
+  {
+    "route": "sfg",
+    "cardname": "Steenfabriek Glatt",
+    "progress": 100,
+    "comment": "Published successfully on 23/05/2025 16:06:22",
+    "category": "gebouw",
+    "language": "nederlands",
+    "priority": "online"
+  },
+  {
+    "route": "vbgh",
+    "cardname": "Griekse Villa",
+    "progress": 100,
+    "comment": "Published successfully on 09/09/2024 12:51:26",
+    "category": "gebouw",
+    "language": "nederlands",
+    "priority": "online"
+  },
+  {
+    "route": "khb",
+    "cardname": "Kasteel Hoebosche",
+    "progress": 100,
+    "comment": "Published successfully on 16/05/2025 16:32:51",
+    "category": "gebouw",
+    "language": "nederlands",
+    "priority": "online"
+  },
+  {
+    "route": "kwh",
+    "cardname": "Chateau Blanc",
+    "progress": 100,
+    "comment": "Published successfully on 09/09/2024 12:51:26",
+    "category": "gebouw",
+    "language": "nederlands",
+    "priority": "online"
+  },
+  {
+    "route": "mkwk",
+    "cardname": "Wilhelmina Kazerne",
+    "progress": 100,
+    "comment": "Published successfully on 09/09/2024 12:51:26",
+    "category": "gebouw",
+    "language": "nederlands",
+    "priority": "online"
+  },
+  {
+    "route": "hshk",
+    "cardname": "Hotel Scholtenshof",
+    "progress": 100,
+    "comment": "Published successfully on 16/05/2025 16:32:51",
+    "category": "gebouw",
+    "language": "nederlands",
+    "priority": "online"
+  },
+  {
+    "route": "srae",
+    "cardname": "Station Raeren",
+    "progress": 100,
+    "comment": "Published successfully on 09/09/2024 12:51:26",
+    "category": "gebouw",
+    "language": "nederlands",
+    "priority": "online"
+  },
+  {
+    "route": "gch",
+    "cardname": "Groeve Champlon",
+    "progress": 100,
+    "comment": "Published successfully on 18/04/2025 16:23:27",
+    "category": "gebouw",
+    "language": "nederlands",
+    "priority": "online"
+  },
+  {
+    "route": "kw",
+    "cardname": "Wolfenstein",
+    "progress": 100,
+    "comment": "Published successfully on 24/01/2025 17:30:59",
+    "category": "gebouw",
+    "language": "nederlands",
+    "priority": "online"
+  },
+  {
+    "route": "skwj",
+    "cardname": "Charbonnage Renard",
+    "progress": 100,
+    "comment": "Published successfully on 09/09/2024 12:51:26",
+    "category": "gebouw",
+    "language": "nederlands",
+    "priority": "online"
+  },
+  {
+    "route": "skwj2",
+    "cardname": "Mijn Renard II",
+    "progress": 100,
+    "comment": "Published successfully on 18/04/2025 16:23:27",
+    "category": "gebouw",
+    "language": "nederlands",
+    "priority": "online"
+  },
+  {
+    "route": "nl180b",
+    "cardname": "Kesteren - Rhenen",
+    "progress": 100,
+    "comment": "Published successfully on 09/09/2024 12:51:26Published successfully on 10/09/2024 14:21:35",
+    "category": "spoor",
+    "language": "nederlands",
+    "priority": "online"
+  },
+  {
+    "route": "mjhq",
+    "cardname": "Joined Head Quarters",
+    "progress": 100,
+    "comment": "Published successfully on 09/09/2024 12:51:26",
+    "category": "gebouw",
+    "language": "nederlands",
+    "priority": "online"
+  },
+  {
+    "route": "vbdb",
+    "cardname": "Dommelboerderij",
+    "progress": 100,
+    "comment": "Published successfully on 09/09/2024 12:51:26",
+    "category": "gebouw",
+    "language": "nederlands",
+    "priority": "online"
+  },
+  {
+    "route": "l45a",
+    "cardname": "L45A Vennquerbahn",
+    "progress": 100,
+    "comment": "Published successfully on 09/09/2024 12:51:26Published successfully on 10/09/2024 14:21:35",
+    "category": "spoor",
+    "language": "nederlands",
+    "priority": "online"
+  },
+  {
+    "route": "f159a",
+    "cardname": "Falkensteinerbach",
+    "progress": 100,
+    "comment": "Published successfully on 18/04/2025 16:23:28",
+    "category": "spoor",
+    "language": "nederlands",
+    "priority": "online"
+  },
+  {
+    "route": "zbm",
+    "cardname": "Borgoumont",
+    "progress": 100,
+    "comment": "Published successfully on 06/05/2025 09:34:16",
+    "category": "gebouw",
+    "language": "nederlands",
+    "priority": "online"
+  },
+  {
+    "route": "mkcb",
+    "cardname": "Kazerne De Cubber",
+    "progress": 100,
+    "comment": "Published successfully on 09/09/2024 12:51:26",
+    "category": "gebouw",
+    "language": "nederlands",
+    "priority": "online"
+  },
+  {
+    "route": "mch",
+    "cardname": "Camp Hitfeld",
+    "progress": 100,
+    "comment": "Published successfully on 09/09/2024 12:51:26",
+    "category": "gebouw",
+    "language": "nederlands",
+    "priority": "online"
+  },
+  {
+    "route": "hbha",
+    "cardname": "La Chaudronnerie",
+    "progress": 100,
+    "comment": "Published successfully on 09/09/2024 12:51:26",
+    "category": "gebouw",
+    "language": "nederlands",
+    "priority": "online"
+  },
+  {
+    "route": "hbr",
+    "cardname": "BRIMGeS Fabriek",
+    "progress": 100,
+    "comment": "Published successfully on 09/09/2024 12:51:26",
+    "category": "gebouw",
+    "language": "nederlands",
+    "priority": "online"
+  },
+  {
+    "route": "dbmah",
+    "cardname": "Leger Rheindalen",
+    "progress": 100,
+    "comment": "Published successfully on 09/09/2024 12:51:26Published successfully on 10/09/2024 14:21:35",
+    "category": "spoor",
+    "language": "nederlands",
+    "priority": "online"
+  },
+  {
+    "route": "mzp",
+    "cardname": "RAF Pool W",
+    "progress": 100,
+    "comment": "Published successfully on 09/09/2024 12:51:26",
+    "category": "gebouw",
+    "language": "nederlands",
+    "priority": "online"
+  },
+  {
+    "route": "bwvx",
+    "cardname": "Atelier SNCB Voroux",
+    "progress": 100,
+    "comment": "Published successfully on 09/09/2024 12:51:26",
+    "category": "gebouw",
+    "language": "nederlands",
+    "priority": "online"
+  },
+  {
+    "route": "mhb",
+    "cardname": "Hangar Bierset",
+    "progress": 100,
+    "comment": "Published successfully on 18/04/2025 16:23:28",
+    "category": "gebouw",
+    "language": "nederlands",
+    "priority": "online"
+  },
+  {
+    "route": "mhbz",
+    "cardname": "Gebouw 27",
+    "progress": 100,
+    "comment": "Published successfully on 09/09/2024 12:51:26",
+    "category": "gebouw",
+    "language": "nederlands",
+    "priority": "online"
+  },
+  {
+    "route": "bhk",
+    "cardname": "Haus Knipp Brug",
+    "progress": 100,
+    "comment": "Published successfully on 09/09/2024 12:51:26",
+    "category": "brug",
+    "language": "nederlands",
+    "priority": "online"
+  },
+  {
+    "route": "dbbme",
+    "cardname": "Stolberg BME",
+    "progress": 100,
+    "comment": "Published successfully on 16/05/2025 16:32:51",
+    "category": "spoor",
+    "language": "nederlands",
+    "priority": "online"
+  },
+  {
+    "route": "dbbmv",
+    "cardname": "Vegla Stolberg",
+    "progress": 100,
+    "comment": "Published successfully on 16/05/2025 16:32:51",
+    "category": "spoor",
+    "language": "nederlands",
+    "priority": "online"
+  },
+  {
+    "route": "zmn",
+    "cardname": "RAF Hospital W",
+    "progress": 100,
+    "comment": "Published successfully on 09/09/2024 12:51:26",
+    "category": "gebouw",
+    "language": "nederlands",
+    "priority": "online"
+  },
+  {
+    "route": "vbp",
+    "cardname": "Peelboerderij",
+    "progress": 100,
+    "comment": "Published successfully on 09/09/2024 12:51:26",
+    "category": "gebouw",
+    "language": "nederlands",
+    "priority": "online"
+  },
+  {
+    "route": "oam",
+    "cardname": "Augustijner School",
+    "progress": 100,
+    "comment": "Published successfully on 09/09/2024 12:51:26",
+    "category": "gebouw",
+    "language": "nederlands",
+    "priority": "online"
+  },
+  {
+    "route": "vbd",
+    "cardname": "Boerderij Duizeldonk",
+    "progress": 100,
+    "comment": "Published successfully on 09/09/2024 12:51:26",
+    "category": "gebouw",
+    "language": "nederlands",
+    "priority": "online"
+  },
+  {
+    "route": "vimb",
+    "cardname": "Immerath II",
+    "progress": 100,
+    "comment": "Published successfully on 09/09/2024 12:51:26",
+    "category": "gebouw",
+    "language": "nederlands",
+    "priority": "online"
+  },
+  {
+    "route": "hmts",
+    "cardname": "Fabriek Te Strake",
+    "progress": 100,
+    "comment": "Published successfully on 09/09/2024 12:51:26",
+    "category": "gebouw",
+    "language": "nederlands",
+    "priority": "online"
+  },
+  {
+    "route": "hfsr",
+    "cardname": "Steenfabriek Rees",
+    "progress": 100,
+    "comment": "Published successfully on 09/09/2024 12:51:26",
+    "category": "gebouw",
+    "language": "nederlands",
+    "priority": "online"
+  },
+  {
+    "route": "sknd",
+    "cardname": "Kolenmijn Noord",
+    "progress": 100,
+    "comment": "Published successfully on 09/09/2024 12:51:26",
+    "category": "gebouw",
+    "language": "nederlands",
+    "priority": "online"
+  },
+  {
+    "route": "skge",
+    "cardname": "Mijnschacht 8",
+    "progress": 100,
+    "comment": "Published successfully on 09/09/2024 12:51:26",
+    "category": "gebouw",
+    "language": "nederlands",
+    "priority": "online"
+  },
+  {
+    "route": "vblu",
+    "cardname": "Boerderij Lutzerath",
+    "progress": 100,
+    "comment": "Published successfully on 09/09/2024 12:51:26",
+    "category": "gebouw",
+    "language": "nederlands",
+    "priority": "online"
+  },
+  {
+    "route": "skpo",
+    "cardname": "Schacht Polsum",
+    "progress": 100,
+    "comment": "",
+    "category": "gebouw",
+    "language": "nederlands",
+    "priority": "online"
+  },
+  {
+    "route": "skpot",
+    "cardname": "Schacht Polsum II",
+    "progress": 100,
+    "comment": "",
+    "category": "gebouw",
+    "language": "nederlands",
+    "priority": "online"
+  },
+  {
+    "route": "hdk",
+    "cardname": "De Kassen",
+    "progress": 100,
+    "comment": "Published successfully on 09/09/2024 12:51:26",
+    "category": "gebouw",
+    "language": "nederlands",
+    "priority": "online"
+  },
+  {
+    "route": "vdh",
+    "cardname": "Villa Dennenhoef",
+    "progress": 100,
+    "comment": "Published successfully on 09/09/2024 12:51:26",
+    "category": "gebouw",
+    "language": "nederlands",
+    "priority": "online"
+  },
+  {
+    "route": "or",
+    "cardname": "Mavo Roobeek",
+    "progress": 100,
+    "comment": "Published successfully on 09/09/2024 12:51:26",
+    "category": "gebouw",
+    "language": "nederlands",
+    "priority": "online"
+  },
+  {
+    "route": "mdnv",
+    "cardname": "NAVO Kazerne",
+    "progress": 100,
+    "comment": "Published successfully on 09/09/2024 12:51:26",
+    "category": "gebouw",
+    "language": "nederlands",
+    "priority": "online"
+  },
+  {
+    "route": "bwbx",
+    "cardname": "Atelier SNCB Bertrix",
+    "progress": 100,
+    "comment": "Published successfully on 09/09/2024 12:51:26",
+    "category": "gebouw",
+    "language": "nederlands",
+    "priority": "online"
+  },
+  {
+    "route": "tkw",
+    "cardname": "Kaiser Wilhelm",
+    "progress": 100,
+    "comment": "Published successfully on 09/09/2024 12:51:26",
+    "category": "tunnel",
+    "language": "nederlands",
+    "priority": "online"
+  },
+  {
+    "route": "khw",
+    "cardname": "Hof van Wijnegem",
+    "progress": 100,
+    "comment": "Published successfully on 09/09/2024 12:51:26",
+    "category": "gebouw",
+    "language": "nederlands",
+    "priority": "online"
+  },
+  {
+    "route": "l48p2",
+    "cardname": "Vennbahn IV",
+    "progress": 100,
+    "comment": "Published successfully on 09/09/2024 12:51:26Published successfully on 10/09/2024 14:21:35Published successfully on 28/02/2025 19:38:16",
+    "category": "spoor",
+    "language": "nederlands",
+    "priority": "online"
+  },
+  {
+    "route": "d2563",
+    "cardname": "Vennbahn I",
+    "progress": 100,
+    "comment": "Published successfully on 28/02/2025 19:38:16",
+    "category": "spoor",
+    "language": "nederlands",
+    "priority": "online"
+  },
+  {
+    "route": "d2572b",
+    "cardname": "Vennbahn II",
+    "progress": 100,
+    "comment": "Published successfully on 28/02/2025 19:38:16",
+    "category": "spoor",
+    "language": "nederlands",
+    "priority": "online"
+  },
+  {
+    "route": "l163b",
+    "cardname": "Lijn 163 Crêtes II",
+    "progress": 100,
+    "comment": "Published successfully on 28/02/2025 19:38:16",
+    "category": "spoor",
+    "language": "nederlands",
+    "priority": "online"
+  },
+  {
+    "route": "nl200",
+    "cardname": "Woldjerspoor",
+    "progress": 100,
+    "comment": "Published successfully on 09/09/2024 12:51:26Published successfully on 10/09/2024 14:21:35",
+    "category": "spoor",
+    "language": "nederlands",
+    "priority": "online"
+  },
+  {
+    "route": "vbab",
+    "cardname": "Akkerhoeve",
+    "progress": 100,
+    "comment": "Published successfully on 08/11/2024 17:27:02",
+    "category": "gebouw",
+    "language": "nederlands",
+    "priority": "online"
+  },
+  {
+    "route": "d3005a",
+    "cardname": "Eifelquerbahn I",
+    "progress": 100,
+    "comment": "Published successfully on 23/05/2025 16:16:33",
+    "category": "spoor",
+    "language": "nederlands",
+    "priority": "online"
+  },
+  {
+    "route": "d3005b",
+    "cardname": "Eifelquerbahn II",
+    "progress": 100,
+    "comment": "Published successfully on 23/05/2025 16:06:22",
+    "category": "spoor",
+    "language": "nederlands",
+    "priority": "online"
+  },
+  {
+    "route": "vbmh",
+    "cardname": "Muggenhoeve",
+    "progress": 100,
+    "comment": "Published successfully on 09/09/2024 12:51:26",
+    "category": "gebouw",
+    "language": "nederlands",
+    "priority": "online"
+  },
+  {
+    "route": "vbnb",
+    "cardname": "Beeldenhoeve",
+    "progress": 100,
+    "comment": "Published successfully on 09/09/2024 12:51:26",
+    "category": "gebouw",
+    "language": "nederlands",
+    "priority": "online"
+  },
+  {
+    "route": "vdf",
+    "cardname": "Viaduc des Fades II",
+    "progress": 100,
+    "comment": "Published successfully on 09/09/2024 12:51:26",
+    "category": "brug",
+    "language": "english",
+    "priority": "online"
+  },
+  {
+    "route": "tv",
+    "cardname": "Veurs",
+    "progress": 100,
+    "comment": "Published successfully on 09/09/2024 12:51:26",
+    "category": "tunnel",
+    "language": "english",
+    "priority": "online"
+  },
+  {
+    "route": "mdfg",
+    "cardname": "Fort de Meuse",
+    "progress": 100,
+    "comment": "Published successfully on 09/09/2024 12:51:26",
+    "category": "gebouw",
+    "language": "english",
+    "priority": "online"
+  },
+  {
+    "route": "afta",
+    "cardname": "Agrodorp factory",
+    "progress": 100,
+    "comment": "Published successfully on 09/09/2024 12:51:26",
+    "category": "gebouw",
+    "language": "english",
+    "priority": "online"
+  },
+  {
+    "route": "l154",
+    "cardname": "Lijn 154",
+    "progress": 100,
+    "comment": "Published successfully on 09/09/2024 12:51:26Published successfully on 10/09/2024 14:21:35",
+    "category": "spoor",
+    "language": "english",
+    "priority": "online"
+  },
+  {
+    "route": "mdfg",
+    "cardname": "TBD",
+    "progress": 100,
+    "comment": "Published successfully on 09/09/2024 12:51:26",
+    "category": "gebouw",
+    "language": "français",
+    "priority": "online"
+  },
+  {
+    "route": "l154",
+    "cardname": "TBD",
+    "progress": 100,
+    "comment": "Published successfully on 09/09/2024 12:51:26Published successfully on 10/09/2024 14:21:35",
+    "category": "spoor",
+    "language": "français",
+    "priority": "online"
+  },
+  {
+    "route": "tgi",
+    "cardname": "TBD",
+    "progress": 100,
+    "comment": "Published successfully on 09/09/2024 12:51:26",
+    "category": "tunnel",
+    "language": "français",
+    "priority": "online"
+  },
+  {
+    "route": "txaue",
+    "cardname": "No Title!",
+    "progress": 100,
+    "comment": "Published successfully on 09/09/2024 12:51:26",
+    "category": "xerbutri",
+    "language": "english",
+    "priority": "online"
+  },
+  {
+    "route": "txaue",
+    "cardname": "No Title!",
+    "progress": 100,
+    "comment": "Published successfully on 09/09/2024 12:51:26",
+    "category": "xerbutri",
+    "language": "français",
+    "priority": "online"
+  },
+  {
+    "route": "txatx",
+    "cardname": "No Title!",
+    "progress": 100,
+    "comment": "Published successfully on 09/09/2024 12:51:26",
+    "category": "xerbutri",
+    "language": "english",
+    "priority": "online"
+  },
+  {
+    "route": "txatx",
+    "cardname": "No Title!",
+    "progress": 100,
+    "comment": "Published successfully on 09/09/2024 12:51:26",
+    "category": "xerbutri",
+    "language": "français",
+    "priority": "online"
+  },
+  {
+    "route": "vdf",
+    "cardname": "No Title!",
+    "progress": 100,
+    "comment": "Published successfully on 09/09/2024 12:51:26",
+    "category": "brug",
+    "language": "français",
+    "priority": "online"
+  },
+  {
+    "route": "mfry",
+    "cardname": "No Title!",
+    "progress": 100,
+    "comment": "Published successfully on 09/09/2024 12:51:26",
+    "category": "gebouw",
+    "language": "english",
+    "priority": "online"
+  },
+  {
+    "route": "uwas",
+    "cardname": "No Title!",
+    "progress": 100,
+    "comment": "Published successfully on 14/03/2025 16:36:25",
+    "category": "gebouw",
+    "language": "nederlands",
+    "priority": "online"
+  },
+  {
+    "route": "zjwk",
+    "cardname": "No Title!",
+    "progress": 100,
+    "comment": "Published successfully on 07/03/2025 19:29:13",
+    "category": "gebouw",
+    "language": "nederlands",
+    "priority": "online"
+  },
+  {
+    "route": "mfbv",
+    "cardname": "No Title!",
+    "progress": 100,
+    "comment": "Published successfully on 12/06/2025 17:31:22",
+    "category": "gebouw",
+    "language": "nederlands",
+    "priority": "online"
+  },
+  {
+    "route": "mfsv",
+    "cardname": "No Title!",
+    "progress": 100,
+    "comment": "Published successfully on 18/07/2025 10:00:23",
+    "category": "gebouw",
+    "language": "nederlands",
+    "priority": "online"
+  },
+  {
+    "route": "tav",
+    "cardname": "No Title!",
+    "progress": 100,
+    "comment": "Published successfully on 12/06/2025 17:55:06",
+    "category": "tunnel",
+    "language": "nederlands",
+    "priority": "online"
+  },
+  {
+    "route": "mcv",
+    "cardname": "No Title!",
+    "progress": 100,
+    "comment": "Newly added blogPublished successfully on 18/07/2025 10:00:23",
+    "category": "gebouw",
+    "language": "nederlands",
+    "priority": "online"
+  }
+]
