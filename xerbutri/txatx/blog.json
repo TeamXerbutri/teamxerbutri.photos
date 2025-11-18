@@ -1,13 +1,9 @@
 {
-  "gallerytype": "none",
+  "gallerytype": "images",
   "hasfacts": false,
   "facts": {
     "rating": 4,
-    "build": "",
-    "abandoned": "",
     "visited": "1998-01-01",
-    "demolished": "",
-    "reused": "",
     "length": "",
     "line": "",
     "height": ""
