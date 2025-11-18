@@ -37,7 +37,7 @@
   },
   {
     "route": "f196",
-    "cardname": "No Title!",
+    "cardname": "Ligne Aldergrund",
     "progress": 25,
     "comment": "De geo json is grof. Ik heb het beter uitgezocht in Google Earth. Een aantal foto's heb ik al, maar niet veel.",
     "category": "spoor",
@@ -55,8 +55,8 @@
   },
   {
     "route": "f220a",
-    "cardname": "No Title!",
-    "progress": 32,
+    "cardname": "Ligne 220A",
+    "progress": 25,
     "comment": "Veel foto's uit 2010, misschien mis ik er nog?",
     "category": "spoor",
     "language": "nederlands",
@@ -119,7 +119,7 @@
   {
     "route": "l49",
     "cardname": "Lijn 49 Eupen",
-    "progress": 27,
+    "progress": 20,
     "comment": "Ik heb hier een paar foto's van, maar de lijn is niet ver van huis, misschien kan ik er ooit een keer lang fietsen.",
     "category": "spoor",
     "language": "nederlands",
@@ -128,8 +128,8 @@
   {
     "route": "l127",
     "cardname": "L127 Hesbaye",
-    "progress": 27,
-    "comment": "five importGraag de map aanmaken\\nfive importGraag de map aanmaken\\n",
+    "progress": 20,
+    "comment": "Heb een deel bezocht.",
     "category": "spoor",
     "language": "nederlands",
     "priority": "low"
@@ -137,7 +137,7 @@
   {
     "route": "nlhml",
     "cardname": "Haarlemmermeerlijnen",
-    "progress": 27,
+    "progress": 0,
     "comment": "Ik heb hier in 2016 een twintigtal foto's van gemaakt. Het meeste van de lijnen is verdwenen, maar deze 20 geven een leuk beeld. Maar niet helemaal passend in de rest van de site misschien?",
     "category": "spoor",
     "language": "nederlands",
@@ -147,16 +147,16 @@
     "route": "txdyw",
     "cardname": "Urban Exploren!",
     "progress": 65,
-    "comment": "five importGraag de map aanmaken\\nfive importGraag de map aanmaken\\n",
+    "comment": "Mag afgemaakt",
     "category": "xerbutri",
     "language": "nederlands",
-    "priority": "low"
+    "priority": "high"
   },
   {
     "route": "spw",
     "cardname": "Sportpark Waldeck",
-    "progress": 65,
-    "comment": "five importGraag de map aanmaken\\nfive importGraag de map aanmaken\\n",
+    "progress": 10,
+    "comment": "Ooit verlaten sportpark bezocht, maar... niet heel boeiend",
     "category": "gebouw",
     "language": "nederlands",
     "priority": "low"
@@ -182,7 +182,7 @@
   {
     "route": "klgh",
     "cardname": "No Title!",
-    "progress": 55,
+    "progress": 0,
     "comment": "Newly added blog",
     "category": "gebouw",
     "language": "nederlands",
@@ -190,8 +190,8 @@
   },
   {
     "route": "rufa",
-    "cardname": "No Title!",
-    "progress": 55,
+    "cardname": "Falkenstein",
+    "progress": 0,
     "comment": "Ruïne Falkenstein",
     "category": "gebouw",
     "language": "nederlands",
@@ -200,7 +200,7 @@
   {
     "route": "ruvw",
     "cardname": "No Title!",
-    "progress": 55,
+    "progress": 0,
     "comment": "Ruïne oud-windstein",
     "category": "gebouw",
     "language": "nederlands",
@@ -209,7 +209,7 @@
   {
     "route": "l38a",
     "cardname": "Lijn 38A Xhawirs",
-    "progress": 32,
+    "progress": 25,
     "comment": "Nakijken, coordinaten invullen",
     "category": "spoor",
     "language": "nederlands",
@@ -219,7 +219,7 @@
     "route": "xueza",
     "cardname": "Wat uit 2004",
     "progress": 55,
-    "comment": "five importGraag de map aanmaken\\nfive importGraag de map aanmaken\\n",
+    "comment": "Geen foto's?",
     "category": "xerbutri",
     "language": "nederlands",
     "priority": "maybe"
@@ -281,7 +281,7 @@
   {
     "route": "oszhe",
     "cardname": "School Zon en Hei",
-    "progress": 55,
+    "progress": 0,
     "comment": "five importGraag de map aanmaken\\nfive importGraag de map aanmaken\\n",
     "category": "gebouw",
     "language": "nederlands",
@@ -290,8 +290,8 @@
   {
     "route": "d3002",
     "cardname": "Ahr-Eifelbaan",
-    "progress": 27,
-    "comment": "five importGraag de map aanmaken\\nfive importGraag de map aanmaken\\n",
+    "progress": 20,
+    "comment": "",
     "category": "spoor",
     "language": "nederlands",
     "priority": "maybe"
@@ -299,7 +299,7 @@
   {
     "route": "lpetr",
     "cardname": "De petrol",
-    "progress": 27,
+    "progress": 0,
     "comment": "TXW map te verwerken 2013 Railtracking Petrol",
     "category": "spoor",
     "language": "nederlands",
@@ -308,7 +308,7 @@
   {
     "route": "htwe",
     "cardname": "Twello",
-    "progress": 55,
+    "progress": 0,
     "comment": "TXW map te verwerken 2013 Twello",
     "category": "gebouw",
     "language": "nederlands",
@@ -317,8 +317,8 @@
   {
     "route": "mdf8",
     "cardname": "Fort 8",
-    "progress": 55,
-    "comment": "five importGraag de map aanmaken\\nfive importGraag de map aanmaken\\n",
+    "progress": 0,
+    "comment": "",
     "category": "gebouw",
     "language": "nederlands",
     "priority": "maybe"
@@ -326,8 +326,8 @@
   {
     "route": "l47a",
     "cardname": "L47A",
-    "progress": 27,
-    "comment": "five importGraag de map aanmaken\\nfive importGraag de map aanmaken\\n",
+    "progress": 20,
+    "comment": "",
     "category": "spoor",
     "language": "nederlands",
     "priority": "maybe"
@@ -1361,7 +1361,7 @@
   {
     "route": "dbba",
     "cardname": "Stolberg BME-Atsch",
-    "progress": 27,
+    "progress": 0,
     "comment": "Is al behandeld onder DB2544",
     "category": "spoor",
     "language": "nederlands",
