@@ -2,7 +2,7 @@
   {
     "route": "zmn2",
     "cardname": "RAF Hospital W II",
-    "progress": 65,
+    "progress": 20,
     "comment": "Heeft 166 fotos. Dat is veel te veel.",
     "category": "gebouw",
     "language": "nederlands",
@@ -3913,5 +3913,41 @@
     "category": "gebouw",
     "language": "nederlands",
     "priority": "online"
+  },
+  {
+    "route": "bhd",
+    "cardname": "Hochfelder brug",
+    "progress": 10,
+    "comment": "Foto's uitzoeken en bewerken",
+    "category": "brug",
+    "language": "nederlands",
+    "priority": "high"
+  },
+  {
+    "route": "mdbh",
+    "cardname": "Munitiedepot Herongen",
+    "progress": 10,
+    "comment": "Foto's uitzoeken",
+    "category": "gebouw",
+    "language": "nederlands",
+    "priority": "high"
+  },
+  {
+    "route": "wmh",
+    "cardname": "Holtheyder molen",
+    "progress": 10,
+    "comment": "Foto's uitzoeken",
+    "category": "gebouw",
+    "language": "nederlands",
+    "priority": "high"
+  },
+  {
+    "route": "mdnr",
+    "cardname": "Nederrijn kazerne",
+    "progress": 10,
+    "comment": "Foto's uitzoeken",
+    "category": "gebouw",
+    "language": "nederlands",
+    "priority": "high"
   }
 ]
