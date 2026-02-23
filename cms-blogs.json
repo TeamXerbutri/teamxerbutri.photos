@@ -3917,7 +3917,7 @@
   {
     "route": "bhd",
     "cardname": "Hochfelder brug",
-    "progress": 10,
+    "progress": 50,
     "comment": "Foto's uitzoeken en bewerken",
     "category": "brug",
     "language": "nederlands",
@@ -3946,6 +3946,60 @@
     "cardname": "Nederrijn kazerne",
     "progress": 10,
     "comment": "Foto's uitzoeken",
+    "category": "gebouw",
+    "language": "nederlands",
+    "priority": "high"
+  },
+  {
+    "route": "bhd2",
+    "cardname": "Hochfelder brug",
+    "progress": 0,
+    "comment": "Kopieer geschiedenis van nr1 enzo",
+    "category": "brug",
+    "language": "nederlands",
+    "priority": "high"
+  },
+  {
+    "route": "oqs",
+    "cardname": "Royal Queens School",
+    "progress": 0,
+    "comment": "",
+    "category": "gebouw",
+    "language": "nederlands",
+    "priority": "high"
+  },
+  {
+    "route": "frea",
+    "cardname": "REA fabriek",
+    "progress": 0,
+    "comment": "",
+    "category": "gebouw",
+    "language": "nederlands",
+    "priority": "high"
+  },
+  {
+    "route": "zhpmb",
+    "cardname": "Herzpark Farm",
+    "progress": 0,
+    "comment": "fotos en alles",
+    "category": "gebouw",
+    "language": "nederlands",
+    "priority": "high"
+  },
+  {
+    "route": "zhpm",
+    "cardname": "Haunted Mansion",
+    "progress": 0,
+    "comment": "",
+    "category": "gebouw",
+    "language": "nederlands",
+    "priority": "high"
+  },
+  {
+    "route": "sknd2",
+    "cardname": "SK Noord 2",
+    "progress": 0,
+    "comment": "",
     "category": "gebouw",
     "language": "nederlands",
     "priority": "high"
