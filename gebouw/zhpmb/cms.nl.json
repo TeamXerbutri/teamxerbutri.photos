@@ -2,7 +2,7 @@
   "priority": "high",
   "comment": "fotos en alles",
   "publishthisblog": false,
-  "startedarticle": false,
+  "startedarticle": true,
   "finishedarticle": false,
   "hascaptions": false
 }

@@ -3980,7 +3980,7 @@
   {
     "route": "zhpmb",
     "cardname": "Herzpark Farm",
-    "progress": 0,
+    "progress": 10,
     "comment": "fotos en alles",
     "category": "gebouw",
     "language": "nederlands",
@@ -3989,7 +3989,7 @@
   {
     "route": "zhpm",
     "cardname": "Haunted Mansion",
-    "progress": 0,
+    "progress": 10,
     "comment": "",
     "category": "gebouw",
     "language": "nederlands",
