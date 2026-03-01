@@ -3917,11 +3917,11 @@
   {
     "route": "bhd",
     "cardname": "Hochfelder brug",
-    "progress": 65,
+    "progress": 100,
     "comment": "Foto's uitzoeken en bewerken",
     "category": "brug",
     "language": "nederlands",
-    "priority": "high"
+    "priority": "ready"
   },
   {
     "route": "mdbh",
