@@ -3917,7 +3917,7 @@
   {
     "route": "bhd",
     "cardname": "Hochfelder brug",
-    "progress": 50,
+    "progress": 65,
     "comment": "Foto's uitzoeken en bewerken",
     "category": "brug",
     "language": "nederlands",
@@ -3926,7 +3926,7 @@
   {
     "route": "mdbh",
     "cardname": "Munitiedepot Herongen",
-    "progress": 50,
+    "progress": 65,
     "comment": "Foto's uitzoeken",
     "category": "gebouw",
     "language": "nederlands",
@@ -3935,7 +3935,7 @@
   {
     "route": "wmh",
     "cardname": "Holtheyder molen",
-    "progress": 10,
+    "progress": 65,
     "comment": "Foto's uitzoeken",
     "category": "gebouw",
     "language": "nederlands",
@@ -3944,7 +3944,7 @@
   {
     "route": "mdnr",
     "cardname": "Nederrijn kazerne",
-    "progress": 10,
+    "progress": 65,
     "comment": "Foto's uitzoeken",
     "category": "gebouw",
     "language": "nederlands",
@@ -3953,8 +3953,8 @@
   {
     "route": "bhd2",
     "cardname": "Hochfelder brug",
-    "progress": 0,
-    "comment": "Kopieer geschiedenis van nr1 enzo",
+    "progress": 65,
+    "comment": "",
     "category": "brug",
     "language": "nederlands",
     "priority": "high"
@@ -3962,7 +3962,7 @@
   {
     "route": "oqs",
     "cardname": "Royal Queens School",
-    "progress": 0,
+    "progress": 55,
     "comment": "",
     "category": "gebouw",
     "language": "nederlands",
@@ -3971,7 +3971,7 @@
   {
     "route": "frea",
     "cardname": "REA fabriek",
-    "progress": 0,
+    "progress": 65,
     "comment": "",
     "category": "gebouw",
     "language": "nederlands",
@@ -3980,8 +3980,8 @@
   {
     "route": "zhpmb",
     "cardname": "Herzpark Farm",
-    "progress": 10,
-    "comment": "fotos en alles",
+    "progress": 65,
+    "comment": "",
     "category": "gebouw",
     "language": "nederlands",
     "priority": "high"
@@ -3989,7 +3989,7 @@
   {
     "route": "zhpm",
     "cardname": "Haunted Mansion",
-    "progress": 10,
+    "progress": 65,
     "comment": "",
     "category": "gebouw",
     "language": "nederlands",
@@ -3998,7 +3998,7 @@
   {
     "route": "sknd2",
     "cardname": "SK Noord 2",
-    "progress": 0,
+    "progress": 65,
     "comment": "",
     "category": "gebouw",
     "language": "nederlands",
