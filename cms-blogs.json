@@ -3540,10 +3540,10 @@
     "route": "sknd",
     "cardname": "Kolenmijn Noord",
     "progress": 100,
-    "comment": "Published successfully on 09/09/2024 12:51:26",
+    "comment": "",
     "category": "gebouw",
     "language": "nederlands",
-    "priority": "online"
+    "priority": "ready"
   },
   {
     "route": "skge",
