@@ -74,11 +74,11 @@
   {
     "route": "fsb",
     "cardname": "Scierie B",
-    "progress": 65,
+    "progress": 100,
     "comment": "Newly added blog",
     "category": "gebouw",
     "language": "nederlands",
-    "priority": "high"
+    "priority": "ready"
   },
   {
     "route": "vdfd",
@@ -3925,7 +3925,7 @@
   },
   {
     "route": "mdbh",
-    "cardname": "Munitiedepot Herongen",
+    "cardname": "Munitiedepot Str",
     "progress": 65,
     "comment": "Foto's uitzoeken",
     "category": "gebouw",
@@ -3935,11 +3935,11 @@
   {
     "route": "wmh",
     "cardname": "Holtheyder molen",
-    "progress": 65,
-    "comment": "Foto's uitzoeken",
+    "progress": 100,
+    "comment": "",
     "category": "gebouw",
     "language": "nederlands",
-    "priority": "high"
+    "priority": "ready"
   },
   {
     "route": "mdnr",
