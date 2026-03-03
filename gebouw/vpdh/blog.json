@@ -1,1 +1,13 @@
-{"facts":{"rating":3,"build":"","abandoned":"","visited":"2019-08-03","demolished":"","reused":""},"sources":[]}
+{
+  "gallerytype": "images",
+  "hasfacts": true,
+  "facts": {
+    "rating": 3,
+    "build": "",
+    "abandoned": "",
+    "visited": "2019-08-03",
+    "demolished": "",
+    "reused": ""
+  },
+  "sources": []
+}

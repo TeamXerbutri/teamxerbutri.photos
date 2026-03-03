@@ -1,0 +1,8 @@
+{
+  "priority": "online",
+  "comment": "The number of images in the cms folder does not match the number of images in the images.json file in the cms folder. Please check the images in cms, maybe you forgot to copy files, or you may have to create a new images.json.  Published successfully on 03/03/2026 08:22:40",
+  "publishthisblog": false,
+  "startedarticle": true,
+  "finishedarticle": true,
+  "hascaptions": false
+}

@@ -1,1 +1,14 @@
-{"facts":{"rating":1,"build":"1875","abandoned":"","visited":"2017-03-01","demolished":"","reused":"","map":"dbba"},"sources":[]}
+{
+  "gallerytype": "maps",
+  "hasfacts": true,
+  "facts": {
+    "rating": 1,
+    "build": "1875",
+    "abandoned": "",
+    "visited": "2017-03-01",
+    "demolished": "",
+    "reused": "",
+    "map": "dbba"
+  },
+  "sources": []
+}
