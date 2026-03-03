@@ -3918,10 +3918,10 @@
     "route": "bhd",
     "cardname": "Hochfelder brug",
     "progress": 100,
-    "comment": "Something went wrong checking the images.json in the cms folder.",
+    "comment": " Published successfully on 03/03/2026 11:16:51",
     "category": "brug",
     "language": "nederlands",
-    "priority": "ready"
+    "priority": "online"
   },
   {
     "route": "mdbh",
@@ -3936,10 +3936,10 @@
     "route": "wmh",
     "cardname": "Holtheyder molen",
     "progress": 100,
-    "comment": "",
+    "comment": " Published successfully on 03/03/2026 11:16:52",
     "category": "gebouw",
     "language": "nederlands",
-    "priority": "ready"
+    "priority": "online"
   },
   {
     "route": "mdnr",

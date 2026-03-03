@@ -1,7 +1,7 @@
 {
-  "priority": "ready",
-  "comment": "Something went wrong checking the images.json in the cms folder.",
-  "publishthisblog": true,
+  "priority": "online",
+  "comment": " Published successfully on 03/03/2026 11:16:51",
+  "publishthisblog": false,
   "startedarticle": true,
   "finishedarticle": true,
   "hascaptions": false
