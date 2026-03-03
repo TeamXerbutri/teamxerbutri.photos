@@ -3918,10 +3918,10 @@
     "route": "bhd",
     "cardname": "Hochfelder brug",
     "progress": 100,
-    "comment": "Foto's uitzoeken en bewerkenThe number of images in the cms folder does not match the number of images in the images.json file in the cms folder. Please check the images in cms, maybe you forgot to copy files, or you may have to create a new images.json.  Published successfully on 03/03/2026 08:22:40",
+    "comment": "Something went wrong checking the images.json in the cms folder.",
     "category": "brug",
     "language": "nederlands",
-    "priority": "online"
+    "priority": "ready"
   },
   {
     "route": "mdbh",
@@ -3936,10 +3936,10 @@
     "route": "wmh",
     "cardname": "Holtheyder molen",
     "progress": 100,
-    "comment": "The number of images in the cms folder does not match the number of images in the images.json file in the cms folder. Please check the images in cms, maybe you forgot to copy files, or you may have to create a new images.json.  Published successfully on 03/03/2026 08:22:40",
+    "comment": "",
     "category": "gebouw",
     "language": "nederlands",
-    "priority": "online"
+    "priority": "ready"
   },
   {
     "route": "mdnr",
