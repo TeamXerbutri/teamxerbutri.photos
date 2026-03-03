@@ -75,10 +75,10 @@
     "route": "fsb",
     "cardname": "Scierie B",
     "progress": 100,
-    "comment": "Newly added blog",
+    "comment": "Newly added blog Published successfully on 03/03/2026 08:22:39",
     "category": "gebouw",
     "language": "nederlands",
-    "priority": "ready"
+    "priority": "online"
   },
   {
     "route": "vdfd",
@@ -2082,7 +2082,7 @@
     "route": "skhz",
     "cardname": "Koolmijn Zolder",
     "progress": 100,
-    "comment": "Automatische import uit versie 4. In die vorm publish-klaar. ",
+    "comment": "Automatische import uit versie 4. In die vorm publish-klaar.  Published successfully on 03/03/2026 08:22:39",
     "category": "gebouw",
     "language": "nederlands",
     "priority": "online"
@@ -2091,7 +2091,7 @@
     "route": "skbe",
     "cardname": "Koolmijn Beringen",
     "progress": 100,
-    "comment": "Automatische import uit versie 4. In die vorm publish-klaar. ",
+    "comment": "Automatische import uit versie 4. In die vorm publish-klaar.  Published successfully on 03/03/2026 08:22:39",
     "category": "gebouw",
     "language": "nederlands",
     "priority": "online"
@@ -3540,10 +3540,10 @@
     "route": "sknd",
     "cardname": "Kolenmijn Noord",
     "progress": 100,
-    "comment": "",
+    "comment": " Published successfully on 03/03/2026 08:22:39",
     "category": "gebouw",
     "language": "nederlands",
-    "priority": "ready"
+    "priority": "online"
   },
   {
     "route": "skge",
@@ -3567,7 +3567,7 @@
     "route": "skpo",
     "cardname": "Schacht Polsum",
     "progress": 100,
-    "comment": "",
+    "comment": " Published successfully on 03/03/2026 08:22:39",
     "category": "gebouw",
     "language": "nederlands",
     "priority": "online"
@@ -3576,7 +3576,7 @@
     "route": "skpot",
     "cardname": "Schacht Polsum II",
     "progress": 100,
-    "comment": "",
+    "comment": " Published successfully on 03/03/2026 08:22:39",
     "category": "gebouw",
     "language": "nederlands",
     "priority": "online"
@@ -3918,28 +3918,28 @@
     "route": "bhd",
     "cardname": "Hochfelder brug",
     "progress": 100,
-    "comment": "Foto's uitzoeken en bewerken",
+    "comment": "Foto's uitzoeken en bewerkenThe number of images in the cms folder does not match the number of images in the images.json file in the cms folder. Please check the images in cms, maybe you forgot to copy files, or you may have to create a new images.json.  Published successfully on 03/03/2026 08:22:40",
     "category": "brug",
     "language": "nederlands",
-    "priority": "ready"
+    "priority": "online"
   },
   {
     "route": "mdbh",
     "cardname": "Munitiedepot Str",
     "progress": 100,
-    "comment": "",
+    "comment": " Published successfully on 03/03/2026 08:22:40",
     "category": "gebouw",
     "language": "nederlands",
-    "priority": "ready"
+    "priority": "online"
   },
   {
     "route": "wmh",
     "cardname": "Holtheyder molen",
     "progress": 100,
-    "comment": "",
+    "comment": "The number of images in the cms folder does not match the number of images in the images.json file in the cms folder. Please check the images in cms, maybe you forgot to copy files, or you may have to create a new images.json.  Published successfully on 03/03/2026 08:22:40",
     "category": "gebouw",
     "language": "nederlands",
-    "priority": "ready"
+    "priority": "online"
   },
   {
     "route": "mdnr",
