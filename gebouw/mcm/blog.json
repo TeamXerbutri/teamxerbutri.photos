@@ -1,13 +1,1 @@
-{
-  "gallerytype": "images",
-  "hasfacts": true,
-  "facts": {
-    "rating": 5,
-    "build": "",
-    "abandoned": "",
-    "visited": "2025-05-29",
-    "demolished": "",
-    "reused": ""
-  },
-  "sources": []
-}
+{"gallerytype":"images","hasfacts":true,"facts":{"rating":5,"build":"1545","visited":"2025-05-29"},"sources":[]}
