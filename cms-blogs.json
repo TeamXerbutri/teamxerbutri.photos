@@ -93,10 +93,10 @@
     "route": "mcm",
     "cardname": "Montmédy",
     "progress": 100,
-    "comment": "",
+    "comment": " Published successfully on 12/03/2026 20:43:41",
     "category": "gebouw",
     "language": "nederlands",
-    "priority": "ready"
+    "priority": "online"
   },
   {
     "route": "mfft",
@@ -3981,19 +3981,19 @@
     "route": "zhpmb",
     "cardname": "Boerderij HzPark",
     "progress": 100,
-    "comment": "",
+    "comment": " Published successfully on 12/03/2026 20:43:41",
     "category": "gebouw",
     "language": "nederlands",
-    "priority": "ready"
+    "priority": "online"
   },
   {
     "route": "zhpm",
     "cardname": "Het Spookhuis",
     "progress": 100,
-    "comment": "",
+    "comment": " Published successfully on 12/03/2026 20:43:41",
     "category": "gebouw",
     "language": "nederlands",
-    "priority": "ready"
+    "priority": "online"
   },
   {
     "route": "sknd2",
