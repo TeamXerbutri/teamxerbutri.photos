@@ -1,13 +1,1 @@
-{
-  "gallerytype": "images",
-  "hasfacts": true,
-  "facts": {
-    "rating": 5,
-    "build": "",
-    "abandoned": "",
-    "visited": "2025-05-29",
-    "demolished": "",
-    "reused": ""
-  },
-  "sources": []
-}
+{"gallerytype":"images","hasfacts":true,"facts":{"rating":5,"build":"1545","visited":"2025-05-29"},"sources":[{"title":"Citadelle de Montmédy Wikipédia","url":"https://fr.wikipedia.org/wiki/Citadelle_de_Montm%C3%A9dy","date":"2026-03-06"}]}

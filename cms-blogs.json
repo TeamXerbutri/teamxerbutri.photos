@@ -92,11 +92,11 @@
   {
     "route": "mcm",
     "cardname": "Montmédy",
-    "progress": 65,
-    "comment": "Newly added blog",
+    "progress": 100,
+    "comment": " Published successfully on 12/03/2026 20:43:41",
     "category": "gebouw",
     "language": "nederlands",
-    "priority": "high"
+    "priority": "online"
   },
   {
     "route": "mfft",
@@ -3979,21 +3979,21 @@
   },
   {
     "route": "zhpmb",
-    "cardname": "Herzpark Farm",
-    "progress": 65,
-    "comment": "",
+    "cardname": "Boerderij HzPark",
+    "progress": 100,
+    "comment": " Published successfully on 12/03/2026 20:43:41",
     "category": "gebouw",
     "language": "nederlands",
-    "priority": "high"
+    "priority": "online"
   },
   {
     "route": "zhpm",
-    "cardname": "Haunted Mansion",
-    "progress": 65,
-    "comment": "",
+    "cardname": "Het Spookhuis",
+    "progress": 100,
+    "comment": " Published successfully on 12/03/2026 20:43:41",
     "category": "gebouw",
     "language": "nederlands",
-    "priority": "high"
+    "priority": "online"
   },
   {
     "route": "sknd2",
