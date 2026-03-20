@@ -3952,21 +3952,21 @@
   },
   {
     "route": "bhd2",
-    "cardname": "Hochfelder brug",
-    "progress": 65,
-    "comment": "",
+    "cardname": "Hochfelder brug 2",
+    "progress": 100,
+    "comment": " Published successfully on 20/03/2026 17:57:34",
     "category": "brug",
     "language": "nederlands",
-    "priority": "high"
+    "priority": "online"
   },
   {
     "route": "oqs",
     "cardname": "Royal Queens School",
-    "progress": 55,
-    "comment": "",
+    "progress": 100,
+    "comment": " Published successfully on 20/03/2026 17:57:34",
     "category": "gebouw",
     "language": "nederlands",
-    "priority": "high"
+    "priority": "online"
   },
   {
     "route": "frea",
@@ -3981,7 +3981,7 @@
     "route": "zhpmb",
     "cardname": "Boerderij HzPark",
     "progress": 100,
-    "comment": " Published successfully on 12/03/2026 20:43:41",
+    "comment": " Published successfully on 20/03/2026 17:57:34",
     "category": "gebouw",
     "language": "nederlands",
     "priority": "online"
@@ -3990,7 +3990,7 @@
     "route": "zhpm",
     "cardname": "Het Spookhuis",
     "progress": 100,
-    "comment": " Published successfully on 12/03/2026 20:43:41",
+    "comment": " Published successfully on 20/03/2026 17:57:34",
     "category": "gebouw",
     "language": "nederlands",
     "priority": "online"
