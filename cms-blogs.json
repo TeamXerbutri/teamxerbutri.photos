@@ -20,11 +20,11 @@
   {
     "route": "dknn",
     "cardname": "Norre Nebel",
-    "progress": 52,
-    "comment": "Newly added blog",
+    "progress": 100,
+    "comment": "",
     "category": "spoor",
     "language": "nederlands",
-    "priority": "high"
+    "priority": "ready"
   },
   {
     "route": "f195",
