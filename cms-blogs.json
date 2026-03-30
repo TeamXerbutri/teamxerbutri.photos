@@ -110,11 +110,11 @@
   {
     "route": "f88a",
     "cardname": "F88 Meuse",
-    "progress": 52,
+    "progress": 100,
     "comment": "Klaar.",
     "category": "spoor",
     "language": "nederlands",
-    "priority": "high"
+    "priority": "ready"
   },
   {
     "route": "l49",
