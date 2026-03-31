@@ -3,6 +3,6 @@
   "comment": "Newly added blog",
   "publishthisblog": false,
   "startedarticle": true,
-  "finishedarticle": false,
+  "finishedarticle": true,
   "hascaptions": false
 }
