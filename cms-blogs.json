@@ -11,11 +11,11 @@
   {
     "route": "l55a",
     "cardname": "Eeklo 55A",
-    "progress": 70,
-    "comment": "remove one image",
+    "progress": 100,
+    "comment": "",
     "category": "spoor",
     "language": "nederlands",
-    "priority": "high"
+    "priority": "ready"
   },
   {
     "route": "dknn",
