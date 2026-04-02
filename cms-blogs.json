@@ -12,19 +12,19 @@
     "route": "l55a",
     "cardname": "Eeklo 55A",
     "progress": 100,
-    "comment": "",
+    "comment": " Published successfully on 02/04/2026 08:19:06",
     "category": "spoor",
     "language": "nederlands",
-    "priority": "ready"
+    "priority": "online"
   },
   {
     "route": "dknn",
     "cardname": "Norre Nebel",
     "progress": 100,
-    "comment": "",
+    "comment": " Published successfully on 02/04/2026 08:19:06",
     "category": "spoor",
     "language": "nederlands",
-    "priority": "ready"
+    "priority": "online"
   },
   {
     "route": "f195",
@@ -111,10 +111,10 @@
     "route": "f88a",
     "cardname": "F88 Meuse",
     "progress": 100,
-    "comment": "Klaar.",
+    "comment": "Klaar. Published successfully on 02/04/2026 08:19:07",
     "category": "spoor",
     "language": "nederlands",
-    "priority": "ready"
+    "priority": "online"
   },
   {
     "route": "l49",
