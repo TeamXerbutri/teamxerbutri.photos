@@ -11,20 +11,20 @@
   {
     "route": "l55a",
     "cardname": "Eeklo 55A",
-    "progress": 52,
-    "comment": "Newly added blog",
+    "progress": 100,
+    "comment": " Published successfully on 02/04/2026 08:19:06",
     "category": "spoor",
     "language": "nederlands",
-    "priority": "high"
+    "priority": "online"
   },
   {
     "route": "dknn",
     "cardname": "Norre Nebel",
-    "progress": 52,
-    "comment": "Newly added blog",
+    "progress": 100,
+    "comment": " Published successfully on 02/04/2026 08:19:06",
     "category": "spoor",
     "language": "nederlands",
-    "priority": "high"
+    "priority": "online"
   },
   {
     "route": "f195",
@@ -92,11 +92,11 @@
   {
     "route": "mcm",
     "cardname": "Montmédy",
-    "progress": 65,
-    "comment": "Newly added blog",
+    "progress": 100,
+    "comment": " Published successfully on 12/03/2026 20:43:41",
     "category": "gebouw",
     "language": "nederlands",
-    "priority": "high"
+    "priority": "online"
   },
   {
     "route": "mfft",
@@ -110,11 +110,11 @@
   {
     "route": "f88a",
     "cardname": "F88 Meuse",
-    "progress": 52,
-    "comment": "Klaar.",
+    "progress": 100,
+    "comment": "Klaar. Published successfully on 02/04/2026 08:19:07",
     "category": "spoor",
     "language": "nederlands",
-    "priority": "high"
+    "priority": "online"
   },
   {
     "route": "l49",
@@ -3540,7 +3540,7 @@
     "route": "sknd",
     "cardname": "Kolenmijn Noord",
     "progress": 100,
-    "comment": " Published successfully on 03/03/2026 08:22:39",
+    "comment": " Published successfully on 05/03/2026 19:58:10",
     "category": "gebouw",
     "language": "nederlands",
     "priority": "online"
@@ -3918,7 +3918,7 @@
     "route": "bhd",
     "cardname": "Hochfelder brug",
     "progress": 100,
-    "comment": "Foto's uitzoeken en bewerkenThe number of images in the cms folder does not match the number of images in the images.json file in the cms folder. Please check the images in cms, maybe you forgot to copy files, or you may have to create a new images.json.  Published successfully on 03/03/2026 08:22:40",
+    "comment": " Published successfully on 03/03/2026 11:16:51",
     "category": "brug",
     "language": "nederlands",
     "priority": "online"
@@ -3936,7 +3936,7 @@
     "route": "wmh",
     "cardname": "Holtheyder molen",
     "progress": 100,
-    "comment": "The number of images in the cms folder does not match the number of images in the images.json file in the cms folder. Please check the images in cms, maybe you forgot to copy files, or you may have to create a new images.json.  Published successfully on 03/03/2026 08:22:40",
+    "comment": " Published successfully on 03/03/2026 11:16:52",
     "category": "gebouw",
     "language": "nederlands",
     "priority": "online"
@@ -3952,21 +3952,21 @@
   },
   {
     "route": "bhd2",
-    "cardname": "Hochfelder brug",
-    "progress": 65,
-    "comment": "",
+    "cardname": "Hochfelder brug 2",
+    "progress": 100,
+    "comment": " Published successfully on 20/03/2026 17:57:34",
     "category": "brug",
     "language": "nederlands",
-    "priority": "high"
+    "priority": "online"
   },
   {
     "route": "oqs",
     "cardname": "Royal Queens School",
-    "progress": 55,
-    "comment": "",
+    "progress": 100,
+    "comment": " Published successfully on 20/03/2026 17:57:34",
     "category": "gebouw",
     "language": "nederlands",
-    "priority": "high"
+    "priority": "online"
   },
   {
     "route": "frea",
@@ -3979,29 +3979,29 @@
   },
   {
     "route": "zhpmb",
-    "cardname": "Herzpark Farm",
-    "progress": 65,
-    "comment": "",
+    "cardname": "Boerderij HzPark",
+    "progress": 100,
+    "comment": " Published successfully on 20/03/2026 17:57:34",
     "category": "gebouw",
     "language": "nederlands",
-    "priority": "high"
+    "priority": "online"
   },
   {
     "route": "zhpm",
-    "cardname": "Haunted Mansion",
-    "progress": 65,
-    "comment": "",
+    "cardname": "Het Spookhuis",
+    "progress": 100,
+    "comment": " Published successfully on 20/03/2026 17:57:34",
     "category": "gebouw",
     "language": "nederlands",
-    "priority": "high"
+    "priority": "online"
   },
   {
     "route": "sknd2",
-    "cardname": "SK Noord 2",
-    "progress": 65,
-    "comment": "",
+    "cardname": "SK Noord 2026",
+    "progress": 100,
+    "comment": " Published successfully on 05/03/2026 19:58:10",
     "category": "gebouw",
     "language": "nederlands",
-    "priority": "high"
+    "priority": "online"
   }
 ]
