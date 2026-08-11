@@ -3971,11 +3971,11 @@
   {
     "route": "frea",
     "cardname": "REA fabriek",
-    "progress": 65,
+    "progress": 100,
     "comment": "",
     "category": "gebouw",
     "language": "nederlands",
-    "priority": "high"
+    "priority": "ready"
   },
   {
     "route": "zhpmb",
