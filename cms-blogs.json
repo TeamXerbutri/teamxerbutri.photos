@@ -3944,11 +3944,11 @@
   {
     "route": "mdnr",
     "cardname": "Nederrijn kazerne",
-    "progress": 65,
-    "comment": "Foto's uitzoeken",
+    "progress": 100,
+    "comment": " Published successfully on 11/08/2026 15:26:53",
     "category": "gebouw",
     "language": "nederlands",
-    "priority": "high"
+    "priority": "online"
   },
   {
     "route": "bhd2",
@@ -3971,11 +3971,11 @@
   {
     "route": "frea",
     "cardname": "REA fabriek",
-    "progress": 65,
-    "comment": "",
+    "progress": 100,
+    "comment": " Published successfully on 11/08/2026 15:26:53",
     "category": "gebouw",
     "language": "nederlands",
-    "priority": "high"
+    "priority": "online"
   },
   {
     "route": "zhpmb",
