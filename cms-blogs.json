@@ -3944,11 +3944,11 @@
   {
     "route": "mdnr",
     "cardname": "Nederrijn kazerne",
-    "progress": 65,
-    "comment": "Foto's uitzoeken",
+    "progress": 100,
+    "comment": "",
     "category": "gebouw",
     "language": "nederlands",
-    "priority": "high"
+    "priority": "ready"
   },
   {
     "route": "bhd2",
