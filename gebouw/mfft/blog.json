@@ -1,13 +1,1 @@
-{
-  "gallerytype": "images",
-  "hasfacts": true,
-  "facts": {
-    "rating": 5,
-    "build": "",
-    "abandoned": "",
-    "visited": "2025-05-31",
-    "demolished": "",
-    "reused": ""
-  },
-  "sources": []
-}
+{"gallerytype":"images","hasfacts":true,"facts":{"rating":3,"build":"1887","abandoned":"1946","visited":"2025-05-31","length":""},"sources":[{"title":"Ouvrage de Froidterre - wikipedia [F] ","url":"https://fr.wikipedia.org/wiki/Ouvrage_de_Froideterre","date":"2026-10-09"}]}
