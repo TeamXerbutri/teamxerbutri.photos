@@ -4003,5 +4003,32 @@
     "category": "gebouw",
     "language": "nederlands",
     "priority": "online"
+  },
+  {
+    "route": "vvs",
+    "cardname": "Dorf Vogelsang",
+    "progress": 50,
+    "comment": "Foto's uitzoeken en bewerken. Avontuur verhaal afmaken.",
+    "category": "gebouw",
+    "language": "nederlands",
+    "priority": "high"
+  },
+  {
+    "route": "vws",
+    "cardname": "Dorf Wollseifen",
+    "progress": 0,
+    "comment": "Foto's uitzoeken, artikel schrijven",
+    "category": "gebouw",
+    "language": "nederlands",
+    "priority": "high"
+  },
+  {
+    "route": "mvs",
+    "cardname": "Burg Vogelsang",
+    "progress": 65,
+    "comment": "Fotos uitzoeken, artikel schrijven",
+    "category": "gebouw",
+    "language": "nederlands",
+    "priority": "low"
   }
 ]
