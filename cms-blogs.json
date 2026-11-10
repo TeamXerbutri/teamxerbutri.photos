@@ -4007,8 +4007,8 @@
   {
     "route": "vvs",
     "cardname": "Dorf Vogelsang",
-    "progress": 50,
-    "comment": "Foto's uitzoeken en bewerken. Avontuur verhaal afmaken.",
+    "progress": 60,
+    "comment": "Thumbnails maken. Avontuur verhaal afmaken.",
     "category": "gebouw",
     "language": "nederlands",
     "priority": "high"
@@ -4016,8 +4016,8 @@
   {
     "route": "vws",
     "cardname": "Dorf Wollseifen",
-    "progress": 0,
-    "comment": "Foto's uitzoeken, artikel schrijven",
+    "progress": 60,
+    "comment": "Thumbnails maken, artikel schrijven",
     "category": "gebouw",
     "language": "nederlands",
     "priority": "high"
@@ -4025,10 +4025,10 @@
   {
     "route": "mvs",
     "cardname": "Burg Vogelsang",
-    "progress": 50,
-    "comment": "Fotos uitzoeken, artikel schrijven",
+    "progress": 55,
+    "comment": "Thumbnails, artikel schrijven",
     "category": "gebouw",
     "language": "nederlands",
-    "priority": "low"
+    "priority": "high"
   }
 ]

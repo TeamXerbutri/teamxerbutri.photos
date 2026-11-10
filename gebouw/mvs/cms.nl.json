@@ -1,6 +1,6 @@
 {
-  "priority": "low",
-  "comment": "Fotos uitzoeken, artikel schrijven",
+  "priority": "high",
+  "comment": "Thumbnails, artikel schrijven",
   "publishthisblog": false,
   "startedarticle": true,
   "finishedarticle": false,

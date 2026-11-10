@@ -1,8 +1,8 @@
 {
   "priority": "high",
-  "comment": "Foto's uitzoeken, artikel schrijven",
+  "comment": "Thumbnails maken, artikel schrijven",
   "publishthisblog": false,
-  "startedarticle": false,
+  "startedarticle": true,
   "finishedarticle": false,
   "hascaptions": false
 }
