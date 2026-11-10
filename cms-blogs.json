@@ -4007,11 +4007,11 @@
   {
     "route": "vvs",
     "cardname": "Dorf Vogelsang",
-    "progress": 65,
-    "comment": "Avontuur verhaal afmaken.",
+    "progress": 100,
+    "comment": "",
     "category": "gebouw",
     "language": "nederlands",
-    "priority": "high"
+    "priority": "ready"
   },
   {
     "route": "vws",
